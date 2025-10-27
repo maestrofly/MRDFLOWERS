@@ -1,13 +1,16 @@
 'use client';
 
+import React from "react"
 import Link from "next/link"
 import { ArrowLeft, Droplet, Sun, Thermometer } from "lucide-react"
 import { plants } from "@/lib/plants"
 import { Button } from "@/components/ui/button"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
-export default function PlantPage({ params }: { params: { id: string } }) {
-  const plant = plants.find((p) => p.id === params.id)
+export default function PlantPage({ params }: { params: { id: string } } | any) {
+  const { id } = React.use(params) // ✅ unwrap the awaitable `params`
+
+  const plant = plants.find((p) => p.id === id)
 
   if (!plant) {
     return (

@@ -35,9 +35,9 @@ export default function AboutPage() {
               </div>
               <h2 className="text-3xl font-bold tracking-tight">Bringing Nature Into Your Home</h2>
               <p className="text-gray-500 md:text-lg">
-                Green Haven was founded in 2018 with a simple mission: to help people connect with nature through
-                beautiful, healthy plants. We believe that everyone deserves to experience the joy and benefits of
-                living with plants, regardless of their experience level or living situation.
+                MRD FLOWERS was born during the quiet days of the 2020 lockdown — a time when the world slowed down, and many of us rediscovered the peace that nature brings. What began as a simple love for nurturing plants grew into a mission: to help people reconnect with nature, one plant at a time.
+
+At MRD FLOWERS, we believe everyone deserves to experience the calm, beauty, and spiritual balance that comes from living with plants — no matter your space, lifestyle, or experience level. Each plant we offer is chosen not only for its beauty but also for its ability to heal, energize, and transform the spaces we live in.
               </p>
               <p className="text-gray-500 md:text-lg">
                 What sets us apart is our commitment to education. We don't just sell plants—we provide comprehensive
@@ -124,23 +124,23 @@ export default function AboutPage() {
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Meet Our Team</h2>
               <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                The plant enthusiasts behind Green Haven.
+                The plant enthusiasts behind MRD FLOWERS.
               </p>
             </div>
             <div className="mx-auto grid max-w-5xl grid-cols-1 gap-8 pt-12 md:grid-cols-3">
               <div className="flex flex-col items-center space-y-4">
                 <img
                   src="https://placehold.co/200x200/f8faf5/4ade80?text=SJ"
-                  alt="Sarah Johnson"
+                  alt="Maria Jose Alberto Darku"
                   className="rounded-full object-cover h-32 w-32"
                   width={128}
                   height={128}
                 />
                 <div className="space-y-2 text-center">
-                  <h3 className="text-xl font-bold">Sarah Johnson</h3>
+                  <h3 className="text-xl font-bold">Maria Jose Alberto Darku</h3>
                   <p className="text-sm text-green-600">Founder & Plant Expert</p>
                   <p className="text-sm text-gray-500">
-                    With over 15 years of experience in horticulture, Sarah founded Green Haven to share her passion for
+                    With over 25 years of experience in horticulture, Maria founded MRD Flowers to share her passion for
                     plants.
                   </p>
                 </div>
@@ -154,10 +154,10 @@ export default function AboutPage() {
                   height={128}
                 />
                 <div className="space-y-2 text-center">
-                  <h3 className="text-xl font-bold">Michael Chen</h3>
+                  <h3 className="text-xl font-bold">Raymond Darku</h3>
                   <p className="text-sm text-green-600">Botanist & Care Specialist</p>
                   <p className="text-sm text-gray-500">
-                    Michael's botanical expertise ensures that our care guides and propagation methods are
+                    Raymond's botanical expertise ensures that our care guides and propagation methods are
                     scientifically sound.
                   </p>
                 </div>
@@ -171,10 +171,10 @@ export default function AboutPage() {
                   height={128}
                 />
                 <div className="space-y-2 text-center">
-                  <h3 className="text-xl font-bold">Aisha Patel</h3>
+                  <h3 className="text-xl font-bold">Derrick Alberto Darku</h3>
                   <p className="text-sm text-green-600">Sustainability Director</p>
                   <p className="text-sm text-gray-500">
-                    Aisha leads our sustainability initiatives, ensuring our practices are environmentally responsible.
+                    Derrick leads our sustainability initiatives, ensuring our practices are environmentally responsible.
                   </p>
                 </div>
               </div>
