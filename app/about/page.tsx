@@ -130,7 +130,7 @@ At MRD FLOWERS, we believe everyone deserves to experience the calm, beauty, and
             <div className="mx-auto grid max-w-5xl grid-cols-1 gap-8 pt-12 md:grid-cols-3">
               <div className="flex flex-col items-center space-y-4">
                 <img
-                  src="https://placehold.co/200x200/f8faf5/4ade80?text=SJ"
+                  src="https://placehold.co/200x200/f8faf5/4ade80?text=MJ"
                   alt="Maria Jose Alberto Darku"
                   className="rounded-full object-cover h-32 w-32"
                   width={128}
@@ -147,8 +147,8 @@ At MRD FLOWERS, we believe everyone deserves to experience the calm, beauty, and
               </div>
               <div className="flex flex-col items-center space-y-4">
                 <img
-                  src="https://placehold.co/200x200/f8faf5/4ade80?text=MC"
-                  alt="Michael Chen"
+                  src="https://placehold.co/200x200/f8faf5/4ade80?text=RD"
+                  alt="Raymond Darku"
                   className="rounded-full object-cover h-32 w-32"
                   width={128}
                   height={128}
@@ -164,8 +164,8 @@ At MRD FLOWERS, we believe everyone deserves to experience the calm, beauty, and
               </div>
               <div className="flex flex-col items-center space-y-4">
                 <img
-                  src="https://placehold.co/200x200/f8faf5/4ade80?text=AP"
-                  alt="Aisha Patel"
+                  src="https://placehold.co/200x200/f8faf5/4ade80?text=DD"
+                  alt="Derrick Alberto Darku"
                   className="rounded-full object-cover h-32 w-32"
                   width={128}
                   height={128}
