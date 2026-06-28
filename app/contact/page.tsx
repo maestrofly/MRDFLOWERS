@@ -113,9 +113,30 @@ export default function ContactPage() {
           </div>
           <div className="mx-auto mt-8 max-w-5xl rounded-lg overflow-hidden">
             {/* This would be replaced with an actual map in a real implementation */}
-            <div className="aspect-video bg-gray-200 flex items-center justify-center">
-              <p className="text-gray-500">Interactive Map Would Be Here</p>
-            </div>
+            <div className="aspect-video">
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4901.351154676121!2d-0.2664443241502696!3d5.6090657943718645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdf992107f5ec67%3A0x547281a322bcd0b9!2sMRD%20FLOWERS!5e1!3m2!1sen!2sgh!4v1782652441660!5m2!1sen!2sgh"
+    width="100%"
+    height="100%"
+    style={{ border: 0 }}
+    allowFullScreen
+    loading="lazy"
+    referrerPolicy="strict-origin-when-cross-origin"
+    title="MRD Flowers Location"
+    className="rounded-lg"
+  />
+</div>
+<div className="mt-6 flex justify-center">
+  <a
+    href="https://maps.app.goo.gl/spw7TXDGYVqA3bkR6"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <Button className="bg-green-600 hover:bg-green-700">
+      Get Directions
+    </Button>
+  </a>
+</div>
           </div>
         </div>
       </section>

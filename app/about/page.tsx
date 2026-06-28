@@ -22,8 +22,8 @@ export default function AboutPage() {
           <div className="grid gap-10 lg:grid-cols-2 lg:gap-16">
             <div>
               <img
-                src="https://placehold.co/600x400/f8faf5/4ade80?text=Store+Interior"
-                alt="Green Haven store interior"
+                src="/plants/store.jpeg"
+                alt="Mrdflower store interior"
                 className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
                 width={600}
                 height={400}
@@ -55,7 +55,7 @@ At MRD FLOWERS, we believe everyone deserves to experience the calm, beauty, and
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Our Values</h2>
               <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                The principles that guide everything we do at Green Haven.
+                The principles that guide everything we do at MRD FLOWERS.
               </p>
             </div>
             <div className="mx-auto grid max-w-5xl grid-cols-1 gap-8 pt-12 md:grid-cols-3">
@@ -130,7 +130,7 @@ At MRD FLOWERS, we believe everyone deserves to experience the calm, beauty, and
             <div className="mx-auto grid max-w-5xl grid-cols-1 gap-8 pt-12 md:grid-cols-3">
               <div className="flex flex-col items-center space-y-4">
                 <img
-                  src="https://placehold.co/200x200/f8faf5/4ade80?text=MJ"
+                  src="/plants/MD.jpeg"
                   alt="Maria Jose Alberto Darku"
                   className="rounded-full object-cover h-32 w-32"
                   width={128}
@@ -147,7 +147,7 @@ At MRD FLOWERS, we believe everyone deserves to experience the calm, beauty, and
               </div>
               <div className="flex flex-col items-center space-y-4">
                 <img
-                  src="https://placehold.co/200x200/f8faf5/4ade80?text=RD"
+                  src="/plants/RD.jpeg"
                   alt="Raymond Darku"
                   className="rounded-full object-cover h-32 w-32"
                   width={128}
@@ -164,7 +164,7 @@ At MRD FLOWERS, we believe everyone deserves to experience the calm, beauty, and
               </div>
               <div className="flex flex-col items-center space-y-4">
                 <img
-                  src="https://placehold.co/200x200/f8faf5/4ade80?text=DD"
+                  src="/plants/DD.jpeg"
                   alt="Derrick Alberto Darku"
                   className="rounded-full object-cover h-32 w-32"
                   width={128}
