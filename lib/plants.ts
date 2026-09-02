@@ -478,4 +478,80 @@ export const plants: Plant[] = [
     }
   ]
 },
+{
+  id: "chinese-evergreen",
+  name: "Chinese Evergreen",
+  scientificName: "Aglaonema spp.",
+  category: "Indoor Plant",
+  careLevel: "Easy",
+
+  shortDescription:
+    "A versatile, shade-tolerant indoor plant valued for its attractive foliage and ability to adapt to a range of indoor conditions.",
+
+  description:
+    "Chinese Evergreen is a popular indoor plant known for its attractive foliage, adaptability and relatively easy care. Different Aglaonema varieties can display green, silver, cream or patterned leaves, making them an excellent way to add texture and colour to homes, offices and other indoor spaces. They generally prefer warm conditions, moderate to bright indirect light and evenly moist but well-draining soil.",
+
+  image: "/plants/chinese-evergreen.jpg",
+
+  light: "Low to bright indirect light",
+  water: "About once a week, allowing the top layer of soil to dry slightly",
+  temperature: "65–80°F",
+
+  careGuide: [
+    "Place your Chinese Evergreen in low to bright indirect light. Avoid strong, prolonged direct sunlight because it can scorch the leaves. Variegated varieties generally benefit from brighter indirect light to maintain their patterns.",
+    
+    "Water when the top layer of soil feels slightly dry. Water thoroughly until excess water drains from the bottom of the pot, then allow the plant to drain completely.",
+    
+    "Avoid keeping the soil constantly waterlogged. Use a pot with drainage holes and a well-draining indoor potting mix to help maintain a healthy root environment.",
+    
+    "Chinese Evergreen prefers warm indoor conditions and generally performs best away from cold drafts, strong air-conditioning and sudden temperature changes.",
+    
+    "Normal household humidity is usually suitable, although the plant can appreciate additional humidity when the surrounding air is particularly dry.",
+    
+    "Feed during the active growing season with a balanced indoor-plant fertilizer according to the product instructions. Avoid excessive feeding.",
+    
+    "Remove yellow, damaged or aging leaves with clean scissors. Regularly wiping the leaves with a soft, damp cloth can also help keep the foliage clean and attractive."
+  ],
+
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Chinese Evergreen can be propagated from healthy stem cuttings. Cut a section of stem containing healthy growth and place it in water or a suitable propagation medium until roots develop. Once the roots are established, transfer the cutting into well-draining potting soil."
+    },
+    {
+      method: "Division",
+      description:
+        "Mature Chinese Evergreen plants can sometimes be divided when repotting. Carefully separate sections of the plant with their own roots and foliage, then plant each division into a suitable container."
+    }
+  ],
+
+  benefits: [
+    {
+      title: "Beginner Friendly",
+      description:
+        "Chinese Evergreen is adaptable and relatively easy to maintain, making it a suitable choice for people who are new to indoor plants."
+    },
+    {
+      title: "Tolerates Lower Light",
+      description:
+        "Many Aglaonema varieties can adapt to lower-light indoor environments, although growth and leaf colour can vary depending on the variety and available light."
+    },
+    {
+      title: "Attractive Foliage",
+      description:
+        "Its foliage can feature different shades of green, silver, cream and natural patterns, providing visual interest without relying on flowers."
+    },
+    {
+      title: "Suitable for Indoor Spaces",
+      description:
+        "Its adaptable growth makes Chinese Evergreen a practical choice for homes, offices and other warm indoor environments."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Established plants can be propagated through stem cuttings or division, allowing healthy plants to produce new specimens."
+    }
+  ]
+},
 ]
