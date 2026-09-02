@@ -397,4 +397,85 @@ export const plants: Plant[] = [
       },
     ],
   },
+  {
+  id: "spider-plant",
+  name: "Spider Plant",
+  scientificName: "Chlorophytum comosum",
+  category: "Indoor Plant",
+  careLevel: "Easy",
+
+  shortDescription:
+    "A fast-growing, adaptable houseplant known for its arching leaves and baby plantlets that grow from long stems.",
+
+  description:
+    "Spider Plant is one of the most adaptable and beginner-friendly houseplants you can grow. Its long, arching leaves create a graceful display, while mature plants produce long stems carrying small baby plantlets, giving the plant its distinctive spider-like appearance. It is well suited to homes, offices and other indoor spaces and can thrive with relatively simple care.",
+
+  image: "/plants/spider-plant.jpg",
+
+  light: "Bright indirect to moderate indirect light",
+  water: "About once a week, or when the top 1–2 inches of soil feels dry",
+  temperature: "60–80°F",
+
+  careGuide: [
+    "Place your Spider Plant in bright, indirect light for strong, healthy growth. It can tolerate moderate or lower light, although growth may be slower and variegated leaves may become less pronounced.",
+    
+    "Water when the top 1–2 inches of soil feels dry. Water thoroughly until excess water drains from the bottom of the pot, then empty any water collected in the saucer.",
+    
+    "Use a well-draining, general-purpose indoor potting mix. Choose a container with drainage holes to reduce the risk of waterlogged soil and root problems.",
+    
+    "Spider Plants generally adapt well to normal indoor humidity. If the air is particularly dry, especially during periods of heavy air conditioning, slightly increasing humidity can help maintain healthy foliage.",
+    
+    "Feed during the active growing season with a balanced houseplant fertilizer according to the product instructions. Avoid excessive fertilization, which can contribute to brown leaf tips.",
+    
+    "Remove dry or damaged leaves with clean scissors. You can also trim brown tips for appearance while keeping the healthy portion of the leaf intact.",
+    
+    "Spider Plants naturally produce long stems with baby plantlets as they mature. These can be left attached for a fuller cascading appearance or used for propagation."
+  ],
+
+  propagation: [
+    {
+      method: "Plantlets (Spiderettes)",
+      description:
+        "The easiest way to propagate a Spider Plant is from the small plantlets that develop on long stems from a mature plant. Once a plantlet has developed roots, carefully separate it from the stem and place it in a small container filled with well-draining potting mix."
+    },
+    {
+      method: "Rooting in Water",
+      description:
+        "A young plantlet can also be placed in water with its developing roots submerged while keeping the leaves above the water. Once a stronger root system develops, transfer the plantlet into well-draining soil."
+    },
+    {
+      method: "Division",
+      description:
+        "Large, mature Spider Plants can be divided into smaller sections. Carefully separate the root mass into sections with healthy roots and foliage, then plant each division in its own container."
+    }
+  ],
+
+  benefits: [
+    {
+      title: "Beginner Friendly",
+      description:
+        "Spider Plant is adaptable and relatively easy to care for, making it a good choice for new plant owners."
+    },
+    {
+      title: "Fast Growing",
+      description:
+        "With suitable light, watering and growing conditions, Spider Plants can produce new foliage and plantlets relatively quickly."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Mature plants naturally produce baby plantlets that can be rooted and grown into new Spider Plants."
+    },
+    {
+      title: "Great for Homes and Offices",
+      description:
+        "Its cascading foliage works well on shelves, desks, plant stands and hanging planters, making it versatile for indoor spaces."
+    },
+    {
+      title: "Attractive Cascading Growth",
+      description:
+        "The long arching leaves and hanging plantlets give Spider Plant a distinctive, full and dynamic appearance."
+    }
+  ]
+},
 ]
