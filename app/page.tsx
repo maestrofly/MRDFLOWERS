@@ -26,7 +26,7 @@ export default function Home() {
     {
       title: "Healing Through Green Living",
       desc: "Every plant carries beauty, balance, and spiritual energy.",
-      img: "/plants/chineseever.jpeg",
+      img: "/plants/chinese-evergreen1.jpeg",
     },
     {
       title: "Grow Calm. Grow Life.",
