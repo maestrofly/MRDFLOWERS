@@ -1,20 +1,43 @@
+export type LightLevel =
+  | "low"
+  | "medium"
+  | "bright-indirect"
+  | "direct-sun"
+
+export type CareLevel =
+  | "easy"
+  | "moderate"
+  | "advanced"
+
+export type WaterLevel =
+  | "low"
+  | "moderate"
+  | "high"
+
+
 export interface Plant {
   id: string
   name: string
   scientificName: string
   category: string
   careLevel: string
+
   shortDescription: string
   description: string
+
   image: string
+
   light: string
   water: string
   temperature: string
+
   careGuide: string[]
+
   propagation: {
     method: string
     description: string
   }[]
+
   benefits: {
     title: string
     description: string
@@ -22,6 +45,70 @@ export interface Plant {
 }
 
 export const plants: Plant[] = [
+  {
+  id: "aloe-vera",
+  name: "Aloe Vera",
+  scientificName: "Aloe barbadensis miller",
+  category: "Succulent",
+  careLevel: "Easy",
+
+  shortDescription:
+    "A hardy, low-maintenance succulent known for its fleshy leaves and distinctive architectural shape.",
+
+  description:
+    "Aloe Vera is a resilient succulent that makes an excellent choice for homes, offices and other bright indoor spaces. Its thick, fleshy leaves store water, allowing the plant to tolerate periods of dryness. With the right light, well-draining soil and careful watering, Aloe Vera can remain healthy and attractive with relatively little maintenance.",
+
+  image: "/plants/aloe-vera.jpg",
+
+  light: "Bright indirect light",
+  water: "Every 2–3 weeks",
+  temperature: "60–85°F",
+
+  careGuide: [
+    "Place Aloe Vera in a bright location where it receives plenty of indirect sunlight. A few hours of gentle direct morning sunlight can also be beneficial.",
+    "Allow the soil to dry out completely between waterings. Aloe Vera stores water in its leaves and is more tolerant of dry conditions than consistently wet soil.",
+    "When watering, thoroughly moisten the soil and allow excess water to drain away completely. Avoid allowing the plant to sit in standing water.",
+    "Use a well-draining succulent or cactus potting mix. A container with drainage holes is important to prevent excess moisture around the roots.",
+    "Remove damaged, dry or unhealthy leaves with clean scissors when necessary to keep the plant looking tidy and healthy."
+  ],
+
+  propagation: [
+    {
+      method: "Offsets",
+      description:
+        "Aloe Vera can be propagated from offsets, also called pups, that develop around the base of a mature plant. Carefully separate a healthy offset with some roots attached and allow any damaged area to dry before planting it in well-draining soil."
+    },
+    {
+      method: "Leaf or stem propagation",
+      description:
+        "Leaf propagation is generally less reliable for Aloe Vera than propagating healthy offsets. For the best chance of success, use established pups from a mature plant."
+    }
+  ],
+
+  benefits: [
+    {
+      title: "Low Maintenance",
+      description:
+        "Aloe Vera is well suited to plant owners who prefer a plant that does not require frequent watering."
+    },
+    {
+      title: "Water Efficient",
+      description:
+        "Its fleshy leaves store water, allowing the plant to tolerate periods of dryness."
+    },
+    {
+      title: "Great for Bright Spaces",
+      description:
+        "Its structured growth and distinctive leaves can add natural character to bright homes, offices and workspaces."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Mature Aloe Vera plants can produce offsets that can be separated and grown into new plants."
+    }
+  ]
+},
+
   {
     id: "monstera-deliciosa",
     name: "Monstera Deliciosa",
@@ -69,6 +156,7 @@ export const plants: Plant[] = [
       },
     ],
   },
+
   {
     id: "snake-plant",
     name: "Snake Plant",
