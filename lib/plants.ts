@@ -554,4 +554,223 @@ export const plants: Plant[] = [
     }
   ]
 },
+{
+  id: "areca-palm",
+  name: "Areca Palm",
+  scientificName: "Dypsis lutescens",
+  category: "Palm",
+  careLevel: "Moderate",
+
+  shortDescription:
+    "A graceful tropical palm with feathery, arching fronds that brings a lush and natural feel to homes, offices and spacious indoor areas.",
+
+  description:
+    "Areca Palm is a popular tropical palm valued for its elegant, feathery fronds and naturally lush appearance. Its clumping growth habit makes it an attractive choice for adding height and greenery to indoor spaces, balconies and sheltered outdoor areas. With bright indirect light, consistent watering and warm conditions, Areca Palm can develop into a beautiful statement plant.",
+
+  image: "/plants/areca-palm.jpg",
+
+  light: "Bright indirect light",
+  water: "About once a week, allowing the top layer of soil to dry slightly",
+  temperature: "65–80°F",
+
+  careGuide: [
+    "Place your Areca Palm in bright, indirect light. It can tolerate some gentle direct morning sunlight, but strong afternoon sunlight can scorch the fronds.",
+
+    "Water when the top layer of soil begins to dry. Water thoroughly until excess water drains from the bottom of the container, then allow the plant to drain completely.",
+
+    "Avoid allowing the root ball to remain constantly saturated. Use a container with drainage holes and a well-draining potting mix to help prevent problems associated with excess moisture.",
+
+    "Areca Palm prefers warm conditions and should be protected from cold drafts, sudden temperature changes and prolonged exposure to strong air-conditioning.",
+
+    "The plant appreciates moderate to higher humidity. If the indoor environment is particularly dry, increasing humidity around the plant can help maintain healthier-looking foliage.",
+
+    "Feed during the active growing season with a balanced palm or indoor-plant fertilizer according to the product instructions. Avoid excessive fertilization.",
+
+    "Trim completely brown or damaged fronds with clean pruning shears. Avoid repeatedly cutting partially green fronds because the plant can continue using healthy portions of the foliage.",
+
+    "Rotate the pot occasionally so that all sides of the plant receive balanced light. This can encourage more even growth."
+  ],
+
+  propagation: [
+    {
+      method: "Division",
+      description:
+        "Areca Palm is commonly propagated by carefully dividing established clumps. During repotting, separate sections that have their own roots and stems, then plant each division into an appropriate container with well-draining soil."
+    },
+    {
+      method: "Seed",
+      description:
+        "Areca Palms can also be grown from seed, although seed propagation takes considerably longer than division and requires suitable warmth, moisture and growing conditions."
+    }
+  ],
+
+  benefits: [
+    {
+      title: "Tropical Appearance",
+      description:
+        "Its feathery, arching fronds create a lush tropical look that can transform the appearance of an indoor or sheltered outdoor space."
+    },
+    {
+      title: "Statement Plant",
+      description:
+        "Areca Palm can add height and structure to a room, making it particularly useful for larger living areas, offices and entrance spaces."
+    },
+    {
+      title: "Versatile Placement",
+      description:
+        "With appropriate light and temperature, Areca Palm can work well in homes, offices, balconies and sheltered outdoor spaces."
+    },
+    {
+      title: "Fast-Growing Under Good Conditions",
+      description:
+        "When provided with suitable light, water, warmth and nutrition, Areca Palm can produce vigorous new growth."
+    },
+    {
+      title: "Adds Natural Texture",
+      description:
+        "Its multiple stems and fine, feather-like fronds provide a distinctive texture that complements a wide range of interior styles."
+    }
+  ]
+},
+{
+  id: "anthurium",
+  name: "Anthurium",
+  scientificName: "Anthurium andraeanum",
+  category: "Flowering Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A striking tropical plant known for its glossy heart-shaped leaves and colourful, long-lasting flowers.",
+  description:
+    "Anthurium is a tropical flowering plant admired for its glossy, heart-shaped foliage and distinctive blooms. Its colourful flowers, which can appear in shades such as red, pink, white and orange depending on the variety, make it an excellent choice for adding a vibrant tropical touch to homes, offices and other warm indoor spaces. With bright indirect light, consistent moisture and good humidity, Anthurium can continue producing attractive foliage and flowers throughout the year.",
+  image: "/plants/anthurium.jpg",
+  light: "Bright indirect light",
+  water: "About once a week, allowing the top inch of soil to dry slightly",
+  temperature: "65–80°F",
+  careGuide: [
+    "Place your Anthurium in bright, indirect light. Good light encourages healthy foliage and flowering, while strong direct sunlight can scorch the leaves.",
+    "Water when the top inch of soil feels slightly dry. Water thoroughly until excess water drains from the bottom of the pot, then allow the plant to drain completely.",
+    "Avoid keeping the soil constantly saturated. Anthuriums prefer consistent moisture but can develop root problems when their roots remain in waterlogged soil.",
+    "Use a loose, well-draining potting mix that allows air to reach the roots. A mixture containing materials such as orchid bark, perlite and quality potting soil can provide suitable drainage and aeration.",
+    "Anthuriums appreciate warm, humid conditions. Keep the plant away from cold drafts, sudden temperature changes and prolonged exposure to strong air-conditioning.",
+    "Feed during the active growing season with a balanced indoor-plant fertilizer according to the product instructions. Avoid excessive fertilization.",
+    "Remove yellow, damaged or fading leaves and flowers using clean scissors or pruning shears. Cutting spent flowers can help keep the plant looking neat.",
+    "Wipe the broad leaves occasionally with a soft, damp cloth to remove dust and help maintain their glossy appearance.",
+    "Rotate the pot occasionally so that the plant receives balanced light and develops more evenly."
+  ],
+  propagation: [
+    {
+      method: "Division",
+      description:
+        "Mature Anthurium plants can be propagated by division when they have developed multiple stems or growth points. Carefully separate sections of the plant with healthy roots attached and place each division into a suitable well-draining potting mix."
+    },
+    {
+      method: "Stem Cuttings",
+      description:
+        "Anthurium can also be propagated from suitable stem sections. A healthy section containing an appropriate growth point can be placed in a suitable propagation medium and kept warm and slightly moist while roots develop."
+    },
+    {
+      method: "Seeds",
+      description:
+        "Anthurium can be grown from seed, although seed propagation is slower and more involved than division. Seeds should be fresh and provided with warm, humid conditions for successful germination."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Flowers",
+      description:
+        "Anthurium produces distinctive colourful blooms that can add a vibrant tropical character to indoor spaces."
+    },
+    {
+      title: "Glossy Foliage",
+      description:
+        "Its large, heart-shaped leaves provide attractive greenery even when the plant is not flowering."
+    },
+    {
+      title: "Long-Lasting Blooms",
+      description:
+        "With suitable growing conditions, Anthurium flowers can remain attractive for an extended period, making the plant a popular decorative choice."
+    },
+    {
+      title: "Tropical Character",
+      description:
+        "Its combination of colourful flowers and glossy foliage creates a strong tropical aesthetic for homes, offices and other warm spaces."
+    },
+    {
+      title: "Excellent Gift Plant",
+      description:
+        "Anthurium's attractive flowers and relatively compact growth make it a popular choice for gifting and special occasions."
+    }
+  ]
+},
+{
+  id: "swiss-cheese-plant",
+  name: "Swiss Cheese Plant",
+  scientificName: "Monstera adansonii",
+  category: "Tropical Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A tropical climbing plant known for its distinctive perforated leaves and lush, fast-growing foliage.",
+  description:
+    "Swiss Cheese Plant is a popular tropical houseplant admired for its naturally perforated leaves, which develop distinctive holes as the plant matures. Its vining and climbing growth habit makes it an excellent choice for shelves, hanging planters, moss poles and other vertical displays. With bright indirect light, consistent moisture, warmth and good humidity, Monstera adansonii can produce vigorous new growth and beautifully patterned foliage.",
+  image: "/plants/swiss-cheese-plant.jpg",
+  light: "Bright indirect light",
+  water: "About once a week, allowing the top 1–2 inches of soil to dry slightly",
+  temperature: "65–80°F",
+  careGuide: [
+    "Place your Swiss Cheese Plant in bright, indirect light. It can tolerate moderate indirect light, but brighter conditions generally support stronger growth and more pronounced leaf development.",
+    "Avoid prolonged exposure to intense direct sunlight because strong sunlight can scorch the foliage and cause pale or brown patches on the leaves.",
+    "Water when the top 1–2 inches of soil feels dry. Water thoroughly until excess water drains from the bottom of the pot, then allow the plant to drain completely.",
+    "Avoid keeping the soil constantly saturated. Use a container with drainage holes and a loose, well-draining potting mix to help maintain healthy roots.",
+    "Provide warm conditions and protect the plant from cold drafts, sudden temperature changes and prolonged exposure to strong air-conditioning.",
+    "Swiss Cheese Plant appreciates moderate to high humidity. Good humidity can support healthy foliage and reduce stress in warm indoor environments.",
+    "Because Monstera adansonii is a climbing plant, provide a moss pole, trellis or another suitable support if you want it to grow upward. It can also be allowed to trail from a hanging container.",
+    "Feed during the active growing season with a balanced houseplant fertilizer according to the product instructions. Avoid excessive feeding.",
+    "Remove yellow, damaged or severely unhealthy leaves with clean scissors. Wipe the foliage occasionally with a soft, damp cloth to remove accumulated dust.",
+    "Rotate the plant occasionally so that different sides receive balanced light and growth remains more even."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "The easiest way to propagate Swiss Cheese Plant is through stem cuttings containing at least one healthy node. Place the cutting in water or a suitable propagation medium and provide warmth, moisture and indirect light until roots develop."
+    },
+    {
+      method: "Water Propagation",
+      description:
+        "A healthy cutting with a node can be placed in clean water with the node submerged while keeping the leaves above the water. Once a good root system develops, transfer the cutting into a well-draining potting mix."
+    },
+    {
+      method: "Air Layering",
+      description:
+        "Established Monstera adansonii can also be propagated through air layering. A healthy node is encouraged to produce roots while still attached to the parent plant before the rooted section is separated and planted."
+    }
+  ],
+  benefits: [
+    {
+      title: "Distinctive Leaves",
+      description:
+        "Its naturally perforated leaves give Swiss Cheese Plant a unique appearance that immediately stands out among common houseplants."
+    },
+    {
+      title: "Fast-Growing Under Good Conditions",
+      description:
+        "With suitable light, warmth, moisture and nutrition, Swiss Cheese Plant can produce vigorous new vines and foliage."
+    },
+    {
+      title: "Great for Vertical Displays",
+      description:
+        "Its climbing growth habit makes it an excellent choice for moss poles, trellises and other vertical plant supports."
+    },
+    {
+      title: "Works as a Trailing Plant",
+      description:
+        "The flexible vines can also cascade beautifully from hanging planters, shelves and elevated plant displays."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Healthy stem cuttings containing nodes can be rooted relatively easily, allowing established plants to produce new plants."
+    }
+  ]
+}
 ]
