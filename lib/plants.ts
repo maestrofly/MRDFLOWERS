@@ -772,5 +772,71 @@ export const plants: Plant[] = [
         "Healthy stem cuttings containing nodes can be rooted relatively easily, allowing established plants to produce new plants."
     }
   ]
+},
+{
+  id: "caladium",
+  name: "Caladium",
+  scientificName: "Caladium bicolor",
+  category: "Ornamental Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A colourful tropical ornamental plant known for its striking heart-shaped leaves in shades of green, pink, red and white.",
+  description:
+    "Caladium is a tropical ornamental plant prized for its vibrant, heart-shaped foliage and dramatic colour combinations. Depending on the variety, its leaves can display shades of green, pink, red, white and contrasting veins or patterns. Caladium makes a beautiful addition to homes, shaded patios, balconies and outdoor garden displays where it can receive bright filtered light and warm, humid conditions.",
+  image: "/plants/caladium.jpg",
+  light: "Bright indirect or filtered light",
+  water: "About 1–2 times a week, keeping the soil lightly and consistently moist",
+  temperature: "65–85°F",
+  careGuide: [
+    "Place your Caladium in bright, filtered or indirect light. Strong direct afternoon sunlight can scorch its delicate leaves, while insufficient light may reduce the intensity of its colours.",
+    "Keep the soil lightly and consistently moist during active growth. Water when the surface of the soil begins to dry, but avoid allowing the plant to remain in soggy soil.",
+    "Water thoroughly until excess water drains from the bottom of the container. Empty any standing water from the saucer to reduce the risk of root problems.",
+    "Use a rich but well-draining potting mix. A container with drainage holes is important because Caladium needs moisture while still requiring good drainage around its roots.",
+    "Caladium thrives in warm and humid conditions. Protect it from cold temperatures, cold drafts and sudden changes in its growing environment.",
+    "Provide additional humidity when the surrounding air is particularly dry. This can help the foliage remain healthier and more attractive.",
+    "Feed during the active growing season with a balanced fertilizer according to the product instructions. Avoid excessive fertilizer, which can damage the roots or contribute to weak growth.",
+    "Remove yellowing, damaged or fading leaves with clean scissors. Regular removal of unhealthy foliage helps maintain a neat appearance.",
+    "Caladium naturally grows from underground tubers. Depending on the growing conditions and variety, the plant may slow down or enter dormancy when conditions become less favourable.",
+    "Avoid unnecessary disturbance of the tubers during active growth. When repotting or dividing, handle the underground structures carefully to prevent damage."
+  ],
+  propagation: [
+    {
+      method: "Tuber Division",
+      description:
+        "Caladium is commonly propagated by dividing its underground tubers. A healthy mature tuber can be separated into sections, with each section containing a viable growing point, then planted in a suitable well-draining growing medium."
+    },
+    {
+      method: "Seeds",
+      description:
+        "Caladium can also be grown from seed, although seed-grown plants may vary in their leaf colours and patterns and generally take longer to develop into mature plants."
+    }
+  ],
+  benefits: [
+    {
+      title: "Vibrant Foliage",
+      description:
+        "Caladium is valued for its colourful leaves, which can feature striking combinations of green, pink, red and white."
+    },
+    {
+      title: "Excellent Ornamental Plant",
+      description:
+        "Its dramatic foliage makes Caladium an attractive choice for decorating homes, patios, balconies, shaded gardens and plant displays."
+    },
+    {
+      title: "Wide Range of Colours",
+      description:
+        "Different Caladium varieties offer a wide range of leaf colours, patterns and vein combinations, making them highly versatile for decorative planting."
+    },
+    {
+      title: "Great for Shaded Spaces",
+      description:
+        "Caladium performs well in bright filtered or indirect light, making it useful for areas where direct sunlight is limited."
+    },
+    {
+      title: "Easy to Multiply",
+      description:
+        "Established Caladium can be propagated through suitable tuber division, allowing healthy plants to produce additional plants."
+    }
+  ]
 }
 ]
