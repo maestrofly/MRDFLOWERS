@@ -838,5 +838,71 @@ export const plants: Plant[] = [
         "Established Caladium can be propagated through suitable tuber division, allowing healthy plants to produce additional plants."
     }
   ]
+},
+{
+  id: "pin-stripe-calathea",
+  name: "Pin-Stripe Calathea",
+  scientificName: "Goeppertia ornata",
+  category: "Indoor Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A striking tropical foliage plant known for its dark green leaves decorated with delicate pink or white pinstripes.",
+  description:
+    "Pin-Stripe Calathea is a tropical foliage plant admired for its beautifully patterned leaves and elegant upright growth. Its dark green foliage is marked with fine pink or pale stripes, creating a distinctive ornamental appearance. It performs best in warm, humid conditions with bright indirect or filtered light and evenly moist, well-draining soil, making it a beautiful choice for homes, offices and sheltered indoor spaces.",
+  image: "/plants/pin-stripe-calathea.jpg",
+  light: "Bright indirect to moderate filtered light",
+  water: "About once a week, keeping the soil lightly and consistently moist",
+  temperature: "65–80°F",
+  careGuide: [
+    "Place your Pin-Stripe Calathea in bright, indirect or filtered light. Avoid strong direct sunlight, which can scorch or fade its patterned leaves.",
+    "Water when the top layer of soil begins to dry, while keeping the root area lightly and consistently moist. Avoid allowing the plant to dry out completely for extended periods.",
+    "Water thoroughly until excess water drains from the bottom of the pot. Do not allow the plant to sit in standing water, as consistently waterlogged soil can damage the roots.",
+    "Use a loose, well-draining potting mix that retains some moisture without becoming saturated. A container with drainage holes is essential.",
+    "Pin-Stripe Calathea prefers warm conditions and should be protected from cold drafts, sudden temperature changes and prolonged exposure to strong air-conditioning.",
+    "Provide moderate to high humidity where possible. Higher humidity can help the leaves maintain a healthier appearance, particularly in dry indoor environments.",
+    "Feed during the active growing season with a balanced indoor-plant fertilizer according to the product instructions. Avoid over-fertilizing.",
+    "Remove yellow, brown or severely damaged leaves with clean scissors. Trim individual damaged leaves close to the base of the plant while avoiding healthy growth.",
+    "Wipe the leaves gently with a soft, damp cloth when necessary to remove dust. Handle the foliage carefully because the leaves can be delicate.",
+    "Rotate the pot occasionally so that the plant receives balanced light and maintains more even growth."
+  ],
+  propagation: [
+    {
+      method: "Division",
+      description:
+        "The most practical way to propagate Pin-Stripe Calathea is through division. When a mature plant has multiple established growth points, carefully separate sections with healthy roots attached and plant each division into its own container."
+    },
+    {
+      method: "Root Division During Repotting",
+      description:
+        "Propagation by division is best carried out when repotting an established plant. Separate naturally formed sections of the root and plant them immediately into a suitable, well-draining potting mix."
+    }
+  ],
+  benefits: [
+    {
+      title: "Striking Foliage",
+      description:
+        "The distinctive pin-striped pattern gives this Calathea an elegant appearance that stands out among indoor foliage plants."
+    },
+    {
+      title: "Decorative Indoor Plant",
+      description:
+        "Its patterned leaves make it an attractive choice for bedrooms, living rooms, offices and other sheltered indoor spaces."
+    },
+    {
+      title: "Tropical Appearance",
+      description:
+        "The combination of lush foliage and intricate leaf markings brings a natural tropical character to indoor plant displays."
+    },
+    {
+      title: "Pet-Friendly Choice",
+      description:
+        "Calatheas are generally considered non-toxic to cats and dogs, making them a popular option for households with pets."
+    },
+    {
+      title: "Unique Leaf Patterns",
+      description:
+        "Each leaf contributes to the plant's ornamental appeal through its combination of deep green colouring and contrasting stripes."
+    }
+  ]
 }
 ]
