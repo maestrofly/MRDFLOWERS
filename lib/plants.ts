@@ -1136,5 +1136,422 @@ export const plants: Plant[] = [
   ]
 },
 
+{
+  id: "amoena",
+  name: "Amoena",
+  scientificName: "Dieffenbachia amoena",
+  category: "Indoor Plant",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "A bold tropical foliage plant admired for its large green leaves, striking cream-coloured variegation and impressive upright growth.",
+  description:
+    "Amoena, commonly known as Giant Dumb Cane, is a striking ornamental Dieffenbachia admired for its broad, beautifully patterned leaves and lush tropical appearance. Often sold under the horticultural name Dieffenbachia amoena, this plant is especially popular for its dramatic green foliage decorated with pale cream or yellow-green markings. With suitable care, Amoena can develop into a substantial statement plant for living rooms, offices, reception areas and sheltered tropical spaces. It thrives in warm conditions with medium to bright indirect light, moderate humidity and well-draining soil. Like other Dieffenbachia plants, Amoena contains irritating calcium oxalate crystals and must be kept away from children and pets.",
+  image: "/plants/amoena.jpg",
+  light: "Medium to bright indirect light",
+  water: "When the top 1–2 inches of soil feels dry",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Position your Amoena in medium to bright indirect light. Bright filtered light encourages healthy foliage and helps maintain attractive leaf variegation.",
+    "Avoid prolonged exposure to harsh direct sunlight, especially strong afternoon sunlight, because it can scorch the leaves and damage their appearance.",
+    "Water when the top 1–2 inches of soil feels dry. Water thoroughly until excess moisture drains from the bottom of the pot.",
+    "Avoid keeping the potting mix constantly saturated. Excessive moisture can contribute to root rot and yellowing leaves.",
+    "Use a loose, nutrient-rich, well-draining indoor potting mix. Adding perlite or another suitable drainage material can improve aeration around the roots.",
+    "Always grow Amoena in a container with drainage holes and empty any standing water from the saucer after watering.",
+    "Maintain warm growing conditions between 65–85°F (18–29°C). Protect the plant from cold drafts, sudden temperature changes and prolonged exposure to strong air-conditioning.",
+    "Provide moderate humidity where possible. Although established plants can tolerate ordinary indoor humidity, very dry air may contribute to brown leaf edges.",
+    "Feed during active growth with a balanced indoor-plant fertilizer according to the manufacturer's instructions. Avoid excessive fertilization.",
+    "Wipe the large leaves occasionally with a soft, damp cloth to remove dust and maintain their attractive appearance.",
+    "Remove yellowing, damaged or unhealthy leaves with clean pruning shears. Wear gloves while pruning because Dieffenbachia sap can irritate the skin and eyes.",
+    "Rotate the container occasionally so that the plant receives balanced light and develops an even growth habit.",
+    "Repot when the roots become crowded, preferably during active growth. Choose a container only slightly larger than the existing root system.",
+    "Inspect the foliage and stems regularly for common indoor pests such as mealybugs, spider mites and scale insects.",
+    "Keep the plant away from children and pets. Chewing or swallowing its leaves or stems can cause painful irritation of the mouth and throat."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Amoena can be propagated using healthy stem cuttings containing viable nodes. Cut a suitable stem section with clean pruning tools and place it in water or a moist, well-draining propagation medium. Keep the cutting warm and in bright indirect light while roots develop. Wear gloves when handling cut stems because the sap is irritating."
+    },
+    {
+      method: "Cane Cuttings",
+      description:
+        "Mature Amoena plants may develop thick, cane-like stems. Healthy sections containing nodes can be placed horizontally or vertically in a suitable propagation medium. Maintain warmth and light moisture until roots and new shoots develop."
+    },
+    {
+      method: "Division",
+      description:
+        "Established plants that produce multiple rooted shoots can sometimes be propagated through division. Carefully separate healthy rooted sections during repotting and plant them in individual containers."
+    }
+  ],
+  benefits: [
+    {
+      title: "Bold Variegated Foliage",
+      description:
+        "Amoena produces large ornamental leaves with beautiful combinations of green and pale cream markings."
+    },
+    {
+      title: "Impressive Statement Plant",
+      description:
+        "Its substantial foliage and upright growth can create a strong decorative focal point in spacious indoor environments."
+    },
+    {
+      title: "Tropical Interior Appeal",
+      description:
+        "The lush foliage adds natural texture and a tropical atmosphere to living rooms, offices and reception areas."
+    },
+    {
+      title: "Suitable for Indirect Light",
+      description:
+        "Amoena grows well in medium to bright indirect light, making it suitable for indoor areas protected from intense sunlight."
+    },
+    {
+      title: "Relatively Easy to Maintain",
+      description:
+        "With appropriate watering, warmth and drainage, Amoena can be maintained without complicated growing equipment."
+    },
+    {
+      title: "Can Be Propagated",
+      description:
+        "Healthy stem sections and rooted shoots can be used to grow additional plants when suitable propagation conditions are provided."
+    }
+  ]
+},
+
+{
+  id: "song-of-india",
+  name: "Song of India",
+  scientificName: "Dracaena reflexa",
+  category: "Indoor Plant",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "A beautiful tropical foliage plant featuring narrow green leaves with bright yellow margins and an elegant upright growth habit.",
+  description:
+    "Song of India (Dracaena reflexa 'Song of India') is a striking tropical ornamental plant admired for its narrow, arching green leaves bordered with vibrant yellow or cream-coloured variegation. Its dense foliage and upright, branching growth make it an attractive addition to homes, offices, reception areas and sheltered outdoor spaces. Native forms of Dracaena reflexa occur in islands of the western Indian Ocean, and the variegated Song of India selection is widely cultivated for ornamental use. With bright indirect light, well-draining soil and moderate watering, this resilient plant can maintain its colourful appearance for many years.",
+  image: "/plants/song-of-india.jpg",
+  light: "Bright indirect light",
+  water: "When the top 1–2 inches of soil feels dry",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Place your Song of India in bright indirect light to maintain healthy growth and vibrant yellow-green leaf variegation.",
+    "The plant can tolerate moderate indirect light, but insufficient light may result in slower growth and less pronounced leaf colouring.",
+    "Avoid sudden exposure to intense direct sunlight, especially strong afternoon sunlight, which may scorch the leaves.",
+    "Water when the top 1–2 inches of soil feels dry. Water thoroughly and allow excess water to drain completely.",
+    "Avoid keeping the soil constantly wet. Song of India is sensitive to prolonged waterlogging, which can contribute to root rot and yellowing leaves.",
+    "Use a loose, well-draining potting mix containing organic matter and drainage materials such as perlite.",
+    "Choose a container with drainage holes and avoid allowing water to accumulate in the saucer.",
+    "Maintain warm temperatures between 65–85°F (18–29°C). Protect the plant from cold drafts, sudden temperature changes and prolonged exposure to strong air-conditioning.",
+    "Song of India generally adapts to normal indoor humidity, although moderate humidity can help maintain attractive foliage.",
+    "Feed during active growth with a balanced indoor-plant fertilizer according to the manufacturer's instructions. Avoid excessive feeding.",
+    "Wipe dusty leaves gently with a soft, damp cloth to keep the foliage clean and attractive.",
+    "Prune leggy or overgrown stems using clean pruning shears to encourage a more compact and branching growth habit.",
+    "Remove yellowing, damaged or unhealthy leaves when necessary to maintain a neat appearance.",
+    "Rotate the pot occasionally so that the plant receives balanced light and develops evenly.",
+    "Repot when the roots become crowded, preferably during active growth. Use a container only slightly larger than the existing root system.",
+    "Inspect the plant periodically for common pests such as mealybugs, scale insects and spider mites.",
+    "Keep Song of India away from cats and dogs because Dracaena plants contain compounds that can cause illness if ingested."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Song of India can be propagated using healthy stem cuttings containing viable nodes. Cut a suitable stem section with clean pruning shears and place it in water or a moist, well-draining propagation medium. Keep the cutting warm and in bright indirect light until roots develop."
+    },
+    {
+      method: "Tip Cuttings",
+      description:
+        "Healthy growing tips can be removed from established stems and rooted in water or a suitable propagation medium. Once a healthy root system develops, transfer the cutting into a container with well-draining soil."
+    },
+    {
+      method: "Air Layering",
+      description:
+        "Larger established stems can sometimes be propagated through air layering. Encourage roots to develop around a suitable stem section while it remains attached to the parent plant, then separate and pot the rooted section."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Variegated Foliage",
+      description:
+        "Its bright yellow-edged green leaves create an attractive ornamental display and add colour to indoor plant collections."
+    },
+    {
+      title: "Elegant Upright Growth",
+      description:
+        "Song of India develops an attractive branching structure that can add height and visual interest to homes, offices and reception areas."
+    },
+    {
+      title: "Relatively Low Maintenance",
+      description:
+        "With suitable lighting, moderate watering and good drainage, Song of India can be maintained without complicated care requirements."
+    },
+    {
+      title: "Versatile Decorative Plant",
+      description:
+        "It can be grown in containers indoors or in sheltered outdoor locations where temperatures and lighting conditions are suitable."
+    },
+    {
+      title: "Can Be Pruned and Shaped",
+      description:
+        "Its stems can be pruned to manage height, encourage branching and maintain a fuller ornamental appearance."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Healthy stem and tip cuttings can be rooted to produce additional plants under suitable growing conditions."
+    }
+  ]
+},
+
+{
+  id: "corn-plant",
+  name: "Corn Plant",
+  scientificName: "Dracaena fragrans",
+  category: "Indoor Plant",
+  careLevel: "Easy",
+  shortDescription:
+    "A resilient tropical foliage plant with broad, arching green leaves and upright woody stems, ideal for adding natural greenery to indoor spaces.",
+  description:
+    "Corn Plant (Dracaena fragrans) is a popular tropical ornamental plant admired for its broad, arching leaves and upright, cane-like stems. Native to tropical Africa, this adaptable houseplant brings a lush, architectural appearance to homes, offices, reception areas and sheltered indoor spaces. Depending on the cultivar, its foliage may be solid green or decorated with yellow or cream-coloured stripes. Corn Plant grows best in medium to bright indirect light, well-draining soil and warm conditions. Its relatively low-maintenance nature makes it an excellent choice for both beginner and experienced plant owners.",
+  image: "/plants/corn-plant.jpg",
+  light: "Medium to bright indirect light",
+  water: "When the top 1–2 inches of soil feels dry",
+  temperature: "65–80°F (18–27°C)",
+  careGuide: [
+    "Place your Corn Plant in medium to bright indirect light. It can tolerate lower light conditions, although growth may become slower and variegated cultivars may lose some colour intensity.",
+    "Avoid prolonged exposure to strong direct sunlight, particularly intense afternoon sunlight, because it can scorch the leaves.",
+    "Water when the top 1–2 inches of soil feels dry. Water thoroughly until excess water drains from the bottom of the container.",
+    "Avoid overwatering. Corn Plant is sensitive to consistently saturated soil, which can contribute to root rot and yellowing foliage.",
+    "Use a loose, well-draining indoor potting mix containing organic matter and drainage materials such as perlite.",
+    "Choose a container with drainage holes and empty excess water from the saucer after watering.",
+    "Maintain warm temperatures between 65–80°F (18–27°C). Protect the plant from cold drafts, sudden temperature changes and prolonged exposure to strong air-conditioning.",
+    "Corn Plant generally adapts well to normal indoor humidity, although moderate humidity can help maintain healthier-looking foliage.",
+    "If leaf tips become brown, check for inconsistent watering, dry air, excess fertilizer or sensitivity to minerals and fluoride in tap water. Filtered or rainwater may help when water quality is the cause.",
+    "Feed lightly during active growth with a balanced indoor-plant fertilizer according to the manufacturer's instructions. Avoid excessive fertilization.",
+    "Wipe dusty leaves occasionally with a soft, damp cloth to keep the foliage clean and attractive.",
+    "Remove yellowing, damaged or unhealthy leaves using clean pruning shears.",
+    "Prune excessively tall stems if necessary to control height and encourage new shoots to develop below the cut.",
+    "Rotate the container occasionally to encourage balanced growth and prevent the plant from leaning strongly toward its light source.",
+    "Repot when the roots become crowded, preferably during active growth. Select a container only slightly larger than the existing root system.",
+    "Inspect the plant regularly for common indoor pests such as spider mites, mealybugs and scale insects.",
+    "Keep Corn Plant away from cats and dogs because Dracaena plants contain compounds that can cause illness if ingested."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Corn Plant can be propagated using healthy stem sections containing viable nodes. Cut a suitable section with clean pruning shears and place it in water or a moist, well-draining propagation medium. Maintain warmth and bright indirect light while roots develop."
+    },
+    {
+      method: "Cane Cuttings",
+      description:
+        "Mature Corn Plants develop thick, woody canes that can be cut into sections for propagation. Each section should contain viable growth points and can be placed horizontally or vertically in a suitable growing medium. Keep the medium lightly moist while roots and new shoots develop."
+    },
+    {
+      method: "Top Cuttings",
+      description:
+        "A healthy leafy top can be removed from a mature stem and rooted in water or a suitable propagation medium. Once established, the cutting can be transferred into well-draining potting soil."
+    },
+    {
+      method: "Air Layering",
+      description:
+        "Larger Corn Plant stems can also be propagated through air layering. Encourage roots to form around a suitable stem section while it remains attached to the parent plant, then separate and pot the rooted section."
+    }
+  ],
+  benefits: [
+    {
+      title: "Low-Maintenance Houseplant",
+      description:
+        "Corn Plant is relatively easy to maintain with suitable light, moderate watering and good drainage, making it a practical choice for indoor plant owners."
+    },
+    {
+      title: "Attractive Tropical Foliage",
+      description:
+        "Its broad, arching leaves create a lush tropical appearance that adds natural texture and greenery to indoor spaces."
+    },
+    {
+      title: "Excellent Statement Plant",
+      description:
+        "Its upright, cane-like stems can add height and structure to living rooms, offices, hallways and reception areas."
+    },
+    {
+      title: "Adaptable to Indoor Lighting",
+      description:
+        "Corn Plant can tolerate a range of indirect lighting conditions, although brighter filtered light generally supports stronger growth."
+    },
+    {
+      title: "Can Be Pruned and Shaped",
+      description:
+        "Mature stems can be pruned to manage plant height and encourage new shoots, allowing the plant to maintain an attractive growth habit."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Healthy stem sections, cane cuttings and leafy tops can be used to produce additional plants under suitable growing conditions."
+    }
+  ]
+},
+
+{
+  id: "crown-of-thorns",
+  name: "Crown of Thorns",
+  scientificName: "Euphorbia milii",
+  category: "Flowering Succulent",
+  careLevel: "Easy",
+  shortDescription:
+    "A resilient flowering succulent with thorny stems, attractive green leaves and colourful, long-lasting floral bracts.",
+  description:
+    "Crown of Thorns (Euphorbia milii) is a distinctive flowering succulent admired for its thorny stems, bright green foliage and colourful floral bracts. Native to Madagascar, this hardy ornamental plant can produce flowers throughout much of the year when grown in suitable warm, sunny conditions. Its colourful bracts may appear in shades of red, pink, yellow, white or orange depending on the variety. Crown of Thorns is an excellent choice for sunny patios, balconies, outdoor container gardens and bright indoor spaces. It prefers abundant sunlight, well-draining soil and careful watering. Because the plant has sharp thorns and produces irritating milky latex sap, it should be handled carefully and kept away from children and pets.",
+  image: "/plants/crown-of-thorns.jpg",
+  light: "Full sun to bright direct light",
+  water: "When the top 1–2 inches of soil has dried",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Place Crown of Thorns in a bright location receiving several hours of direct sunlight daily. Adequate sunlight encourages healthy growth and abundant flowering.",
+    "When moving a plant from shade into strong sunlight, introduce direct sun gradually to reduce the risk of leaf scorch.",
+    "Water thoroughly when the top 1–2 inches of soil has dried. Allow excess water to drain completely and reduce watering when growth slows or conditions are cooler.",
+    "Avoid keeping the soil constantly wet. Crown of Thorns is drought tolerant once established but can develop root rot in waterlogged conditions.",
+    "Use a fast-draining cactus or succulent potting mix. Adding coarse mineral materials such as perlite or pumice can improve drainage.",
+    "Grow the plant in a container with drainage holes. Avoid leaving standing water in saucers or decorative outer pots.",
+    "Maintain warm growing conditions. Crown of Thorns performs well in tropical climates but should be protected from prolonged cold conditions.",
+    "Provide good air circulation, especially during humid or rainy periods, to help prevent moisture-related problems.",
+    "Feed lightly during active growth with a balanced fertilizer according to the manufacturer's instructions. Avoid excessive fertilization.",
+    "Remove faded flowers, dead leaves and damaged stems when necessary to maintain a neat appearance.",
+    "Wear protective gloves and eye protection when pruning or taking cuttings. The plant produces a milky latex sap that can irritate skin and cause serious eye irritation.",
+    "Use clean pruning tools when trimming overgrown stems. Avoid touching your face or eyes while handling the plant.",
+    "Rotate container-grown plants occasionally to encourage balanced growth and even sunlight exposure.",
+    "Inspect the plant regularly for common pests such as mealybugs and scale insects.",
+    "Keep Crown of Thorns away from children and pets because of its sharp thorns and toxic, irritating latex sap."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Crown of Thorns is commonly propagated through stem cuttings. Wearing protective gloves and eye protection, take a healthy stem cutting using clean pruning tools. Allow the irritating milky latex to stop flowing and let the cut surface dry and callus before placing the cutting in a well-draining succulent propagation mix. Keep the medium only lightly moist while roots develop."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Crown of Thorns can also be propagated from seeds. Sow fresh seeds in a suitable well-draining growing medium and maintain warm conditions with controlled moisture. Seed propagation is generally slower and less predictable than stem cuttings."
+    }
+  ],
+  benefits: [
+    {
+      title: "Colourful Floral Display",
+      description:
+        "Crown of Thorns produces attractive floral bracts in shades of red, pink, yellow, white and orange, depending on the variety."
+    },
+    {
+      title: "Drought Tolerant",
+      description:
+        "Its succulent growth allows established plants to tolerate periods of dryness, making it suitable for gardeners who prefer less frequent watering."
+    },
+    {
+      title: "Suitable for Sunny Spaces",
+      description:
+        "Crown of Thorns thrives in bright sunlight and can be grown in sunny patios, balconies and outdoor container gardens."
+    },
+    {
+      title: "Long Flowering Potential",
+      description:
+        "With sufficient sunlight, warmth and appropriate care, Crown of Thorns can produce colourful displays during much of the year."
+    },
+    {
+      title: "Distinctive Ornamental Appearance",
+      description:
+        "Its combination of thorny stems, green leaves and colourful bracts creates an unusual decorative appearance."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Healthy stem cuttings can be rooted to produce additional plants when handled safely and provided with suitable growing conditions."
+    }
+  ]
+},
+
+{
+  id: "mother-of-millions",
+  name: "Mother of Millions",
+  scientificName: "Kalanchoe delagoensis",
+  category: "Succulent",
+  careLevel: "Easy",
+  shortDescription:
+    "A fascinating succulent with narrow, tubular leaves that produce tiny baby plantlets, creating a distinctive and unusual ornamental appearance.",
+  description:
+    "Mother of Millions (Kalanchoe delagoensis) is a distinctive succulent native to Madagascar, admired for its upright stems, narrow tubular leaves and remarkable ability to produce miniature plantlets along its leaf tips. These small plantlets can detach and develop into new plants, giving the species its memorable common name. Its foliage is typically green to grey-green with darker markings, and mature plants may produce clusters of hanging, bell-shaped flowers in warm reddish or orange tones. Mother of Millions thrives in bright light, warm conditions and well-draining soil. Although easy to grow, it spreads readily and contains toxic compounds, so it is best maintained in containers away from children, pets and grazing animals.",
+  image: "/plants/mother-of-millions.jpg",
+  light: "Bright light to full sun",
+  water: "When the soil has dried substantially",
+  temperature: "60–85°F (16–29°C)",
+  careGuide: [
+    "Place Mother of Millions in a bright location receiving plenty of sunlight. Several hours of direct sunlight can encourage compact, healthy growth.",
+    "Introduce the plant gradually to strong direct sunlight if it has previously been grown in shade to reduce the risk of leaf scorch.",
+    "Allow the potting mix to dry substantially between waterings. As a succulent, Mother of Millions stores water in its leaves and tolerates periods of dryness.",
+    "When watering, thoroughly moisten the soil and allow excess water to drain completely. Reduce watering during periods of slower growth.",
+    "Avoid keeping the soil consistently wet because excessive moisture can cause root rot.",
+    "Use a fast-draining cactus or succulent potting mix. Adding perlite, pumice or coarse mineral material can improve drainage.",
+    "Grow the plant in a container with drainage holes and avoid allowing water to accumulate in decorative pots or saucers.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold temperatures.",
+    "Provide good air circulation, especially during humid or rainy periods, to reduce moisture-related problems.",
+    "Feed sparingly during active growth with a balanced succulent fertilizer according to the manufacturer's instructions.",
+    "Remove dry, damaged or unhealthy leaves using clean scissors or pruning tools.",
+    "Monitor the plant for tiny plantlets developing along the leaf tips. These can fall into nearby pots or garden soil and establish new plants.",
+    "Remove unwanted plantlets regularly to prevent uncontrolled spreading.",
+    "Keep the plant in a contained growing area, particularly where it could spread into nearby gardens or natural environments.",
+    "Inspect periodically for common succulent pests such as mealybugs and scale insects.",
+    "Keep Mother of Millions away from children, pets and grazing animals because it contains toxic cardiac glycosides.",
+    "Do not dispose of living plantlets or cuttings in natural areas or open garden spaces where they may establish new plants."
+  ],
+  propagation: [
+    {
+      method: "Plantlets",
+      description:
+        "Mother of Millions naturally produces miniature plantlets near the tips of its leaves. These plantlets can detach and root when they contact suitable soil. For controlled propagation, carefully collect a few healthy plantlets and place them on a well-draining succulent growing medium. Maintain warmth, bright indirect light and light moisture while they establish."
+    },
+    {
+      method: "Stem Cuttings",
+      description:
+        "Healthy stem sections can also be used for propagation. Cut a suitable stem using clean tools and allow the cut surface to dry and callus before placing it in a well-draining succulent potting mix. Water cautiously until roots develop."
+    },
+    {
+      method: "Seeds",
+      description:
+        "Mother of Millions can reproduce from seeds produced after flowering. However, propagation from naturally formed plantlets is generally much easier and faster. Seed production can also contribute to unwanted spreading."
+    }
+  ],
+  benefits: [
+    {
+      title: "Unique Natural Propagation",
+      description:
+        "The plant produces miniature plantlets along its leaves, making it a fascinating example of vegetative reproduction."
+    },
+    {
+      title: "Low-Maintenance Succulent",
+      description:
+        "Mother of Millions requires relatively infrequent watering and grows well in bright conditions with suitable drainage."
+    },
+    {
+      title: "Distinctive Leaf Structure",
+      description:
+        "Its narrow, tubular leaves and upright stems create an unusual architectural appearance."
+    },
+    {
+      title: "Interesting Ornamental Display",
+      description:
+        "The combination of patterned foliage and developing plantlets makes Mother of Millions an eye-catching addition to contained succulent collections."
+    },
+    {
+      title: "Drought Tolerant",
+      description:
+        "Its succulent leaves store water, allowing established plants to tolerate dry periods."
+    },
+    {
+      title: "Potential for Colourful Flowers",
+      description:
+        "Mature plants may produce clusters of attractive hanging flowers under suitable growing conditions."
+    }
+  ]
+},
+
+
 
 ]
