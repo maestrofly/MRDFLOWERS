@@ -1552,6 +1552,169 @@ export const plants: Plant[] = [
   ]
 },
 
+{
+  id: "donkey-ears",
+  name: "Donkey Ears",
+  scientificName: "Kalanchoe gastonis-bonnieri",
+  category: "Succulent",
+  careLevel: "Easy",
+  shortDescription:
+    "An unusual ornamental succulent with large, fleshy, spotted leaves that can produce miniature plantlets along their margins.",
+  description:
+    "Donkey Ears (Kalanchoe gastonis-bonnieri) is a distinctive succulent native to Madagascar, admired for its large, elongated leaves and unusual ornamental appearance. Its fleshy foliage is typically green to grey-green with reddish-brown or purple markings that may become more pronounced under suitable light conditions. Mature leaves can produce miniature plantlets near their tips, allowing the plant to reproduce naturally. Donkey Ears thrives in warm conditions with bright light, well-draining soil and careful watering. Its dramatic foliage makes it an attractive choice for sunny patios, balconies, succulent collections and outdoor container gardens. Like other Kalanchoe species, it should be kept away from pets and grazing animals because ingestion may be harmful.",
+  image: "/plants/donkey-ears.jpg",
+  light: "Bright light to partial sun",
+  water: "When the soil has dried substantially",
+  temperature: "60–85°F (16–29°C)",
+  careGuide: [
+    "Place Donkey Ears in a bright location with plenty of natural light. Gentle direct morning sunlight can support healthy growth and attractive leaf colouring.",
+    "Avoid suddenly exposing a shade-grown plant to intense afternoon sunlight. Introduce stronger light gradually to reduce the risk of leaf scorch.",
+    "Allow the soil to dry substantially between waterings. Donkey Ears stores water in its fleshy leaves and generally tolerates short periods of dryness better than prolonged wet conditions.",
+    "Water thoroughly when needed, allowing excess water to drain completely from the bottom of the container.",
+    "Avoid overwatering because constantly saturated soil can contribute to root rot and unhealthy foliage.",
+    "Use a fast-draining cactus or succulent potting mix. Adding perlite, pumice or coarse mineral material can improve drainage.",
+    "Grow the plant in a container with drainage holes. Avoid allowing standing water to accumulate in saucers or decorative pots.",
+    "Maintain warm growing conditions and protect the plant from prolonged exposure to cold temperatures.",
+    "Provide good air circulation, particularly during humid or rainy periods, to reduce moisture-related problems.",
+    "Feed lightly during active growth with a balanced succulent fertilizer according to the manufacturer's instructions.",
+    "Remove dry, damaged or unhealthy leaves using clean pruning tools.",
+    "Monitor mature leaves for developing plantlets. These may detach and establish themselves in nearby soil.",
+    "Remove unwanted plantlets regularly if you want to control the plant's spread within your garden or container collection.",
+    "Inspect the plant periodically for common succulent pests such as mealybugs and scale insects.",
+    "Keep Donkey Ears away from children, pets and grazing animals because Kalanchoe plants contain compounds that may be toxic if ingested.",
+    "Repot when the plant becomes crowded or outgrows its container, preferably during active growth."
+  ],
+  propagation: [
+    {
+      method: "Plantlets",
+      description:
+        "Donkey Ears can produce miniature plantlets near the tips or margins of mature leaves. Once these plantlets develop sufficiently, they can be carefully separated and placed in a well-draining succulent growing medium. Keep them warm and provide bright indirect light with cautious watering until established."
+    },
+    {
+      method: "Stem Cuttings",
+      description:
+        "Healthy stem sections can be used for propagation. Cut a suitable section using clean pruning tools, allow the cut surface to dry and callus, then plant it in a fast-draining succulent mix. Water sparingly until roots develop."
+    },
+    {
+      method: "Leaf Propagation",
+      description:
+        "Healthy mature leaves may sometimes be used for propagation, particularly when they already carry developing plantlets. Allow detached leaf material to dry appropriately and place it on a suitable propagation medium while monitoring for new growth."
+    }
+  ],
+  benefits: [
+    {
+      title: "Distinctive Spotted Foliage",
+      description:
+        "Its large green to grey-green leaves with reddish-brown markings create an unusual and attractive ornamental appearance."
+    },
+    {
+      title: "Unique Natural Propagation",
+      description:
+        "Mature leaves can produce miniature plantlets, making Donkey Ears an interesting plant for observing vegetative reproduction."
+    },
+    {
+      title: "Drought Tolerant",
+      description:
+        "Its fleshy succulent leaves store water, allowing established plants to tolerate periods of dryness."
+    },
+    {
+      title: "Excellent Container Plant",
+      description:
+        "Donkey Ears can be grown in containers on bright balconies, patios and other warm outdoor spaces."
+    },
+    {
+      title: "Bold Ornamental Appearance",
+      description:
+        "Its broad, elongated foliage gives it a distinctive architectural form that stands out in succulent collections."
+    },
+    {
+      title: "Relatively Low Maintenance",
+      description:
+        "With suitable light, well-draining soil and careful watering, Donkey Ears can be maintained without complicated care requirements."
+    }
+  ]
+},
+
+{
+  id: "lemon-barrel-cactus",
+  name: "Lemon Barrel Cactus",
+  scientificName: "Kroenleinia grusonii",
+  category: "Cactus",
+  careLevel: "Easy",
+  shortDescription:
+    "A distinctive rounded cactus with prominent golden-yellow spines, deep ribs and an attractive architectural appearance.",
+  description:
+    "Lemon Barrel Cactus, more commonly known as Golden Barrel Cactus, is a striking ornamental cactus admired for its rounded green body, pronounced ribs and dense golden-yellow spines. Originally described as Echinocactus grusonii and now also classified as Kroenleinia grusonii, this slow-growing species is native to central Mexico. Young plants have a compact, globular shape, while mature specimens can become larger and more barrel-like. Its sculptural appearance makes it an excellent choice for sunny patios, balconies, cactus collections and decorative container gardens. Lemon Barrel Cactus thrives in bright sunlight, warm conditions and exceptionally well-draining soil. Although relatively easy to maintain, its sharp spines require careful handling.",
+  image: "/plants/lemon-barrel-cactus.jpg",
+  light: "Full sun to very bright light",
+  water: "When the potting mix has dried completely",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Place Lemon Barrel Cactus in a location receiving abundant sunlight. Established plants generally grow best with several hours of direct sunlight each day.",
+    "Introduce newly purchased or shade-grown plants gradually to strong direct sunlight to prevent sunburn or damage to the cactus surface.",
+    "Allow the potting mix to dry completely between waterings. Lemon Barrel Cactus stores water in its stem and is highly sensitive to prolonged waterlogging.",
+    "When watering, thoroughly moisten the potting mix and allow excess water to drain completely. Reduce watering during periods of slower growth or prolonged cloudy weather.",
+    "Use a fast-draining cactus potting mix containing substantial mineral material such as pumice, perlite, coarse sand or suitable gravel.",
+    "Choose a container with drainage holes. Avoid decorative pots that trap excess water around the roots.",
+    "Protect container-grown plants from prolonged heavy rainfall, especially during humid or rainy periods when the potting mix may remain wet for too long.",
+    "Maintain warm growing conditions and protect the cactus from prolonged cold, particularly when the soil is wet.",
+    "Provide good airflow around the plant to help reduce moisture-related problems.",
+    "Feed sparingly during active growth using a cactus or succulent fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because it can encourage weak or unnatural growth.",
+    "Handle the cactus carefully because its long, rigid spines can puncture skin. Use thick protective gloves, folded cardboard or suitable handling tools when repotting.",
+    "Remove accumulated debris from around the cactus using a soft brush or suitable tool rather than touching the spines directly.",
+    "Repot only when necessary, preferably during active growth. Choose a container slightly larger than the root system.",
+    "Inspect the plant periodically for mealybugs, scale insects and signs of root problems.",
+    "Keep the cactus away from young children and pets because its sharp spines can cause physical injury.",
+    "Be patient with growth. Lemon Barrel Cactus is naturally slow-growing and may take many years to develop into a large specimen."
+  ],
+  propagation: [
+    {
+      method: "Seed Propagation",
+      description:
+        "Lemon Barrel Cactus is most commonly propagated from seeds. Sow fresh seeds on a suitable sterile, well-draining cactus growing medium and maintain warm conditions with controlled moisture and bright indirect light during germination. Seedlings should be introduced gradually to stronger sunlight as they mature."
+    },
+    {
+      method: "Offsets",
+      description:
+        "Although Lemon Barrel Cactus is generally solitary, occasional offsets may develop, particularly on mature or damaged plants. If a healthy offset forms, it may be separated carefully and allowed to callus before planting in a well-draining cactus mix. Offset propagation is uncommon compared with growing this species from seed."
+    }
+  ],
+  benefits: [
+    {
+      title: "Distinctive Architectural Shape",
+      description:
+        "Its rounded body and pronounced ribs create a sculptural appearance that stands out in cactus collections and decorative plant displays."
+    },
+    {
+      title: "Beautiful Golden Spines",
+      description:
+        "The dense golden-yellow spines give Lemon Barrel Cactus its characteristic appearance and make it an attractive ornamental specimen."
+    },
+    {
+      title: "Drought Tolerant",
+      description:
+        "Its water-storing stem allows established plants to tolerate extended dry periods when grown under suitable conditions."
+    },
+    {
+      title: "Excellent for Sunny Spaces",
+      description:
+        "Lemon Barrel Cactus is well suited to bright patios, balconies, rock gardens and sunny outdoor container displays."
+    },
+    {
+      title: "Relatively Low Maintenance",
+      description:
+        "With abundant light, careful watering and excellent drainage, this cactus requires relatively little routine maintenance."
+    },
+    {
+      title: "Long-Lived Ornamental Plant",
+      description:
+        "With appropriate care, Lemon Barrel Cactus can remain an attractive specimen for many years, gradually developing a larger and more impressive form."
+    }
+  ]
+},
+
+
 
 
 ]
