@@ -904,5 +904,80 @@ export const plants: Plant[] = [
         "Each leaf contributes to the plant's ornamental appeal through its combination of deep green colouring and contrasting stripes."
     }
   ]
+},
+
+{
+  id: "furry-feather-calathea",
+  name: "Furry Feather Calathea",
+  scientificName: "Calathea rufibarba",
+  category: "Indoor Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "An elegant tropical houseplant with long, wavy green leaves, velvety undersides and beautiful reddish-purple colouring.",
+  description:
+    "Furry Feather Calathea is a distinctive tropical foliage plant admired for its long, narrow, gently wavy leaves and soft, velvety texture. Also known as Velvet Calathea, this ornamental plant features rich green upper leaf surfaces and reddish-purple undersides covered with fine hairs. Native to Brazil, it thrives in warm, humid environments with indirect light and consistently moist, well-draining soil. Its graceful growth habit makes it a beautiful addition to living rooms, offices and sheltered indoor spaces.",
+  image: "/plants/furry-feather-calathea.jpg",
+  light: "Medium to bright indirect light",
+  water: "When the top inch of soil begins to dry",
+  temperature: "65–80°F (18–27°C)",
+  careGuide: [
+    "Place your Furry Feather Calathea in medium to bright indirect light. Avoid prolonged direct sunlight because intense sunlight can scorch its delicate leaves.",
+    "Water when the top inch of soil begins to dry. Keep the soil lightly and consistently moist during active growth without allowing it to become waterlogged.",
+    "Use a well-draining potting mix that retains some moisture. A mixture containing coco coir or peat, perlite and organic matter can support healthy root development.",
+    "Ensure the container has drainage holes so excess water can escape. Never allow the plant to remain in standing water.",
+    "Maintain moderate to high humidity, ideally around 60% or higher when practical. A humidifier or grouping plants together can help in dry indoor environments.",
+    "Keep the plant in warm conditions between 65–80°F (18–27°C). Protect it from cold drafts, sudden temperature changes and strong air-conditioning.",
+    "Use rainwater, filtered water or other low-mineral water if your tap water causes persistent brown leaf tips.",
+    "Feed lightly during active growth with a balanced indoor-plant fertilizer diluted according to the manufacturer's instructions. Avoid excessive fertilization.",
+    "Remove yellowing or damaged leaves using clean scissors, cutting close to the base without damaging healthy stems.",
+    "Clean dusty leaves gently with a soft, damp cloth. Avoid harsh leaf-shine products that may damage the delicate foliage.",
+    "Repot when the roots become crowded, preferably during active growth. Choose a container only slightly larger than the existing root system.",
+    "Observe the leaves for signs of stress, including curling, crispy edges or yellowing, and adjust watering, humidity and light conditions as needed."
+  ],
+  propagation: [
+    {
+      method: "Division",
+      description:
+        "Furry Feather Calathea is most reliably propagated by dividing a healthy, mature plant. During repotting, gently separate established clumps, ensuring each division has healthy roots and several leaves. Plant each section in a suitable potting mix and maintain warmth and humidity while it becomes established."
+    },
+    {
+      method: "Rhizome Division",
+      description:
+        "Established plants develop underground rhizomes that can be separated carefully when the plant has multiple healthy growth points. Each division should retain sufficient roots and foliage to support new growth."
+    }
+  ],
+  benefits: [
+    {
+      title: "Unique Velvety Foliage",
+      description:
+        "Its softly textured leaves and fine hairs distinguish Furry Feather Calathea from many other tropical houseplants."
+    },
+    {
+      title: "Beautiful Leaf Contrast",
+      description:
+        "The combination of rich green upper surfaces and reddish-purple undersides creates a striking ornamental display."
+    },
+    {
+      title: "Elegant Indoor Decoration",
+      description:
+        "Its upright, arching foliage brings natural texture and tropical character to living rooms, offices and indoor plant collections."
+    },
+    {
+      title: "Pet-Friendly Plant",
+      description:
+        "Furry Feather Calathea is generally considered non-toxic to cats and dogs, making it a popular ornamental choice for pet-owning households."
+    },
+    {
+      title: "Suitable for Indirect Light",
+      description:
+        "It grows well in medium to bright indirect light, making it suitable for indoor areas protected from intense direct sunlight."
+    },
+    {
+      title: "Natural Leaf Movement",
+      description:
+        "Like many plants in the prayer plant family, its leaves can change position between day and night in response to natural light cycles."
+    }
+  ]
 }
+
 ]
