@@ -2822,6 +2822,533 @@ export const plants: Plant[] = [
   ]
 },
 
+{
+  id: "sanders-alocasia",
+  name: "Sander's Alocasia",
+  scientificName: "Alocasia sanderiana",
+  category: "Tropical Foliage Plant",
+  careLevel: "Moderate to Advanced",
+  shortDescription:
+    "A striking tropical foliage plant with dark, glossy arrow-shaped leaves, prominent silvery-white veins and dramatic sculpted margins.",
+  description:
+    "Sander's Alocasia (Alocasia sanderiana), commonly known as the Kris Plant, is a distinctive tropical aroid native to the Philippines. It is admired for its dramatic, glossy, dark green leaves featuring prominent pale veins, deeply sculpted margins and an elongated arrow-shaped appearance. The foliage gives the plant an elegant, architectural character that makes it highly desirable among ornamental plant collectors. Sander's Alocasia thrives in warm, humid conditions with bright indirect light and a loose, well-draining growing medium. It prefers consistent moisture during active growth but is sensitive to prolonged waterlogging, which can damage its roots and underground storage structures. Its distinctive foliage makes it an attractive choice for bright indoor spaces, sheltered verandas and carefully maintained tropical plant collections. Like other Alocasia species, it contains irritating calcium oxalate crystals and should be kept away from children and pets.",
+  image: "/plants/sanders-alocasia.jpg",
+  light: "Bright indirect light",
+  water: "When the top 1 inch of soil begins to dry",
+  temperature: "68–86°F (20–30°C)",
+  careGuide: [
+    "Place Sander's Alocasia in a bright location with filtered or indirect sunlight. Avoid prolonged exposure to harsh direct sunlight because it can scorch the leaves.",
+    "Gentle morning sunlight may be tolerated after gradual acclimatization, but protect the plant from intense afternoon heat.",
+    "Avoid deep shade because insufficient light can reduce healthy growth and cause weak, elongated leaf stalks.",
+    "Water when the upper inch of potting mix begins to dry, keeping the root zone lightly moist during active growth without allowing it to become waterlogged.",
+    "Reduce watering when growth slows or the plant enters a period of reduced activity, especially if it temporarily loses leaves.",
+    "Use a loose, airy and well-draining aroid potting mix containing suitable organic matter and drainage materials such as perlite, orchid bark or similar coarse components.",
+    "Grow the plant in a container with adequate drainage holes to prevent water accumulation around the roots.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold temperatures and sudden temperature changes.",
+    "Provide moderate to high humidity while ensuring good air circulation around the foliage.",
+    "Avoid placing the plant directly in front of air conditioners, strong fans or drying winds.",
+    "Avoid allowing water to remain trapped around the leaf bases or crown for prolonged periods, particularly during humid weather.",
+    "Feed lightly during active growth using a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because accumulated salts can damage the roots and cause foliage stress.",
+    "Remove yellowing, dead or damaged leaves using clean pruning tools once they have naturally declined.",
+    "Clean dusty leaves gently with a soft, damp cloth to maintain their appearance and allow effective light exposure.",
+    "Inspect regularly for spider mites, mealybugs, thrips and other common foliage pests.",
+    "Monitor for yellowing leaves, soft stems or unpleasant odours from the growing medium, which may indicate excessive moisture or root problems.",
+    "Repot when necessary during active growth, using a container only slightly larger than the root system.",
+    "Avoid disturbing the roots unnecessarily because Alocasia plants can react poorly to repeated repotting and abrupt environmental changes.",
+    "Keep Sander's Alocasia away from cats, dogs and children because its tissues contain irritating calcium oxalate crystals.",
+    "Wear gloves when handling damaged plant tissues or dividing underground structures if you have sensitive skin."
+  ],
+  propagation: [
+    {
+      method: "Corm Division",
+      description:
+        "Sander's Alocasia can be propagated by separating healthy corms or offsets produced around an established plant. Carefully remove the parent plant from its container and identify suitable offsets or corms. Separate them using clean tools when necessary, then place them in a lightly moist, airy propagation medium. Maintain warmth, humidity and bright indirect light while new roots and shoots develop."
+    },
+    {
+      method: "Offset Separation",
+      description:
+        "Mature plants may produce smaller shoots connected to the parent plant's underground structures. Once an offset has developed suitable roots and growth, carefully separate it and transplant it into a small container with a well-draining aroid mix. Maintain stable warmth and moisture while it establishes."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Alocasia species can reproduce from viable seeds following successful flowering and pollination. Fresh seeds should be sown in a suitable clean, moist propagation medium under warm, humid conditions. Seed propagation is less practical for routine nursery production and may require specialized growing conditions."
+    }
+  ],
+  benefits: [
+    {
+      title: "Dramatic Architectural Foliage",
+      description:
+        "Its distinctive arrow-shaped leaves and deeply sculpted margins create a bold ornamental display."
+    },
+    {
+      title: "Beautiful Contrasting Veins",
+      description:
+        "Prominent pale veins contrast with the dark green leaf surfaces, making the foliage especially eye-catching."
+    },
+    {
+      title: "Excellent Collector's Plant",
+      description:
+        "Its unusual appearance makes Sander's Alocasia an attractive addition to carefully maintained tropical plant collections."
+    },
+    {
+      title: "Attractive Decorative Container Plant",
+      description:
+        "Its upright growth habit and striking foliage make it suitable for decorative pots in bright, sheltered spaces."
+    },
+    {
+      title: "Distinctive Tropical Character",
+      description:
+        "The combination of glossy foliage, sculpted leaf margins and contrasting veins creates a sophisticated tropical appearance."
+    },
+    {
+      title: "Can Produce Propagation Offsets",
+      description:
+        "Healthy mature plants may develop offsets or corms that can be used to propagate additional plants under suitable conditions."
+    }
+  ]
+},
+
+{
+  id: "flame-violet",
+  name: "Flame Violet",
+  scientificName: "Episcia cupreata",
+  category: "Flowering Foliage Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A beautiful tropical trailing plant with velvety, patterned leaves and vibrant tubular flowers, ideal for hanging baskets and decorative containers.",
+  description:
+    "Flame Violet (Episcia cupreata) is a tropical flowering plant admired for its richly coloured, velvety foliage and bright tubular flowers. Native to tropical South America, this attractive member of the Gesneriaceae family develops soft, spreading stems and decorative leaves that may display shades of green, bronze, copper, silver or reddish tones, depending on the cultivar. Its flowers are commonly bright red to orange-red, although cultivated varieties may display additional colours. Flame Violet produces creeping stolons that can develop new plantlets, allowing it to form attractive trailing displays in hanging baskets and decorative containers. It thrives in warm, humid environments with bright indirect light, loose well-draining soil and careful watering. With suitable care, Flame Violet provides a colourful combination of ornamental foliage and delicate flowers for sheltered indoor and outdoor spaces.",
+  image: "/plants/flame-violet.jpg",
+  light: "Bright indirect light",
+  water: "When the soil surface begins to dry",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Place Flame Violet in a bright location with filtered or indirect sunlight. Avoid prolonged harsh direct sunlight because its delicate foliage can scorch.",
+    "Provide sufficient light to support healthy foliage colour and flowering, but avoid deep shade because it may reduce growth and flower production.",
+    "Water when the soil surface begins to dry, maintaining light, even moisture during active growth without keeping the potting mix saturated.",
+    "Avoid allowing the root zone to remain completely dry for extended periods because prolonged dryness may damage the delicate foliage.",
+    "Use a loose, moisture-retentive but well-draining potting mix containing suitable organic matter and aeration materials such as perlite.",
+    "Grow the plant in a container with adequate drainage holes to prevent excess water accumulation.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold temperatures and sudden temperature changes.",
+    "Provide moderate to high humidity, particularly during dry weather or in air-conditioned rooms.",
+    "Avoid placing the plant directly in strong, drying winds or close to air conditioners and hot air outlets.",
+    "Avoid wetting the velvety leaves unnecessarily because prolonged moisture on the foliage can encourage spotting or disease.",
+    "Consider bottom watering when practical, allowing the potting mix to absorb moisture before draining away any excess water.",
+    "Provide good air circulation around the plant while protecting it from strong drafts.",
+    "Feed lightly during active growth using a balanced fertilizer at an appropriate dilution according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because accumulated fertilizer salts may damage the roots and affect foliage health.",
+    "Remove dead, damaged or yellowing leaves using clean pruning tools.",
+    "Pinch back excessively long stems when necessary to encourage a fuller, more compact appearance.",
+    "Allow healthy stolons to develop naturally or guide them into suitable containers when propagating new plants.",
+    "Inspect regularly for common pests such as mealybugs, aphids, thrips and other sap-feeding insects.",
+    "Monitor for crown rot, stem rot or leaf spotting, particularly when the growing medium remains excessively wet.",
+    "Repot when necessary during active growth, using a shallow or moderately sized container appropriate for its spreading root system.",
+    "Avoid unnecessary disturbance of the roots and newly developing plantlets."
+  ],
+  propagation: [
+    {
+      method: "Stolon Plantlets",
+      description:
+        "Flame Violet commonly produces creeping stolons that develop small plantlets. Once a plantlet has formed suitable roots, it can be carefully separated from the parent plant and transplanted into a small container with a loose, lightly moist potting mix. Maintain warmth, humidity and bright indirect light while it establishes."
+    },
+    {
+      method: "Stem Cuttings",
+      description:
+        "Select a healthy stem section containing suitable nodes and remove the lower leaves. Place the cutting in a lightly moist, well-draining propagation medium and maintain warm, humid conditions with bright indirect light until roots develop."
+    },
+    {
+      method: "Division",
+      description:
+        "Established plants with multiple rooted crowns or connected plantlets can sometimes be divided during repotting. Carefully separate healthy rooted sections and transplant them into individual containers, keeping the growing medium lightly moist while they establish."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Velvety Foliage",
+      description:
+        "Its soft, textured leaves display attractive colours and patterns that create a distinctive ornamental appearance."
+    },
+    {
+      title: "Vibrant Tubular Flowers",
+      description:
+        "Flame Violet produces colourful tubular flowers that contrast beautifully with its decorative foliage."
+    },
+    {
+      title: "Excellent Hanging Basket Plant",
+      description:
+        "Its trailing stems and spreading stolons create attractive cascading displays in hanging baskets and elevated containers."
+    },
+    {
+      title: "Suitable for Sheltered Tropical Spaces",
+      description:
+        "Flame Violet thrives in warm, humid environments with filtered light, making it suitable for bright indoor areas and sheltered patios."
+    },
+    {
+      title: "Interesting Foliage Varieties",
+      description:
+        "Cultivated forms may display shades of green, copper, bronze, silver and reddish tones, offering attractive decorative options."
+    },
+    {
+      title: "Easy Vegetative Propagation",
+      description:
+        "Healthy stolon plantlets and stem cuttings can be used to produce additional plants under suitable growing conditions."
+    }
+  ]
+},
+
+{
+  id: "episcia-lilacina",
+  name: "Episcia Lilacina",
+  scientificName: "Episcia lilacina",
+  category: "Tropical Foliage Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A tropical member of the African violet family, suited to warm, humid conditions and sheltered ornamental plant collections.",
+  description:
+    "Episcia lilacina is a tropical plant species in the Gesneriaceae family, native to regions extending from southern Mexico through Central America to Colombia. It occurs in wet tropical environments and belongs to the same genus as the ornamental Flame Violet. For cultivation, a sheltered position with bright filtered light, a loose and well-draining growing medium, consistent light moisture and moderate to high humidity is a reasonable starting point. Because detailed horticultural information for this particular species is limited, its foliage appearance, flowering characteristics and exact care requirements should be confirmed against a correctly identified nursery specimen. Episcia lilacina should not be confused with Kalanchoe fedtschenkoi, the succulent commonly known as Lavender Scallops.",
+  image: "/plants/episcia-lilacina.jpg",
+  light: "Bright indirect light",
+  water: "Keep lightly moist; avoid waterlogging",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Grow Episcia lilacina in bright filtered light, avoiding prolonged exposure to harsh direct afternoon sunlight.",
+    "Begin with a sheltered growing position that resembles the warm, humid conditions preferred by many tropical members of the Episcia genus.",
+    "Water when the surface of the growing medium begins to dry, maintaining light moisture without saturating the root zone.",
+    "Adjust watering frequency according to the plant's observed growth, container size and surrounding temperature.",
+    "Use a loose, fertile and well-draining growing medium containing suitable organic matter and aeration materials.",
+    "Choose a container with adequate drainage holes so excess water can escape freely.",
+    "Maintain warm conditions and protect the plant from prolonged cold exposure.",
+    "Provide moderate to high humidity while maintaining good air circulation.",
+    "Avoid placing the plant directly in strong, drying winds or near air-conditioning outlets.",
+    "Keep foliage from remaining wet for prolonged periods, particularly in poorly ventilated environments.",
+    "Feed lightly during active growth with a suitably diluted balanced fertilizer.",
+    "Avoid excessive fertilization, which may cause salt accumulation and root damage.",
+    "Remove dead, yellowing or damaged foliage using clean pruning tools.",
+    "Inspect regularly for mealybugs, aphids, thrips and other common ornamental plant pests.",
+    "Monitor for root and stem rot when the growing medium remains excessively wet.",
+    "Observe the plant's response to light and moisture before making major changes to its growing conditions.",
+    "Repot when necessary using a container appropriate for the established root system.",
+    "Avoid unnecessary disturbance of the roots while the plant is establishing.",
+    "Keep the plant out of reach of pets and children until reliable species-specific safety information has been confirmed."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Stem cuttings are commonly used for cultivated Episcia species. If the specimen develops suitable stems, take healthy sections containing nodes and place them in a clean, lightly moist propagation medium. Maintain warmth, humidity and bright indirect light while monitoring for root development."
+    },
+    {
+      method: "Rooted Shoot Separation",
+      description:
+        "If the plant produces naturally rooted shoots or connected plantlets, suitable sections may be separated carefully and established in individual containers. Confirm the growth habit of the specimen before using this technique."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Episcia species can reproduce through seeds following successful flowering and pollination. Viable seeds may be sown on a fine, moist propagation medium under warm, humid conditions. Species-specific germination requirements should be verified before attempting nursery-scale propagation."
+    }
+  ],
+  benefits: [
+    {
+      title: "Tropical Botanical Interest",
+      description:
+        "Episcia lilacina belongs to a diverse group of tropical plants valued in botanical and ornamental collections."
+    },
+    {
+      title: "Suitable for Sheltered Cultivation",
+      description:
+        "Its tropical origins make it a candidate for carefully maintained warm and humid growing environments."
+    },
+    {
+      title: "Interesting Gesneriad Collection",
+      description:
+        "It can complement other members of the Gesneriaceae family in a specialist ornamental plant collection."
+    },
+    {
+      title: "Container Cultivation Potential",
+      description:
+        "A well-draining container allows growers to manage moisture and growing conditions more closely."
+    },
+    {
+      title: "Educational Botanical Value",
+      description:
+        "Its inclusion provides an opportunity to explore the diversity of the Episcia genus beyond commonly cultivated Flame Violet varieties."
+    },
+    {
+      title: "Potential for Nursery Propagation",
+      description:
+        "Once the specimen's growth habit is confirmed, suitable vegetative propagation methods may help expand cultivated stock."
+    }
+  ]
+},
+
+{
+  id: "turtle-vine",
+  name: "Turtle Vine",
+  scientificName: "Callisia repens",
+  category: "Trailing Foliage Plant",
+  careLevel: "Easy",
+  shortDescription:
+    "A charming, fast-growing trailing plant with tiny, closely packed green leaves and cascading stems, ideal for hanging baskets and decorative containers.",
+  description:
+    "Turtle Vine (Callisia repens), also known as Creeping Inch Plant, is a low-growing tropical plant admired for its small, densely arranged leaves and vigorous creeping growth habit. Native to tropical and subtropical regions of the Americas, this attractive member of the Commelinaceae family produces slender, branching stems covered with small, fleshy leaves. Depending on the cultivar and growing conditions, its foliage may display shades of green, purple, pink or cream. The plant spreads readily, forming a dense mat or cascading attractively over the edges of containers. Turtle Vine thrives in warm conditions with bright indirect light, loose well-draining soil and moderate watering. Its compact foliage and trailing growth make it suitable for hanging baskets, decorative pots, shelves and sheltered outdoor displays. Regular pruning helps maintain a fuller appearance, while healthy stem cuttings root readily under suitable conditions.",
+  image: "/plants/turtle-vine.jpg",
+  light: "Bright indirect light to gentle morning sun",
+  water: "When the top 1 inch of soil begins to dry",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Place Turtle Vine in a bright location with plenty of indirect sunlight to encourage compact growth and attractive foliage colour.",
+    "Gentle morning sunlight may be beneficial, but protect the plant from prolonged harsh afternoon sun, particularly during very hot weather.",
+    "Avoid deep shade because insufficient light can cause weak, elongated stems and reduced foliage density.",
+    "Water when the upper inch of potting mix begins to dry, allowing excess water to drain freely.",
+    "Avoid keeping the growing medium constantly saturated because prolonged waterlogging can damage the roots and stems.",
+    "Use a loose, fertile and well-draining potting mix containing suitable organic matter and aeration materials such as perlite.",
+    "Grow Turtle Vine in a container with adequate drainage holes to prevent water accumulation.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold temperatures.",
+    "Provide moderate humidity, although established plants can tolerate ordinary household humidity in suitable conditions.",
+    "Avoid placing the plant directly in strong, drying winds or close to air conditioners and hot air outlets.",
+    "Feed lightly during active growth using a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because it may encourage weak growth or cause root damage.",
+    "Pinch back growing tips regularly to encourage branching and maintain a fuller, denser appearance.",
+    "Prune excessively long or leggy stems to control the plant's shape and encourage fresh growth.",
+    "Remove dead, damaged or yellowing leaves using clean pruning tools.",
+    "Rotate container-grown plants occasionally to encourage balanced growth toward the available light.",
+    "Inspect periodically for common pests such as aphids, mealybugs, spider mites and other sap-feeding insects.",
+    "Monitor for soft, discoloured or rotting stems, particularly when the growing medium remains excessively wet.",
+    "Repot when the root system becomes crowded or the plant outgrows its container, preferably during active growth.",
+    "Keep Turtle Vine contained in pots where possible because its creeping stems can root at nodes and spread into surrounding soil.",
+    "Dispose of unwanted cuttings responsibly rather than leaving them on moist garden soil where they may establish."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings in Soil",
+      description:
+        "Select healthy stems containing several nodes and cut them into suitable sections using clean scissors. Remove any leaves that would be buried and insert the lower nodes into a lightly moist, well-draining potting mix. Maintain warmth and bright indirect light while roots establish. Plant several cuttings together to create a fuller container."
+    },
+    {
+      method: "Stem Cuttings in Water",
+      description:
+        "Healthy Turtle Vine cuttings can be rooted in clean water. Place one or more nodes below the water surface while keeping the leaves above it. Change the water regularly and transfer the cuttings into a suitable potting mix once healthy roots develop."
+    },
+    {
+      method: "Layering",
+      description:
+        "Turtle Vine stems can develop roots where their nodes contact moist soil. Gently position a healthy stem against the surface of a nearby container and secure a node in place. Once roots develop, separate the rooted section from the parent plant and transplant it if necessary."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Dense Foliage",
+      description:
+        "Its small, closely packed leaves create an attractive green carpet or cascading ornamental display."
+    },
+    {
+      title: "Excellent Hanging Basket Plant",
+      description:
+        "Its trailing stems spill attractively over the edges of hanging baskets, shelves and decorative containers."
+    },
+    {
+      title: "Fast-Growing Plant",
+      description:
+        "Under suitable conditions, Turtle Vine grows vigorously and can quickly develop into a lush ornamental display."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Healthy stem cuttings root readily in water or suitable potting media, making it practical for nursery propagation."
+    },
+    {
+      title: "Responds Well to Pruning",
+      description:
+        "Regular pinching and pruning encourage branching and help maintain a compact, bushy appearance."
+    },
+    {
+      title: "Versatile Decorative Plant",
+      description:
+        "Turtle Vine can be grown in hanging baskets, decorative pots and sheltered outdoor displays, adding texture and greenery to different spaces."
+    }
+  ]
+},
+
+{
+  id: "broad-leaf-palm-lily",
+  name: "Broad Leaf Palm Lily",
+  scientificName: "Cordyline petiolaris",
+  category: "Ornamental Foliage Plant",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "An elegant evergreen foliage plant with broad, glossy green leaves and a graceful upright growth habit, ideal for shaded tropical gardens and decorative containers.",
+  description:
+    "Broad Leaf Palm Lily (Cordyline petiolaris), also known as Broad-leaved Palm Lily, is an attractive evergreen plant native to the subtropical rainforests of eastern Australia. It is admired for its large, glossy, broadly oval to lance-shaped green leaves supported by distinct leaf stalks. Unlike narrow-leaved Cordyline varieties, this species develops wider foliage that creates a lush, tropical appearance. As the plant matures, it can develop an upright stem with foliage concentrated toward the upper portion, giving it a palm-like appearance despite not being a true palm. Broad Leaf Palm Lily thrives in warm, sheltered conditions with bright filtered light, fertile well-draining soil and regular moisture during active growth. It is suitable for shaded gardens, protected patios, spacious decorative containers and tropical landscape designs. Mature plants may produce clusters of small flowers followed by colourful berries under suitable growing conditions.",
+  image: "/plants/broad-leaf-palm-lily.jpg",
+  light: "Bright indirect light to partial shade",
+  water: "When the top 1–2 inches of soil begin to dry",
+  temperature: "60–85°F (16–29°C)",
+  careGuide: [
+    "Grow Broad Leaf Palm Lily in bright filtered light or partial shade, especially when cultivated in hot tropical climates.",
+    "Protect the plant from prolonged harsh afternoon sunlight because intense exposure may scorch or discolour the leaves.",
+    "Gentle morning sunlight may be tolerated after gradual acclimatization, particularly by established outdoor plants.",
+    "Water regularly during active growth, allowing the upper 1–2 inches of soil to begin drying before watering again.",
+    "Avoid keeping the root zone constantly saturated because prolonged waterlogging can damage the roots.",
+    "Use a fertile, moisture-retentive but well-draining potting mix containing suitable organic matter and aeration materials.",
+    "Grow container plants in pots with adequate drainage holes to prevent excess water accumulation.",
+    "Add mature compost to suitable garden soil to improve its structure and moisture retention.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold temperatures.",
+    "Provide moderate humidity, particularly for younger plants grown in sheltered indoor environments.",
+    "Protect young plants from strong, drying winds that may damage their broad foliage.",
+    "Feed lightly during active growth using a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilizer application because accumulated salts may damage the roots and foliage.",
+    "Remove dead, damaged or yellowing leaves using clean pruning tools.",
+    "Clean dusty leaves gently with a soft, damp cloth to maintain their appearance.",
+    "Allow sufficient growing space because mature plants may develop an upright stem and a substantial spread of foliage.",
+    "Inspect periodically for common pests such as scale insects, mealybugs and other sap-feeding insects.",
+    "Monitor for leaf spotting or root problems, particularly during prolonged wet conditions with poor air circulation.",
+    "Repot container-grown plants when the roots become crowded, preferably during active growth.",
+    "Avoid unnecessary disturbance of established roots and allow newly transplanted plants time to acclimatize.",
+    "Keep berries and other plant parts away from children and pets because reliable species-specific ingestion safety information is limited."
+  ],
+  propagation: [
+    {
+      method: "Seed Propagation",
+      description:
+        "Broad Leaf Palm Lily can be propagated from viable seeds collected from mature fruits. Remove the fleshy fruit material, clean the seeds and sow them in a suitable well-draining propagation medium. Maintain warmth, light moisture and appropriate humidity during germination. Seed germination may take time, and fresh, correctly identified seeds are preferable."
+    },
+    {
+      method: "Stem Cuttings",
+      description:
+        "Cordyline species can sometimes be propagated using suitable stem sections. For mature Broad Leaf Palm Lily plants with sufficiently developed stems, carefully prepared cuttings may be placed in a warm, lightly moist, well-draining propagation medium. Rooting success varies, and this method should be tested on healthy nursery stock before being used commercially."
+    },
+    {
+      method: "Basal Shoots",
+      description:
+        "If an established plant develops suitable basal shoots with their own roots, these may be carefully separated during active growth and transplanted into individual containers. Not all plants produce offsets readily, so availability depends on the individual specimen."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Broad Green Leaves",
+      description:
+        "Its large, glossy foliage creates a lush ornamental display that adds tropical character to gardens and sheltered spaces."
+    },
+    {
+      title: "Excellent for Shaded Gardens",
+      description:
+        "Broad Leaf Palm Lily performs well in filtered light and partial shade, making it useful for sheltered tropical landscape designs."
+    },
+    {
+      title: "Attractive Upright Growth",
+      description:
+        "Its distinctive upright habit and broad foliage create an elegant architectural appearance as the plant matures."
+    },
+    {
+      title: "Suitable for Decorative Containers",
+      description:
+        "Young and moderately sized plants can be cultivated in spacious decorative containers for patios, verandas and sheltered outdoor displays."
+    },
+    {
+      title: "Evergreen Ornamental Foliage",
+      description:
+        "Under favourable conditions, its green leaves provide continuing visual interest throughout the year."
+    },
+    {
+      title: "Useful for Tropical Landscaping",
+      description:
+        "Its broad leaves and shade tolerance make it an attractive choice for tropical garden borders, understory plantings and sheltered landscape areas."
+    }
+  ]
+},
+
+{
+  id: "leopard-plant",
+  name: "Leopard Plant",
+  scientificName: "Farfugium japonicum",
+  category: "Ornamental Foliage Perennial",
+  careLevel: "Moderate",
+  shortDescription:
+    "A striking ornamental perennial with large, glossy, rounded leaves and cheerful yellow daisy-like flowers, ideal for shaded gardens and decorative containers.",
+  description:
+    "Leopard Plant (Farfugium japonicum), also known as Tractor Seat Plant, is an attractive evergreen or semi-evergreen perennial admired for its large, glossy, rounded leaves and seasonal yellow daisy-like flowers. Native to coastal and woodland environments in East Asia, this ornamental member of the Asteraceae family develops substantial foliage that creates a bold, tropical-looking display. Depending on the cultivar, the leaves may be uniformly green or decorated with distinctive yellow spots and markings. Its rounded, leathery leaves are the plant's main ornamental feature, while its yellow flowers provide additional seasonal interest. Leopard Plant thrives in sheltered conditions with partial shade, fertile moisture-retentive but well-draining soil and regular watering. It is particularly suitable for shaded garden borders, decorative containers and protected landscape areas. In hot tropical climates, protection from intense afternoon sunlight and careful moisture management are important for maintaining healthy foliage.",
+  image: "/plants/leopard-plant.jpg",
+  light: "Partial shade to bright indirect light",
+  water: "Keep soil evenly moist, not waterlogged",
+  temperature: "55–80°F (13–27°C)",
+  careGuide: [
+    "Grow Leopard Plant in partial shade or bright filtered light, particularly in warm tropical climates.",
+    "Protect the plant from prolonged harsh afternoon sunlight because intense exposure can scorch or wilt the large leaves.",
+    "Gentle morning sunlight may be tolerated when the plant is well established and adequately watered.",
+    "Keep the potting mix evenly moist during active growth, allowing the upper surface to begin drying slightly before watering again.",
+    "Avoid prolonged dryness because Leopard Plant's large leaves may wilt noticeably when moisture is insufficient.",
+    "Avoid keeping the root zone constantly saturated because waterlogged soil can damage the roots.",
+    "Use fertile, moisture-retentive but well-draining soil enriched with suitable organic matter.",
+    "Grow container plants in pots with adequate drainage holes to prevent excess water accumulation.",
+    "Apply a suitable organic mulch around garden-grown plants to help conserve soil moisture and moderate root-zone temperatures.",
+    "Maintain mild to warm growing conditions and provide extra protection during prolonged periods of extreme heat.",
+    "Provide good air circulation while protecting the plant from strong, drying winds.",
+    "Feed lightly during active growth using a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because accumulated salts may damage the roots and foliage.",
+    "Remove dead, damaged or yellowing leaves using clean pruning tools.",
+    "Remove spent flower stalks after flowering to maintain a neat ornamental appearance.",
+    "Inspect periodically for common pests such as slugs, snails, aphids and other leaf-feeding insects.",
+    "Monitor for leaf scorching, wilting or browning, which may indicate excessive sunlight, heat stress or insufficient moisture.",
+    "Repot container-grown plants when the roots become crowded, preferably during a suitable active-growth period.",
+    "Divide established clumps when necessary to control their size or propagate additional plants.",
+    "Avoid unnecessary disturbance of established roots, especially during periods of high heat.",
+    "Keep the plant away from children and pets until species-specific ingestion safety has been confirmed."
+  ],
+  propagation: [
+    {
+      method: "Clump Division",
+      description:
+        "Leopard Plant is commonly propagated by dividing established clumps. Carefully lift a mature plant and separate suitable rooted sections, ensuring each division contains healthy roots and growing points. Replant the divisions in fertile, moisture-retentive but well-draining soil and maintain consistent moisture while they establish."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Leopard Plant can be propagated from viable seeds produced after successful flowering and pollination. Sow seeds in a suitable clean, lightly moist propagation medium and maintain appropriate warmth and filtered light. Seed-grown plants may vary from named ornamental cultivars, particularly those selected for distinctive leaf markings."
+    }
+  ],
+  benefits: [
+    {
+      title: "Large Architectural Leaves",
+      description:
+        "Its broad, glossy, rounded leaves create a bold ornamental display that adds structure and texture to garden designs."
+    },
+    {
+      title: "Attractive Variegated Cultivars",
+      description:
+        "Certain cultivated varieties display distinctive yellow spots or markings that make the foliage particularly eye-catching."
+    },
+    {
+      title: "Beautiful Yellow Flowers",
+      description:
+        "Mature plants may produce cheerful yellow daisy-like flowers that provide additional seasonal ornamental interest."
+    },
+    {
+      title: "Excellent for Shaded Gardens",
+      description:
+        "Leopard Plant performs well in sheltered partial shade, making it suitable for protected garden borders and landscape displays."
+    },
+    {
+      title: "Suitable for Decorative Containers",
+      description:
+        "Its bold foliage makes it attractive in spacious decorative pots on shaded patios and sheltered verandas."
+    },
+    {
+      title: "Long-Lived Ornamental Perennial",
+      description:
+        "With suitable growing conditions and occasional division, established plants can provide ornamental foliage for many years."
+    }
+  ]
+},
+
+
+
+
+
+
+
 
 
 
