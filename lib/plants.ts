@@ -3963,7 +3963,471 @@ export const plants: Plant[] = [
         "The species offers an opportunity to educate customers about ornamental plants, groundcovers and responsible management of potentially invasive species."
     }
   ]
-}
+},
+
+{
+  id: "climbing-fig",
+  name: "Climbing Fig",
+  scientificName: "Ficus pumila",
+  category: "Climbing & Trailing Plant",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "A vigorous evergreen climbing plant with small heart-shaped leaves and adhesive stems, ideal for green walls, decorative containers and carefully managed vertical gardens.",
+  description:
+    "Climbing Fig (Ficus pumila), also known as Creeping Fig, is a vigorous evergreen climbing plant belonging to the Moraceae family. Native to parts of East Asia, it is recognised for its small, heart-shaped juvenile leaves, slender climbing stems and specialised aerial roots that allow it to attach to walls, trees and other surfaces. As the plant matures, its growth can become woody, with larger and thicker adult leaves that differ noticeably from its delicate juvenile foliage. Climbing Fig thrives in warm conditions with bright indirect light, partial shade and consistently moderate soil moisture. It can be cultivated in hanging baskets, decorative containers, trellises and carefully managed vertical gardens. In tropical climates such as Ghana, it can grow rapidly and requires regular pruning to prevent excessive spreading. Its adhesive roots may damage paint, weak mortar or deteriorating surfaces, and established growth can be difficult to remove without leaving marks. The plant produces a milky latex sap that may irritate skin and is not intended for consumption. Responsible cultivation requires suitable placement, maintenance and monitoring of unwanted growth.",
+  image: "/plants/climbing-fig.jpg",
+  light: "Bright indirect light to partial shade",
+  water: "Keep moderately moist; allow the upper soil to begin drying",
+  temperature: "60–90°F (16–32°C)",
+  careGuide: [
+    "Grow Climbing Fig in bright indirect light or partial shade for healthy foliage development.",
+    "Protect young plants from prolonged harsh afternoon sunlight, particularly when grown in exposed containers.",
+    "Provide adequate light to encourage dense growth and prevent weak, elongated stems.",
+    "Use fertile, loose and well-draining soil containing suitable organic matter.",
+    "Maintain moderately moist soil during active growth, allowing the upper layer to begin drying between watering sessions.",
+    "Avoid allowing newly established plants to dry out completely for extended periods because this may cause leaf loss.",
+    "Reduce watering during prolonged rainy periods when the growing medium remains naturally moist.",
+    "Avoid prolonged waterlogging because saturated soil can damage the roots.",
+    "Grow container plants in pots with adequate drainage holes.",
+    "Maintain warm growing conditions and protect young plants from prolonged cold exposure.",
+    "Provide moderate humidity, particularly for indoor plants exposed to air conditioning or dry indoor conditions.",
+    "Offer a suitable trellis, mesh support or freestanding structure when training the plant to climb.",
+    "Avoid allowing Climbing Fig to attach directly to painted walls, damaged plaster, weak mortar or deteriorating building surfaces.",
+    "Inspect climbing supports regularly because mature growth can become heavy and woody.",
+    "Prune regularly to maintain the desired shape and prevent uncontrolled spreading.",
+    "Trim stems before they enter roof spaces, gutters, ventilation openings or other building structures.",
+    "Remove dead, damaged or unhealthy foliage using clean pruning tools.",
+    "Wear gloves when pruning if you have sensitive skin because the milky latex sap may cause irritation.",
+    "Feed lightly during active growth using a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because it can encourage overly vigorous growth and increase pruning requirements.",
+    "Inspect regularly for scale insects, mealybugs, spider mites and other common pests.",
+    "Monitor for yellowing leaves, weak growth or root problems associated with unsuitable watering conditions.",
+    "Repot container-grown plants when their roots become crowded or growth noticeably declines.",
+    "Dispose of unwanted cuttings responsibly and prevent stems from rooting in unmanaged areas.",
+    "Keep the plant away from pets and children who may chew its leaves or stems."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Climbing Fig can be propagated from healthy stem cuttings containing several nodes. Remove the lower leaves and place the cuttings into a lightly moist, well-draining propagation medium. Maintain warmth, moderate humidity and bright indirect light until roots develop. Once established, transplant the rooted cuttings into suitable containers."
+    },
+    {
+      method: "Layering",
+      description:
+        "Flexible stems can be encouraged to develop roots while still attached to the parent plant. Position a suitable stem section against moist growing medium and secure it gently in place. Once sufficient roots have developed, separate the rooted section and transplant it into an individual container."
+    },
+    {
+      method: "Rooted Stem Division",
+      description:
+        "Where creeping stems have already developed independent roots, suitable rooted sections may be carefully separated from the parent plant. Replant each section in a loose, well-draining potting mix and maintain moderate moisture while it establishes."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Green Wall Coverage",
+      description:
+        "Its dense foliage can create an attractive living green surface when grown on suitable supports and maintained regularly."
+    },
+    {
+      title: "Attractive Heart-Shaped Leaves",
+      description:
+        "The small juvenile leaves provide a delicate texture that complements tropical gardens and ornamental plant displays."
+    },
+    {
+      title: "Versatile Ornamental Growth",
+      description:
+        "Climbing Fig can be grown as a climber, trailing container plant or decorative hanging plant."
+    },
+    {
+      title: "Suitable for Vertical Gardening",
+      description:
+        "Its climbing habit makes it useful for carefully designed trellises, plant frames and vertical garden structures."
+    },
+    {
+      title: "Evergreen Tropical Foliage",
+      description:
+        "Under suitable growing conditions, the plant maintains attractive green foliage throughout much of the year."
+    },
+    {
+      title: "Easy Vegetative Propagation",
+      description:
+        "Healthy stem cuttings and rooted sections can be used to produce additional plants under appropriate nursery conditions."
+    }
+  ]
+},
+
+{
+  id: "spiked-spiralflag-ginger",
+  name: "Spiked Spiralflag Ginger",
+  scientificName: "Cheilocostus speciosus",
+  category: "Tropical Flowering Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A spectacular tropical flowering plant with spirally arranged green leaves, upright stems and delicate white flowers emerging from reddish cone-shaped bracts.",
+  description:
+    "Spiked Spiralflag Ginger (Cheilocostus speciosus), widely known by its older botanical name Costus speciosus, is a tropical flowering plant belonging to the Costaceae family. Native to tropical Asia, it is admired for its upright, cane-like stems, large green leaves arranged in a distinctive spiral pattern and striking terminal flower spikes. Its flowers are typically white with delicate, crinkled petals that emerge from reddish or reddish-brown bracts. The plant grows from underground rhizomes and can form substantial clumps under favourable conditions. It thrives in warm, humid environments with fertile, moisture-retentive but well-draining soil and bright filtered light or gentle sunlight. Spiked Spiralflag Ginger is suitable for tropical gardens, sheltered landscaping and large decorative containers. In Ghana, it benefits from regular watering during dry periods and protection from intense afternoon heat when newly established. The species has a history of traditional medicinal use, but these uses do not establish its safety or effectiveness for treating medical conditions. It should be cultivated primarily for its ornamental and botanical value.",
+  image: "/plants/spiked-spiralflag-ginger.jpg",
+  light: "Bright indirect light to partial sun",
+  water: "Keep evenly moist during active growth",
+  temperature: "68–95°F (20–35°C)",
+  careGuide: [
+    "Grow Spiked Spiralflag Ginger in a warm outdoor location receiving bright filtered light or gentle morning sunlight.",
+    "Provide partial shade in locations exposed to intense afternoon heat, especially while plants are establishing.",
+    "Avoid prolonged deep shade because insufficient light may reduce flowering and weaken growth.",
+    "Use fertile, organically rich soil that retains moderate moisture while draining excess water effectively.",
+    "Incorporate well-decomposed compost or other suitable organic matter to improve soil structure and moisture retention.",
+    "Water regularly during active growth to maintain evenly moist soil without creating prolonged waterlogging.",
+    "Increase watering attention during Ghana's dry season, particularly for container-grown plants.",
+    "Reduce watering when heavy rainfall provides sufficient natural moisture.",
+    "Avoid allowing the root zone to remain saturated for prolonged periods because rhizomes may rot.",
+    "Apply a layer of organic mulch around outdoor plants to help conserve moisture and moderate soil temperatures.",
+    "Maintain warm growing conditions and protect young plants from prolonged cold exposure.",
+    "Provide sufficient growing space because mature plants can form spreading clumps through underground rhizomes.",
+    "Grow container specimens in large pots with adequate drainage holes and sufficient room for rhizome development.",
+    "Feed moderately during active growth using a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive nitrogen fertilization because it may encourage foliage growth at the expense of flowering.",
+    "Remove dead, damaged or yellowing leaves using clean pruning tools.",
+    "Cut back spent flowering stems when they naturally decline or become unattractive.",
+    "Avoid unnecessary removal of healthy stems because their leaves contribute to energy production and rhizome development.",
+    "Inspect periodically for aphids, mealybugs, scale insects and other common garden pests.",
+    "Monitor for fungal leaf spots or rhizome problems during prolonged periods of excessive moisture.",
+    "Maintain adequate airflow around densely planted clumps to reduce prolonged leaf wetness.",
+    "Divide overcrowded rhizome clumps when necessary to maintain healthy growth and manageable plant size.",
+    "Repot container-grown plants when their rhizomes become crowded or growth noticeably declines.",
+    "Dispose of unwanted rhizome fragments responsibly to prevent unintended establishment.",
+    "Avoid consuming plant parts or using homemade medicinal preparations without qualified professional guidance."
+  ],
+  propagation: [
+    {
+      method: "Rhizome Division",
+      description:
+        "Spiked Spiralflag Ginger is commonly propagated by dividing established rhizome clumps. Carefully lift a healthy plant and separate suitable rhizome sections, ensuring each division contains viable growth buds and healthy roots where possible. Replant the divisions in fertile, well-draining soil and maintain warmth and moderate moisture while new shoots establish."
+    },
+    {
+      method: "Clump Division",
+      description:
+        "Mature plants often develop multiple shoots from an expanding underground rhizome system. Suitable rooted sections can be separated from the parent clump and transplanted into individual containers or prepared garden beds. Water regularly during establishment while avoiding prolonged saturation."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Where viable seeds are produced, they may be sown in a suitable moist, well-draining propagation medium under warm conditions. Maintain consistent but controlled moisture until germination occurs. Seed propagation is generally slower and less convenient than rhizome division for routine nursery production."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Tropical Flowers",
+      description:
+        "Its delicate white flowers emerging from reddish bracts create a distinctive ornamental display."
+    },
+    {
+      title: "Unique Spiral Leaf Arrangement",
+      description:
+        "The spirally arranged green leaves give the plant an attractive architectural appearance."
+    },
+    {
+      title: "Lush Tropical Garden Appeal",
+      description:
+        "Its upright stems and broad foliage add texture and height to suitable tropical landscaping."
+    },
+    {
+      title: "Suitable for Ornamental Borders",
+      description:
+        "Spiked Spiralflag Ginger can be grown in spacious garden beds and sheltered borders where moisture is available."
+    },
+    {
+      title: "Rhizome Propagation Potential",
+      description:
+        "Established plants can be multiplied through rhizome division to produce additional nursery specimens."
+    },
+    {
+      title: "Botanical Educational Value",
+      description:
+        "Its unusual spiral foliage and flowering structures make it an interesting species for botanical study and plant identification."
+    }
+  ]
+},
+
+{
+  id: "guaiacum-tree-of-life",
+  name: "Guaiacum / Tree of Life",
+  scientificName: "Guaiacum sp.",
+  category: "Tropical Ornamental Tree",
+  careLevel: "Moderate",
+  shortDescription:
+    "A slow-growing tropical evergreen tree admired for its blue-violet flowers, attractive compound foliage and exceptionally dense wood. Exact species identification pending.",
+  description:
+    "Guaiacum, commonly associated with the names Lignum Vitae and Tree of Life, is a genus of slow-growing tropical trees in the Zygophyllaceae family. This MRD FLOWERS specimen has not yet been conclusively identified and may belong to either Guaiacum officinale or Guaiacum sanctum. Both species are native to the Caribbean and neighbouring parts of the tropical Americas and are admired for their attractive blue to violet flowers, small compound leaves and exceptionally dense hardwood. Guaiacum trees generally prefer warm conditions, abundant sunlight and well-draining soil. Established specimens can tolerate periods of dryness, although young trees require more consistent watering while their root systems develop. These trees grow relatively slowly and should be cultivated with patience and adequate long-term space. Both Guaiacum officinale and Guaiacum sanctum have faced conservation pressures associated with habitat loss and historical timber exploitation. Nursery plants should be obtained from lawful, traceable sources, and any international trade must comply with applicable conservation and plant-health regulations. The tree is best appreciated for its ornamental, botanical and conservation value rather than promoted for unverified medicinal uses.",
+  image: "/plants/guaiacum-tree-of-life.jpg",
+  light: "Full sun to bright partial sun",
+  water: "Moderate when young; reduced once established",
+  temperature: "68–95°F (20–35°C)",
+  careGuide: [
+    "Grow Guaiacum in a warm outdoor location receiving abundant sunlight.",
+    "Provide at least six hours of direct sunlight where possible, while gradually acclimatising young nursery plants to exposed conditions.",
+    "Choose a spacious planting location that can accommodate the tree's eventual mature canopy and root system.",
+    "Use well-draining soil and avoid locations where water remains standing for prolonged periods.",
+    "Water young seedlings regularly during establishment, allowing the upper soil to begin drying between watering sessions.",
+    "Reduce watering frequency gradually as the tree develops an established root system.",
+    "Established trees can tolerate periods of seasonal dryness, although severe drought may still affect growth.",
+    "Avoid prolonged waterlogging because poorly drained conditions can damage roots.",
+    "Grow nursery seedlings in containers with adequate drainage holes.",
+    "Maintain warm growing conditions and protect young trees from unusually cold temperatures.",
+    "Apply a moderate layer of organic mulch around young trees to conserve moisture, keeping mulch away from the trunk.",
+    "Avoid excessive fertilizer applications because Guaiacum is naturally slow-growing.",
+    "Use balanced nutrients sparingly when soil conditions indicate a genuine deficiency.",
+    "Do not expect rapid growth, as Guaiacum species can take many years to develop into substantial trees.",
+    "Prune young trees lightly to remove dead, damaged or crossing branches and encourage a stable structure.",
+    "Avoid heavy pruning or unnecessary removal of healthy branches.",
+    "Use clean pruning tools and avoid damaging the bark or main trunk.",
+    "Inspect periodically for scale insects, mealybugs and other common pests.",
+    "Monitor for leaf discolouration, weak growth or root problems associated with unsuitable soil moisture.",
+    "Repot container-grown seedlings when necessary, using containers that accommodate healthy root development.",
+    "Transplant young trees carefully to minimise root disturbance.",
+    "Avoid planting too close to buildings, underground utilities or overhead power lines.",
+    "Purchase seedlings only from reputable nurseries that can document lawful plant origins.",
+    "Confirm the exact species before publishing species-specific identification or conservation claims.",
+    "Check applicable conservation and plant-health regulations before importing, exporting or commercially trading Guaiacum plants or seeds."
+  ],
+  propagation: [
+    {
+      method: "Seed Propagation",
+      description:
+        "Guaiacum species may be propagated using viable seeds collected from legally obtained, correctly identified parent plants. Germination can be slow or variable depending on seed condition and species. Sow seeds in a suitable well-draining nursery medium and maintain warm conditions with controlled moisture. Obtain species-specific guidance before applying any seed treatments."
+    },
+    {
+      method: "Nursery Seedling Cultivation",
+      description:
+        "Young Guaiacum seedlings can be raised in suitable containers with well-draining soil and adequate sunlight. Water consistently during establishment without saturating the root zone. Transplant carefully as plants mature, recognising that the species may grow slowly and require extended nursery care."
+    },
+    {
+      method: "Specialist Vegetative Propagation",
+      description:
+        "Vegetative propagation techniques may be attempted by specialist nurseries, although success can vary considerably with species, plant maturity and environmental conditions. Seed propagation from legally sourced material is generally a more straightforward starting point for conservation-oriented nursery cultivation."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Blue-Violet Flowers",
+      description:
+        "Guaiacum species produce attractive flowers in blue to violet shades, providing seasonal ornamental interest."
+    },
+    {
+      title: "Attractive Evergreen Foliage",
+      description:
+        "Their small compound leaves and dense branching structures create an appealing tropical tree appearance."
+    },
+    {
+      title: "Long-Term Ornamental Value",
+      description:
+        "With appropriate care and space, these slow-growing trees can become distinctive long-lived landscape specimens."
+    },
+    {
+      title: "Botanical Educational Value",
+      description:
+        "Guaiacum provides an opportunity to explore tropical tree identification, plant taxonomy and responsible cultivation."
+    },
+    {
+      title: "Conservation Awareness",
+      description:
+        "The genus highlights the importance of protecting threatened tropical hardwood trees and supporting lawful nursery propagation."
+    },
+    {
+      title: "Suitable for Specialist Collections",
+      description:
+        "Legally sourced specimens can be valuable additions to suitable botanical gardens and specialist tropical tree collections."
+    }
+  ]
+},
+
+{
+  id: "fiddle-leaf-plumeria",
+  name: "Fiddle Leaf Plumeria",
+  scientificName: "Plumeria obtusa",
+  category: "Tropical Flowering Tree",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "A beautiful tropical flowering tree with glossy green leaves and fragrant white flowers featuring golden-yellow centres, ideal for sunny gardens and decorative outdoor containers.",
+  description:
+    "Fiddle Leaf Plumeria, more widely known as Singapore White Frangipani or Singapore Plumeria (Plumeria obtusa), is an ornamental tropical flowering tree belonging to the Apocynaceae family. Native to tropical parts of the Americas, this species is admired for its thick, branching stems, glossy dark green leaves with characteristically rounded tips and clusters of fragrant white flowers with yellow centres. The flowers typically have five overlapping petals and provide an attractive ornamental display in warm conditions. Unlike the similarly named Fiddle Leaf Fig (Ficus lyrata), Plumeria obtusa is cultivated primarily for its fragrant flowers and distinctive tropical appearance. It thrives in full sunlight, warm temperatures and well-draining soil. Established plants tolerate some seasonal dryness, although regular watering during active growth supports healthy foliage and flowering. In Ghana, it can be grown in sunny gardens, courtyards and spacious outdoor containers, provided the roots are protected from prolonged waterlogging. The plant produces a milky latex sap that can irritate skin and eyes, and its tissues should not be consumed.",
+  image: "/plants/fiddle-leaf-plumeria.jpg",
+  light: "Full sun",
+  water: "Water when the upper soil dries; reduce during slower growth",
+  temperature: "65–95°F (18–35°C)",
+  careGuide: [
+    "Grow Fiddle Leaf Plumeria in a sunny outdoor location receiving at least six hours of direct sunlight daily.",
+    "Provide abundant sunlight to encourage strong growth and regular flower production.",
+    "Gradually acclimatise nursery-grown plants to intense direct sunlight to reduce the risk of leaf scorching.",
+    "Use fertile, well-draining soil that allows excess water to move freely away from the roots.",
+    "Avoid heavy, compacted or poorly drained soil because prolonged waterlogging can cause root and stem rot.",
+    "Water regularly during active growth, allowing the upper portion of the soil to dry between watering sessions.",
+    "Reduce watering frequency during prolonged rainy periods when the soil remains naturally moist.",
+    "Water less frequently during periods of slower growth or partial leaf loss.",
+    "Avoid leaving container-grown plants standing in saucers filled with water.",
+    "Grow the plant in a container with adequate drainage holes and sufficient space for root development.",
+    "Maintain warm growing conditions and protect young plants from prolonged cold exposure.",
+    "Provide good air circulation around the foliage and branches to reduce prolonged leaf wetness.",
+    "Apply a suitable balanced fertilizer during active growth according to the manufacturer's instructions.",
+    "Avoid excessive nitrogen fertilization because it may encourage foliage growth at the expense of flowering.",
+    "Remove dead, damaged or crossing branches using clean pruning tools.",
+    "Prune carefully to maintain a balanced structure and avoid unnecessary removal of flowering growth.",
+    "Wear gloves and protect the eyes when pruning because the milky latex sap may cause irritation.",
+    "Allow pruning wounds and propagation cut surfaces to dry appropriately before exposing them to excessive moisture.",
+    "Inspect regularly for scale insects, mealybugs, spider mites and other common ornamental plant pests.",
+    "Monitor for rust-like leaf spots, yellowing foliage or other symptoms of fungal problems.",
+    "Remove heavily affected fallen leaves and maintain good garden hygiene when disease symptoms occur.",
+    "Repot container-grown plants when necessary, using a stable pot that can support the plant's increasing size.",
+    "Protect newly transplanted plants from unnecessary root disturbance while they establish.",
+    "Allow sufficient space around mature trees for their spreading branches and canopy.",
+    "Keep the plant away from children and pets that may chew its leaves, flowers or stems."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Plumeria obtusa is commonly propagated from healthy, mature stem cuttings. Using clean tools and protective gloves, remove a suitable branch section and allow the cut surface to dry and callus in a shaded, well-ventilated location. Plant the cutting in a fast-draining propagation medium and maintain warm conditions with bright light. Water cautiously until roots develop because unrooted cuttings are vulnerable to rot."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Where viable seeds are produced, they may be sown in a clean, well-draining propagation medium under warm conditions. Maintain light, controlled moisture during germination without saturating the soil. Seed-grown plants may vary from the parent and generally take longer to reach flowering maturity than established cuttings."
+    },
+    {
+      method: "Grafting",
+      description:
+        "Experienced growers may use grafting techniques to combine selected Plumeria cultivars with suitable rootstocks. This method requires healthy compatible plant material, clean tools and careful aftercare. It is generally more suitable for specialist nursery production than beginner propagation."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Fragrant Flowers",
+      description:
+        "Its white flowers with golden-yellow centres provide an elegant ornamental display and a pleasant fragrance."
+    },
+    {
+      title: "Glossy Tropical Foliage",
+      description:
+        "The broad, glossy green leaves create an attractive appearance even when the tree is not flowering."
+    },
+    {
+      title: "Suitable for Sunny Gardens",
+      description:
+        "Plumeria obtusa performs well in warm outdoor environments with abundant sunlight and well-draining soil."
+    },
+    {
+      title: "Attractive Landscape Specimen",
+      description:
+        "Its branching structure and flowering canopy make it suitable for spacious courtyards and ornamental garden designs."
+    },
+    {
+      title: "Container Cultivation Potential",
+      description:
+        "Young plants can be cultivated in large decorative containers when provided with adequate sunlight, drainage and regular maintenance."
+    },
+    {
+      title: "Vegetative Propagation Potential",
+      description:
+        "Healthy stem cuttings can be rooted to produce additional nursery plants under suitable growing conditions."
+    }
+  ]
+},
+
+{
+  id: "mexican-mint",
+  name: "Mexican Mint",
+  scientificName: "Coleus amboinicus",
+  category: "Aromatic Culinary Herb",
+  careLevel: "Easy",
+  shortDescription:
+    "A fragrant tropical herb with thick, velvety, scalloped green leaves and a distinctive oregano-like aroma, ideal for kitchen gardens and decorative containers.",
+  description:
+    "Mexican Mint (Coleus amboinicus), also widely known as Plectranthus amboinicus, Cuban Oregano, Indian Borage or Spanish Thyme, is an aromatic perennial herb belonging to the Lamiaceae family. Despite its common name, it is not a true mint of the genus Mentha. The plant is recognised by its thick, fleshy, softly hairy leaves with scalloped edges and a strong fragrance often compared to oregano, thyme or camphor. It develops branching, somewhat succulent stems and can form a spreading or bushy growth habit. Mexican Mint is cultivated in tropical and subtropical regions as an ornamental and culinary herb. Its leaves are used in small quantities to flavour various traditional dishes, although their strong aroma means that only modest amounts are generally needed. The plant thrives in warm conditions with bright light, well-draining soil and moderate watering. In Ghana, it can be grown successfully in kitchen gardens, sheltered verandas and outdoor containers. Mexican Mint also has a history of traditional medicinal use, but these practices do not establish its safety or effectiveness for treating medical conditions. It should not be promoted as a substitute for professional medical care.",
+  image: "/plants/mexican-mint.jpg",
+  light: "Bright light to partial sun",
+  water: "Allow the upper soil to dry between watering",
+  temperature: "65–95°F (18–35°C)",
+  careGuide: [
+    "Grow Mexican Mint in a warm location receiving bright light or several hours of gentle direct sunlight.",
+    "Provide morning sunlight where possible to encourage compact growth and healthy aromatic foliage.",
+    "Protect newly propagated plants from intense afternoon sunshine until they become established.",
+    "Avoid prolonged deep shade because insufficient light can encourage weak, elongated stems.",
+    "Use a loose, fertile and well-draining potting mix containing suitable organic matter.",
+    "Improve drainage in heavy soils using appropriate mineral materials such as perlite or coarse horticultural grit.",
+    "Water when the upper layer of soil begins to dry, allowing excess water to drain freely.",
+    "Avoid keeping the root zone constantly saturated because the fleshy stems and roots may develop rot.",
+    "Reduce watering during prolonged rainy periods when the growing medium remains naturally moist.",
+    "Grow container plants in pots with adequate drainage holes.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold exposure.",
+    "Provide good air circulation to reduce fungal problems during humid weather.",
+    "Pinch back growing tips regularly to encourage bushier growth and reduce excessive stem elongation.",
+    "Harvest healthy leaves selectively without removing too much foliage at once.",
+    "Use clean scissors or pruning tools when harvesting or shaping the plant.",
+    "Remove dead, damaged or yellowing leaves to maintain an attractive appearance.",
+    "Feed lightly during active growth using a suitable balanced fertilizer when necessary.",
+    "Avoid excessive nitrogen fertilization because it can encourage overly soft growth.",
+    "Inspect regularly for mealybugs, aphids, whiteflies and other common sap-feeding pests.",
+    "Monitor for soft stems, yellowing foliage or unpleasant soil odours that may indicate excessive moisture.",
+    "Repot container-grown plants when their roots become crowded or the potting medium deteriorates.",
+    "Propagate healthy stem cuttings to replace older plants that become woody or excessively leggy.",
+    "Wash leaves thoroughly before culinary use and avoid harvesting from plants recently treated with unsuitable pesticides.",
+    "Use the leaves in normal culinary quantities rather than consuming concentrated extracts or homemade medicinal preparations.",
+    "Keep concentrated essential oils and herbal preparations away from children and pets, and seek veterinary advice before allowing pets to consume the plant."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings in Soil",
+      description:
+        "Mexican Mint is easily propagated from healthy stem cuttings. Select a vigorous non-flowering stem with several nodes and remove the lower leaves. Insert the cutting into a loose, lightly moist, well-draining propagation medium. Maintain warmth and bright indirect light while roots develop. Avoid excessive watering because the fleshy stems may rot in saturated conditions."
+    },
+    {
+      method: "Stem Cuttings in Water",
+      description:
+        "Healthy stem cuttings may also develop roots when placed in clean water with the lower nodes submerged and the leaves kept above the waterline. Position the container in bright indirect light and replace the water regularly. Once a suitable root system develops, transfer the cutting into well-draining potting mix and maintain moderate moisture during establishment."
+    },
+    {
+      method: "Clump Division",
+      description:
+        "Established Mexican Mint plants with multiple rooted stems may be divided carefully during repotting. Separate suitable rooted sections and transplant them into individual containers. Provide warmth, bright filtered light and moderate watering while the divisions establish."
+    }
+  ],
+  benefits: [
+    {
+      title: "Distinctive Aromatic Foliage",
+      description:
+        "Its thick, velvety leaves release a strong herbal fragrance when gently crushed or handled."
+    },
+    {
+      title: "Useful Culinary Herb",
+      description:
+        "The leaves are used in modest quantities to flavour selected dishes, sauces and savoury preparations."
+    },
+    {
+      title: "Attractive Kitchen Garden Plant",
+      description:
+        "Its textured green foliage makes it a practical and decorative addition to suitable kitchen gardens."
+    },
+    {
+      title: "Suitable for Container Growing",
+      description:
+        "Mexican Mint grows well in pots with adequate drainage, making it suitable for balconies, verandas and patios."
+    },
+    {
+      title: "Easy Vegetative Propagation",
+      description:
+        "Healthy stem cuttings can root readily under suitable conditions, making nursery multiplication relatively straightforward."
+    },
+    {
+      title: "Adapted to Warm Climates",
+      description:
+        "The plant thrives in warm tropical conditions when provided with suitable light, soil and watering."
+    }
+  ]
+},
+
+
+
+
 
 
 
