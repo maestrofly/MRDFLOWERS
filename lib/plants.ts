@@ -905,7 +905,6 @@ export const plants: Plant[] = [
     }
   ]
 },
-
 {
   id: "furry-feather-calathea",
   name: "Furry Feather Calathea",
