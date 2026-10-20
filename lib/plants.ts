@@ -977,6 +977,164 @@ export const plants: Plant[] = [
         "Like many plants in the prayer plant family, its leaves can change position between day and night in response to natural light cycles."
     }
   ]
-}
+},
+
+{
+  id: "never-never-plant",
+  name: "Never Never Plant",
+  scientificName: "Ctenanthe setosa",
+  category: "Indoor Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "An elegant tropical houseplant featuring elongated silver-green leaves, striking dark green patterns and beautiful purple undersides.",
+  description:
+    "Never Never Plant (Ctenanthe setosa) is a beautiful tropical foliage plant admired for its elongated leaves, silvery-green colouring and distinctive dark green patterns. Native to Brazil, this member of the prayer plant family (Marantaceae) displays attractive purple-toned leaf undersides and gentle leaf movements throughout the day. It is particularly well suited to warm, humid indoor environments with filtered light. With proper watering, humidity and care, Never Never Plant brings an elegant tropical appearance to homes, offices and indoor plant collections.",
+  image: "/plants/never-never-plant.jpg",
+  light: "Medium to bright indirect light",
+  water: "When the top 1 inch of soil begins to dry",
+  temperature: "65–80°F (18–27°C)",
+  careGuide: [
+    "Place your Never Never Plant in medium to bright indirect light. Avoid prolonged direct sunlight, which can scorch its leaves and fade their distinctive patterns.",
+    "Water when the top inch of soil begins to dry. Keep the potting mix lightly and consistently moist during active growth, but avoid allowing the roots to remain waterlogged.",
+    "Use a loose, well-draining potting mix that retains some moisture. A combination of coco coir or peat, perlite and organic matter can provide a suitable growing environment.",
+    "Choose a pot with drainage holes to allow excess water to escape. Empty any water that collects in the saucer after watering.",
+    "Maintain moderate to high humidity. Never Never Plant appreciates humid conditions, especially in rooms where air-conditioning makes the air dry.",
+    "Keep the plant in warm temperatures between 65–80°F (18–27°C). Protect it from cold drafts, sudden temperature changes and direct airflow from air conditioners.",
+    "Use rainwater, filtered water or other low-mineral water if your tap water causes persistent brown leaf tips or edges.",
+    "Feed lightly during active growth with a balanced indoor-plant fertilizer according to the product instructions. Reduce feeding when growth slows.",
+    "Remove yellowing, damaged or dry leaves with clean scissors. Cut unwanted leaves close to the base while avoiding healthy stems.",
+    "Clean dusty foliage gently with a soft, damp cloth to maintain the appearance of the patterned leaves.",
+    "Rotate the container occasionally to encourage even growth and prevent the plant from leaning strongly toward its light source.",
+    "Repot when the root system becomes crowded, preferably during active growth. Avoid using an excessively large container, which can retain too much moisture.",
+    "Monitor for common indoor pests such as spider mites and mealybugs, particularly when indoor humidity is low."
+  ],
+  propagation: [
+    {
+      method: "Division",
+      description:
+        "Never Never Plant is most reliably propagated through division. During repotting, carefully separate a healthy, mature plant into smaller clumps, ensuring that each section retains established roots and several healthy leaves. Replant each division in a suitable moist, well-draining potting mix."
+    },
+    {
+      method: "Rhizome Division",
+      description:
+        "Established Ctenanthe setosa plants develop underground rhizomes. Healthy sections with viable growth points and attached roots can be carefully separated and planted individually. Maintain warmth, indirect light and adequate humidity while the divisions establish."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Patterned Foliage",
+      description:
+        "Its elongated silver-green leaves with contrasting dark green markings create a striking decorative appearance."
+    },
+    {
+      title: "Attractive Purple Undersides",
+      description:
+        "The purple-toned undersides of the leaves add colour and visual interest, particularly when the foliage changes position."
+    },
+    {
+      title: "Natural Leaf Movement",
+      description:
+        "As a member of the prayer plant family, Never Never Plant can move its leaves in response to daily light cycles, creating a dynamic display."
+    },
+    {
+      title: "Excellent Indoor Decoration",
+      description:
+        "Its upright growth and patterned foliage make it an attractive addition to living rooms, offices and indoor tropical plant collections."
+    },
+    {
+      title: "Pet-Friendly Choice",
+      description:
+        "Ctenanthe setosa is generally regarded as non-toxic to cats and dogs, making it a popular choice for pet-owning households."
+    },
+    {
+      title: "Suitable for Filtered Light",
+      description:
+        "Never Never Plant grows well in indirect or filtered light, making it useful for indoor spaces protected from harsh direct sunlight."
+    }
+  ]
+},
+
+{
+  id: "dumb-cane",
+  name: "Dumb Cane",
+  scientificName: "Dieffenbachia seguine",
+  category: "Indoor Plant",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "A striking tropical houseplant with large, beautifully variegated leaves featuring rich green, cream and pale-yellow patterns.",
+  description:
+    "Dumb Cane (Dieffenbachia seguine) is a popular tropical foliage plant admired for its large, decorative leaves and distinctive green, cream and pale-yellow variegation. Native to tropical regions of the Americas, this attractive houseplant brings lush greenery and a bold ornamental appearance to homes, offices and sheltered indoor spaces. It grows best in warm conditions with bright indirect light, moderate humidity and well-draining soil. Although relatively easy to maintain, Dumb Cane contains irritating calcium oxalate crystals and should be kept away from children and pets.",
+  image: "/plants/dumb-cane.jpg",
+  light: "Medium to bright indirect light",
+  water: "When the top 1–2 inches of soil feels dry",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Place your Dumb Cane in medium to bright indirect light. Bright filtered light helps maintain healthy growth and attractive leaf variegation.",
+    "Avoid prolonged direct sunlight, particularly strong afternoon sunlight, because it can scorch the leaves and cause brown patches.",
+    "Water when the top 1–2 inches of soil feels dry. Water thoroughly until excess water drains from the bottom of the pot.",
+    "Avoid keeping the soil constantly saturated. Dumb Cane prefers moderate moisture but may develop root rot when grown in waterlogged conditions.",
+    "Use a loose, well-draining indoor potting mix containing organic matter. A mixture with perlite or similar drainage materials can help maintain suitable root aeration.",
+    "Choose a container with drainage holes and empty any standing water from the saucer after watering.",
+    "Maintain warm temperatures between 65–85°F (18–29°C). Protect the plant from cold drafts, sudden temperature changes and prolonged exposure to strong air-conditioning.",
+    "Dumb Cane appreciates moderate to high humidity, although established plants can adapt to normal indoor conditions.",
+    "Feed during the active growing season with a balanced indoor-plant fertilizer according to the manufacturer's instructions. Avoid excessive fertilization.",
+    "Wipe dusty leaves gently with a soft, damp cloth to keep the foliage clean and attractive.",
+    "Remove yellow, damaged or unhealthy leaves using clean pruning shears. Wear gloves when pruning to avoid contact with the irritating sap.",
+    "Rotate the container occasionally to encourage balanced growth and prevent the plant from leaning toward its light source.",
+    "Repot when the roots become crowded, preferably during active growth. Use a container only slightly larger than the existing root system.",
+    "Inspect the plant regularly for common pests such as spider mites, mealybugs and scale insects.",
+    "Keep Dumb Cane away from children and pets. Its leaves and stems contain calcium oxalate crystals that can cause painful irritation if chewed or swallowed."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Dumb Cane can be propagated using healthy stem cuttings containing viable nodes. Cut a suitable stem section using clean pruning tools and place it in water or a moist, well-draining propagation medium. Keep the cutting warm and in bright indirect light until roots and new growth develop. Wear gloves when handling cut stems because the sap can irritate the skin."
+    },
+    {
+      method: "Cane Cuttings",
+      description:
+        "Mature Dumb Cane plants often develop thick, cane-like stems. Healthy stem sections containing nodes can be cut and placed horizontally or vertically in a suitable propagation medium. Maintain warmth and light moisture while new roots and shoots develop."
+    },
+    {
+      method: "Division",
+      description:
+        "Established plants that produce multiple rooted shoots can sometimes be divided during repotting. Carefully separate healthy sections with attached roots and replant them in individual containers."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Variegated Foliage",
+      description:
+        "Its large green leaves with cream and pale-yellow markings create an attractive tropical display."
+    },
+    {
+      title: "Statement Indoor Plant",
+      description:
+        "Dumb Cane can develop into a bold ornamental plant that adds height, structure and greenery to indoor spaces."
+    },
+    {
+      title: "Suitable for Indirect Light",
+      description:
+        "It performs well in medium to bright indirect light, making it suitable for many indoor environments."
+    },
+    {
+      title: "Relatively Easy to Maintain",
+      description:
+        "With suitable light, moderate watering and well-draining soil, Dumb Cane can be maintained without highly specialized equipment."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Healthy stem sections and established rooted shoots can be used to produce additional plants."
+    },
+    {
+      title: "Attractive Tropical Appearance",
+      description:
+        "Its broad foliage and upright growth habit bring a lush tropical character to homes, offices and plant collections."
+    }
+  ]
+},
+
 
 ]
