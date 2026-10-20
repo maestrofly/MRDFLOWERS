@@ -3343,6 +3343,631 @@ export const plants: Plant[] = [
   ]
 },
 
+{
+  id: "gold-dust-plant",
+  name: "Gold Dust Plant",
+  scientificName: "Aucuba japonica",
+  category: "Ornamental Evergreen Shrub",
+  careLevel: "Moderate",
+  shortDescription:
+    "An elegant shade-loving evergreen shrub with glossy green leaves, often decorated with golden-yellow speckles, ideal for cool, sheltered ornamental spaces.",
+  description:
+    "Gold Dust Plant (Aucuba japonica), also known as Japanese Aucuba, is an ornamental evergreen shrub native to East Asia. It is admired for its glossy, leathery leaves and the striking golden-yellow markings found on popular variegated cultivars. The plant develops an upright, bushy growth habit and can form a substantial shrub when grown in suitable conditions. Aucuba japonica is especially valued for its tolerance of shade and its ability to provide ornamental foliage in locations where many sun-loving plants perform poorly. It prefers sheltered growing conditions, fertile well-draining soil and consistent moisture without waterlogging. Although it is widely cultivated in temperate and mild subtropical gardens, prolonged tropical heat can cause stress, making its cultivation in hot locations such as Accra more challenging. It is best grown in cool, shaded microclimates with careful watering and good air circulation. Female plants may produce attractive red berries when pollinated by a compatible male plant. The foliage and berries should not be consumed.",
+  image: "/plants/gold-dust-plant.jpg",
+  light: "Partial to full shade",
+  water: "When the top 1–2 inches of soil begin to dry",
+  temperature: "50–75°F (10–24°C) preferred",
+  careGuide: [
+    "Grow Gold Dust Plant in partial shade or full shade, especially in regions with strong sunlight and high daytime temperatures.",
+    "Protect the plant from harsh direct afternoon sunlight because intense exposure can scorch or discolour its leaves.",
+    "In hot tropical climates such as Accra, select the coolest available shaded location with good air circulation.",
+    "Avoid placing the plant near heat-reflecting walls, paved surfaces or other locations that trap excessive heat.",
+    "Water when the upper 1–2 inches of soil begin to dry, adjusting frequency according to temperature, humidity and container size.",
+    "Maintain moderate soil moisture during active growth, but avoid keeping the root zone constantly saturated.",
+    "Use fertile, moisture-retentive but well-draining soil enriched with suitable organic matter.",
+    "Grow container plants in pots with adequate drainage holes to prevent water accumulation.",
+    "Apply a suitable organic mulch around garden-grown plants to help moderate soil temperatures and conserve moisture.",
+    "Protect the plant from prolonged extreme heat because Aucuba japonica generally performs best in cooler growing conditions.",
+    "Provide good air circulation while avoiding strong, drying winds that may increase moisture stress.",
+    "Feed lightly during active growth using a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because accumulated salts can damage the roots and cause foliage problems.",
+    "Remove dead, damaged or yellowing leaves using clean pruning tools.",
+    "Prune lightly when necessary to maintain the desired shape and encourage a compact growth habit.",
+    "Inspect periodically for scale insects, mealybugs and other common ornamental shrub pests.",
+    "Monitor for leaf scorching, blackened foliage or root problems, particularly during periods of excessive heat or poor drainage.",
+    "Repot container-grown plants when the root system becomes crowded, preferably during a suitable period of active growth.",
+    "Avoid unnecessary disturbance of established roots during very hot weather.",
+    "Keep the foliage and berries away from children and pets because ingestion may cause gastrointestinal upset.",
+    "Monitor the plant's performance carefully in tropical climates and relocate container specimens if prolonged heat stress develops."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Gold Dust Plant is commonly propagated from healthy stem cuttings. Select suitable semi-hardwood sections from an established plant and remove the lower leaves. Insert the cuttings into a clean, well-draining propagation medium and maintain moderate humidity, bright filtered light and mild temperatures while roots develop. Rooting success may be reduced by excessive tropical heat."
+    },
+    {
+      method: "Layering",
+      description:
+        "A healthy, flexible lower branch can be encouraged to form roots while still attached to the parent plant. Gently wound a suitable section if needed, secure it against a moist growing medium and allow roots to develop before separating and transplanting the new plant."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Viable seeds may be collected from mature berries produced by pollinated female plants. Remove the fleshy fruit material and sow the cleaned seeds using an appropriate propagation method. Germination may be slow and may require cool stratification. Seed-grown plants may not retain the exact variegation of named ornamental cultivars."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Golden-Spotted Foliage",
+      description:
+        "Variegated cultivars display attractive yellow markings that contrast with their glossy green leaves."
+    },
+    {
+      title: "Excellent Shade Tolerance",
+      description:
+        "Gold Dust Plant can grow in partial to deep shade, making it useful for sheltered ornamental spaces in suitable climates."
+    },
+    {
+      title: "Evergreen Ornamental Appeal",
+      description:
+        "Its persistent foliage provides decorative interest throughout the year when grown under favourable conditions."
+    },
+    {
+      title: "Attractive Shrub Structure",
+      description:
+        "Its upright, bushy growth habit creates an elegant ornamental feature in garden borders and large containers."
+    },
+    {
+      title: "Suitable for Decorative Containers",
+      description:
+        "Container cultivation allows the plant to be positioned in a suitable shaded microclimate and moved when necessary."
+    },
+    {
+      title: "Seasonal Berry Interest",
+      description:
+        "Pollinated female plants may produce decorative red berries that provide additional ornamental interest."
+    }
+  ]
+},
+
+{
+  id: "neem",
+  name: "Neem",
+  scientificName: "Azadirachta indica",
+  category: "Tropical Shade Tree",
+  careLevel: "Easy",
+  shortDescription:
+    "A hardy tropical evergreen tree with attractive compound leaves, a spreading shade canopy and strong tolerance for heat and seasonal drought.",
+  description:
+    "Neem (Azadirachta indica) is a tropical tree in the mahogany family, Meliaceae, originating from the Indian subcontinent and now widely cultivated across tropical regions, including Ghana. It is recognised by its spreading crown, pinnately compound leaves with serrated leaflets, clusters of small fragrant white flowers and smooth olive-like fruits that become yellowish when ripe. Neem grows best in full sunlight and well-draining soil, and established trees tolerate high temperatures and periods of drought. It is widely planted for shade, landscaping and agroforestry purposes. Neem also contains naturally occurring compounds, including azadirachtin, that are used in certain commercially formulated pest-management products. Traditional uses of Neem are extensive, but these should not be confused with proven medical benefits or safe instructions for consuming plant preparations. Neem can develop into a substantial tree and should be planted where its mature canopy and roots have adequate space.",
+  image: "/plants/neem.jpg",
+  light: "Full sun",
+  water: "Regularly when young; drought-tolerant once established",
+  temperature: "68–104°F (20–40°C)",
+  careGuide: [
+    "Plant Neem in a location receiving at least six hours of direct sunlight daily to encourage healthy growth and canopy development.",
+    "Choose a spacious outdoor planting location because mature Neem trees can develop broad crowns and extensive root systems.",
+    "Use well-draining soil and avoid locations where water remains standing for prolonged periods.",
+    "Water newly planted Neem seedlings regularly while their roots establish, allowing the soil surface to dry slightly between watering sessions.",
+    "Gradually reduce watering frequency as the tree becomes established and develops a deeper root system.",
+    "Established Neem trees tolerate seasonal drought, although prolonged severe dryness can still affect growth and foliage.",
+    "Avoid excessive watering because Neem is sensitive to prolonged waterlogging and poorly drained soil.",
+    "Grow young seedlings in nursery containers with adequate drainage holes before transplanting them outdoors.",
+    "Maintain warm growing conditions and protect young plants from unusually cold temperatures.",
+    "Apply a suitable organic mulch around young trees to conserve soil moisture, keeping the mulch away from the trunk.",
+    "In Ghana, transplant seedlings when rainfall and soil moisture are favourable, while ensuring drainage during heavy rains.",
+    "Avoid planting Neem too close to buildings, underground utilities, narrow pavements or overhead power lines.",
+    "Feed young trees lightly with suitable organic matter or balanced fertilizer only when soil fertility or growth conditions indicate a need.",
+    "Avoid excessive nitrogen fertilization, which may encourage weak or unbalanced vegetative growth.",
+    "Remove dead, damaged or crossing branches using clean pruning tools.",
+    "Prune young trees carefully to develop a stable branch structure and reduce future structural problems.",
+    "Avoid excessive pruning or topping of mature trees because it can create weak regrowth and compromise their structure.",
+    "Inspect young trees for insect damage, fungal symptoms and other signs of stress.",
+    "Monitor for root problems when planted in heavy, compacted or poorly drained soils.",
+    "Transplant nursery seedlings carefully to minimise root disturbance and prevent damage to the main root system.",
+    "Collect and dispose of unwanted fruits or seedlings responsibly where natural regeneration could become a problem.",
+    "Keep Neem seeds, oil and concentrated preparations away from children and pets because ingestion can be harmful."
+  ],
+  propagation: [
+    {
+      method: "Fresh Seed Propagation",
+      description:
+        "Neem is commonly propagated using fresh, viable seeds collected from mature fruits. Remove the fleshy fruit material, clean the seeds and sow them promptly in a well-draining nursery medium. Neem seeds lose viability relatively quickly, so fresh seeds are preferable. Maintain warmth and moderate moisture without waterlogging until germination occurs."
+    },
+    {
+      method: "Nursery Seedling Transplanting",
+      description:
+        "Healthy Neem seedlings can be raised in suitable nursery containers and transplanted when sufficiently established. Select vigorous seedlings with healthy roots, prepare a well-draining planting site and transplant carefully to minimise root damage. Water during establishment and gradually acclimatise young plants to full outdoor sunlight."
+    },
+    {
+      method: "Vegetative Propagation",
+      description:
+        "Neem may also be propagated using selected vegetative techniques, including suitably prepared cuttings or other nursery methods. Success depends on the age of the plant material, propagation conditions and technical expertise. Seed propagation is generally the more practical method for routine nursery production."
+    }
+  ],
+  benefits: [
+    {
+      title: "Excellent Shade Tree",
+      description:
+        "Its broad, spreading canopy can provide valuable shade in spacious gardens, compounds and suitable landscape areas."
+    },
+    {
+      title: "Adapted to Tropical Heat",
+      description:
+        "Neem performs well in warm climates and tolerates high temperatures when grown in suitable soil and sunlight."
+    },
+    {
+      title: "Seasonal Drought Tolerance",
+      description:
+        "Established trees can withstand periods of limited rainfall, making Neem useful in suitable dry-season landscapes."
+    },
+    {
+      title: "Attractive Evergreen Foliage",
+      description:
+        "Its compound green leaves and spreading branches create an appealing ornamental appearance throughout much of the year."
+    },
+    {
+      title: "Useful for Landscaping",
+      description:
+        "Neem can be planted in suitable spacious environments as a shade tree or as part of carefully planned tropical landscaping."
+    },
+    {
+      title: "Agricultural and Botanical Interest",
+      description:
+        "Neem is a source of naturally occurring compounds used in some regulated pest-management products and is widely studied for agricultural applications."
+    }
+  ]
+},
+
+{
+  id: "bellyache-bush",
+  name: "Bellyache Bush",
+  scientificName: "Jatropha gossypiifolia",
+  category: "Tropical Ornamental Shrub",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "A distinctive tropical shrub with reddish-purple young leaves, deeply lobed foliage and small red flowers. A poisonous species requiring careful handling and responsible cultivation.",
+  description:
+    "Bellyache Bush (Jatropha gossypiifolia), also known as Cotton-leaf Physicnut, is a tropical shrub belonging to the Euphorbiaceae family. Native to tropical America and naturalised in many warm regions, it is recognised by its reddish-purple young foliage, palmately lobed leaves, sticky glandular leaf stalks and clusters of small reddish flowers. Mature leaves may become greener as they age. The plant grows in warm, sunny conditions and can tolerate periods of seasonal drought once established. Although its colourful foliage and unusual appearance may attract ornamental interest, Bellyache Bush contains toxic substances, particularly in its seeds, and its sap may irritate the skin and eyes. The plant has a history of traditional medicinal use, but this does not establish its safety or effectiveness for treating illness. It can also spread through seeds and become invasive in suitable environments. Responsible cultivation requires careful placement, restricted access, controlled seed production and appropriate disposal of plant material.",
+  image: "/plants/bellyache-bush.jpg",
+  light: "Full sun to partial shade",
+  water: "Allow upper soil to dry between watering",
+  temperature: "68–95°F (20–35°C)",
+  careGuide: [
+    "Grow Bellyache Bush outdoors in a warm location receiving full sunlight or bright partial shade.",
+    "Provide several hours of direct sunlight to encourage compact growth and the development of colourful young foliage.",
+    "Use well-draining soil and avoid locations where water remains standing for prolonged periods.",
+    "Water newly planted specimens regularly while their roots establish, allowing the upper soil to dry slightly between watering sessions.",
+    "Reduce watering frequency after establishment, as the plant can tolerate periods of seasonal dryness.",
+    "Avoid prolonged waterlogging because saturated soil may damage the roots and encourage rot.",
+    "Grow container plants in pots with adequate drainage holes.",
+    "Maintain warm growing conditions and protect young plants from prolonged cold exposure.",
+    "Choose a location away from children's play areas, pet enclosures, livestock and edible crops.",
+    "Wear protective gloves and suitable eye protection when pruning or handling damaged stems because the sap may irritate skin and eyes.",
+    "Wash hands thoroughly after handling the plant, even when gloves have been used.",
+    "Avoid touching the face or eyes while pruning or transplanting the plant.",
+    "Never consume the leaves, seeds, roots, sap or homemade preparations made from this plant.",
+    "Do not use Bellyache Bush as a home remedy or recommend it for medicinal consumption.",
+    "Prune carefully when necessary to maintain the desired shape, using clean tools and appropriate protective equipment.",
+    "Remove developing seed capsules before they mature when preventing unwanted spread is necessary.",
+    "Collect and dispose of seeds and cut plant material securely rather than leaving them where children, animals or wildlife may encounter them.",
+    "Do not dispose of viable seeds or cuttings in natural areas, waterways or unmanaged garden spaces.",
+    "Inspect periodically for common pests such as aphids, mealybugs and other sap-feeding insects.",
+    "Monitor for root problems or stem decay during periods of prolonged heavy rainfall.",
+    "Repot container-grown plants only when necessary, minimising contact with damaged roots and stems.",
+    "Avoid planting this species in locations where it may escape cultivation or establish unwanted populations."
+  ],
+  propagation: [
+    {
+      method: "Seed Propagation",
+      description:
+        "Bellyache Bush reproduces readily from seeds, which should be treated as poisonous. Propagation should only be undertaken in a controlled nursery environment with appropriate protective equipment, secure storage and a clear plan to prevent accidental ingestion or escape into surrounding vegetation. For MRD FLOWERS, routine seed propagation is not recommended unless there is a specific, responsible cultivation purpose."
+    },
+    {
+      method: "Stem Cuttings",
+      description:
+        "The species may be propagated vegetatively using suitable stem material. However, damaged stems release potentially irritating sap, so protective gloves, eye protection and controlled handling are essential. Propagation material must be kept away from children and animals, and unwanted cuttings should be disposed of securely."
+    }
+  ],
+  benefits: [
+    {
+      title: "Distinctive Purple-Red Foliage",
+      description:
+        "Young leaves often display reddish-purple colouring that creates an unusual ornamental appearance."
+    },
+    {
+      title: "Interesting Lobed Leaves",
+      description:
+        "Its deeply lobed foliage gives the shrub a distinctive shape and texture."
+    },
+    {
+      title: "Small Decorative Flowers",
+      description:
+        "Clusters of small reddish flowers provide additional visual interest during flowering."
+    },
+    {
+      title: "Adapted to Warm Climates",
+      description:
+        "The species grows in tropical conditions and tolerates seasonal dryness after establishment."
+    },
+    {
+      title: "Botanical Educational Value",
+      description:
+        "It offers an opportunity to educate customers about plant identification, toxicity and responsible cultivation."
+    },
+    {
+      title: "Specialist Collection Interest",
+      description:
+        "Its unusual foliage and growth habit may interest experienced botanical collectors who can maintain appropriate safety and containment measures."
+    }
+  ]
+},
+
+{
+  id: "spotted-evergreen",
+  name: "Spotted Evergreen",
+  scientificName: "Aglaonema costatum",
+  category: "Tropical Foliage Plant",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "An elegant tropical foliage plant with deep green leaves, a striking pale midrib and attractive white or silvery markings, ideal for shaded indoor spaces.",
+  description:
+    "Spotted Evergreen (Aglaonema costatum) is an ornamental tropical plant in the Araceae family, native to parts of Southeast Asia. It is admired for its dark green, oval to elliptic leaves featuring a prominent pale central vein and, in certain forms, scattered white or silvery spots. Its attractive foliage creates a distinctive patterned appearance that makes it popular among collectors of tropical houseplants. Spotted Evergreen grows naturally in shaded forest environments and prefers warm conditions, bright indirect light, moderate to high humidity and loose, well-draining soil. It develops a compact to moderately spreading growth habit and is suitable for decorative containers, bright indoor spaces and sheltered verandas. Like other Aglaonema species, its tissues contain insoluble calcium oxalate crystals that can irritate the mouth and throat if chewed or swallowed. It should therefore be kept away from children and pets.",
+  image: "/plants/spotted-evergreen.jpg",
+  light: "Low to bright indirect light",
+  water: "When the top 1–2 inches of soil begin to dry",
+  temperature: "65–86°F (18–30°C)",
+  careGuide: [
+    "Grow Spotted Evergreen in bright indirect light or moderate shade, avoiding prolonged exposure to harsh direct sunlight.",
+    "Protect the foliage from intense afternoon sunshine because direct tropical sunlight may scorch or discolour the leaves.",
+    "Avoid extremely dark locations because insufficient light can slow growth and reduce the visibility of attractive leaf markings.",
+    "Water when the upper 1–2 inches of potting mix begin to dry, allowing excess water to drain freely.",
+    "Avoid keeping the root zone constantly saturated because prolonged waterlogging can lead to root rot.",
+    "Use a loose, fertile and well-draining potting mix containing suitable organic matter and aeration materials such as perlite or orchid bark.",
+    "Grow the plant in a container with adequate drainage holes to prevent excess water accumulation.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold temperatures or sudden temperature changes.",
+    "Provide moderate to high humidity, particularly during dry weather or in air-conditioned rooms.",
+    "Avoid placing the plant directly in strong, drying winds or close to air conditioners and hot air outlets.",
+    "Feed lightly during active growth using a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because accumulated salts can damage the roots and cause leaf-tip browning.",
+    "Remove dead, damaged or yellowing leaves using clean pruning tools.",
+    "Clean dusty leaves gently with a soft, damp cloth to maintain their attractive appearance.",
+    "Rotate container-grown plants occasionally to encourage balanced growth toward the available light.",
+    "Inspect regularly for common pests such as mealybugs, scale insects, spider mites and other sap-feeding insects.",
+    "Monitor for yellowing leaves, soft stems or unpleasant odours from the growing medium, which may indicate excessive moisture or root problems.",
+    "Repot when necessary during active growth, using a container only slightly larger than the established root system.",
+    "Avoid unnecessary disturbance of the roots and allow newly transplanted plants time to acclimatise.",
+    "Keep Spotted Evergreen away from cats, dogs and children because its tissues contain irritating calcium oxalate crystals.",
+    "Wear gloves when pruning or dividing the plant if you have sensitive skin."
+  ],
+  propagation: [
+    {
+      method: "Clump Division",
+      description:
+        "Spotted Evergreen can be propagated by dividing established plants that have developed multiple rooted stems or crowns. Carefully remove the plant from its container and separate suitable sections, ensuring each division has healthy roots and foliage. Replant the divisions in a loose, well-draining potting mix and maintain warmth, moderate humidity and bright indirect light while they establish."
+    },
+    {
+      method: "Stem Cuttings",
+      description:
+        "Healthy stem sections containing suitable nodes may be used for propagation. Cut the stem using clean tools and place the cutting in a lightly moist, well-draining propagation medium. Maintain warm, humid conditions and bright indirect light until roots and new growth develop."
+    },
+    {
+      method: "Air Layering",
+      description:
+        "For mature plants with sufficiently developed stems, air layering may be used to encourage roots before separating a new plant. Apply a suitable moist rooting medium around a selected stem section, maintain appropriate moisture and separate the rooted portion once adequate roots have formed."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Patterned Foliage",
+      description:
+        "Its deep green leaves and contrasting pale markings create an attractive ornamental display."
+    },
+    {
+      title: "Suitable for Indoor Decoration",
+      description:
+        "Spotted Evergreen performs well in suitable indoor environments with indirect light and warm temperatures."
+    },
+    {
+      title: "Attractive Compact Growth",
+      description:
+        "Its manageable growth habit makes it suitable for decorative pots, plant shelves and sheltered indoor displays."
+    },
+    {
+      title: "Shade-Tolerant Foliage Plant",
+      description:
+        "Its natural preference for shaded forest environments makes it useful for locations protected from harsh direct sunlight."
+    },
+    {
+      title: "Distinctive Leaf Markings",
+      description:
+        "The pale central vein and variable white or silvery spotting provide visual interest throughout the year."
+    },
+    {
+      title: "Suitable for Nursery Propagation",
+      description:
+        "Established plants can be propagated through division or suitable stem cuttings under appropriate growing conditions."
+    }
+  ]
+},
+
+{
+  id: "indian-comb-cactus",
+  name: "Indian Comb Cactus",
+  scientificName: "Austrocylindropuntia subulata",
+  category: "Ornamental Cactus",
+  careLevel: "Easy",
+  shortDescription:
+    "A distinctive upright cactus with cylindrical green stems, narrow fleshy leaves and sharp spines, ideal for sunny succulent collections and architectural displays.",
+  description:
+    "Indian Comb Cactus (Austrocylindropuntia subulata), also known as Eve's Needle or Eve's Pin, is an unusual cactus native to the Andean regions of South America. The species has also been described under the botanical names Opuntia subulata and Pectinopuntia subulata. Unlike many familiar cacti, it produces elongated, cylindrical green stems bearing prominent areoles, sharp spines and narrow, fleshy leaves. These leaves are particularly noticeable on younger growth and may be shed as stems mature. With age, the plant develops an upright, branching, shrub-like appearance that makes it attractive for architectural landscaping and ornamental cactus collections. Indian Comb Cactus thrives in bright sunlight, warm temperatures and gritty, well-draining soil. It is drought-tolerant once established but sensitive to prolonged waterlogging. In Ghana, it is best grown in a sunny location with excellent drainage and protection from persistent heavy rainfall. Its sharp spines require careful handling and appropriate placement away from children, pets and busy walkways.",
+  image: "/plants/indian-comb-cactus.jpg",
+  light: "Full sun to very bright indirect light",
+  water: "Allow soil to dry thoroughly between watering",
+  temperature: "60–95°F (16–35°C)",
+  careGuide: [
+    "Grow Indian Comb Cactus in a sunny outdoor location or an exceptionally bright indoor position.",
+    "Provide several hours of direct sunlight daily to encourage strong, compact and upright growth.",
+    "Gradually acclimatise nursery-grown plants to stronger sunlight to reduce the risk of sunburn.",
+    "Avoid prolonged deep shade because insufficient light may cause weak, elongated and unstable growth.",
+    "Use a gritty, fast-draining cactus or succulent potting mix containing suitable mineral drainage materials.",
+    "Amend overly moisture-retentive soil with coarse horticultural materials such as pumice, perlite or suitable mineral grit.",
+    "Grow the cactus in a container with adequate drainage holes so excess water can escape freely.",
+    "Allow the growing medium to dry thoroughly between watering sessions rather than following a fixed daily watering schedule.",
+    "Water deeply when the soil has dried and then allow excess water to drain completely.",
+    "Reduce watering during periods of prolonged rainfall, high humidity or slower plant growth.",
+    "Protect container-grown plants from persistent heavy rainfall, particularly during Ghana's rainy season.",
+    "Avoid leaving pots standing in trays of water because prolonged saturation may cause root and stem rot.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold or frost.",
+    "Provide good air circulation around the stems, especially in humid outdoor environments.",
+    "Apply a diluted cactus or succulent fertilizer sparingly during active growth when necessary.",
+    "Avoid excessive nitrogen fertilization because it can encourage weak, overly soft growth.",
+    "Handle the plant using thick protective gloves, long sleeves and appropriate tools because the spines can cause puncture injuries.",
+    "Remove dead, damaged or diseased stems carefully using clean pruning tools.",
+    "Allow cut surfaces to dry and callus before placing stem cuttings into a propagation medium.",
+    "Inspect periodically for mealybugs, scale insects and other common cactus pests.",
+    "Monitor for soft, darkened or collapsing stems, which may indicate rot associated with excess moisture.",
+    "Repot when necessary using a stable container that can support the plant's increasing height and weight.",
+    "Provide adequate space because mature plants can become tall, heavily branched and difficult to handle.",
+    "Keep the cactus away from children's play areas, pet enclosures and narrow pathways.",
+    "Do not discard viable cuttings in natural areas because discarded stem sections may establish under favourable conditions."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Indian Comb Cactus can be propagated from healthy stem sections. Wearing protective gloves and using clean cutting tools, remove a suitable stem segment from a mature plant. Allow the cut surface to dry and form a callus in a shaded, well-ventilated location before placing the cutting into a dry or barely moist, fast-draining cactus medium. Keep it warm with bright light and avoid excessive watering while roots develop."
+    },
+    {
+      method: "Branch Cuttings",
+      description:
+        "Healthy side branches can be separated from an established plant and rooted as individual specimens. Allow each cut surface to callus before planting in a suitable gritty medium. Support larger cuttings if necessary and introduce watering cautiously once rooting begins."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Where viable seeds are available, they may be sown in a clean, well-draining cactus propagation medium under warm, bright conditions. Maintain carefully controlled moisture during germination without saturating the growing medium. Seed propagation is less convenient than stem cuttings for routine nursery production."
+    }
+  ],
+  benefits: [
+    {
+      title: "Distinctive Architectural Growth",
+      description:
+        "Its upright cylindrical stems and branching habit create a striking sculptural appearance."
+    },
+    {
+      title: "Unusual Leaf-Bearing Cactus",
+      description:
+        "Young stems produce narrow fleshy leaves, giving the plant a distinctive appearance compared with many familiar cacti."
+    },
+    {
+      title: "Drought-Tolerant Ornamental",
+      description:
+        "Established plants tolerate periods of dry conditions when grown in suitable well-draining soil."
+    },
+    {
+      title: "Attractive Succulent Collection Plant",
+      description:
+        "Its unusual growth form makes it an interesting addition to specialist cactus and succulent collections."
+    },
+    {
+      title: "Suitable for Sunny Displays",
+      description:
+        "The species can be cultivated in bright outdoor containers and suitable dry landscape settings."
+    },
+    {
+      title: "Vegetative Propagation Potential",
+      description:
+        "Healthy stem and branch cuttings can be rooted to produce additional nursery plants under appropriate conditions."
+    }
+  ]
+},
+
+{
+  id: "dragon-flower",
+  name: "Dragon Flower",
+  scientificName: "Huernia macrocarpa",
+  category: "Flowering Succulent",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "An unusual flowering succulent with fleshy, angular green stems and striking dark reddish-purple, star-shaped flowers, ideal for specialist succulent collections.",
+  description:
+    "Dragon Flower (Huernia macrocarpa) is a distinctive flowering succulent belonging to the Apocynaceae family. Native to northeastern Africa and parts of the Arabian Peninsula, this unusual plant develops clusters of short, fleshy, angular stems with small tooth-like projections along their edges. The stems are typically green but may develop reddish or purplish tones when exposed to stronger light. Its most remarkable feature is its unusual star-shaped flower, which is often dark reddish-purple or maroon and may display intricate surface patterns. The flowers are generally produced near the lower portions of the stems and have a characteristic tubular or bell-shaped centre surrounded by pointed lobes. Although Dragon Flower resembles a cactus, it is a stem succulent rather than a true member of the cactus family. It thrives in warm conditions with bright filtered light, excellent drainage and careful watering. In Ghana, it is best cultivated in a sheltered location protected from prolonged heavy rainfall and excessive soil moisture. Its compact growth habit and unusual flowers make it particularly attractive for specialist succulent collections and decorative containers.",
+  image: "/plants/dragon-flower.jpg",
+  light: "Bright indirect light to gentle morning sun",
+  water: "Allow most of the soil to dry between watering",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Grow Dragon Flower in a bright location receiving filtered sunlight or gentle morning sun.",
+    "Avoid prolonged exposure to harsh afternoon sunlight because excessive heat and direct sunlight may scorch the fleshy stems.",
+    "Provide sufficient light to encourage healthy, compact growth and support flowering.",
+    "Avoid deep shade because insufficient light can result in weak, elongated stems and reduced flowering.",
+    "Use a gritty, fast-draining succulent potting mix containing suitable mineral materials such as pumice, perlite or coarse horticultural grit.",
+    "Avoid heavy, compacted or excessively moisture-retentive soil because it can encourage root and stem rot.",
+    "Grow the plant in a shallow or moderately sized container with adequate drainage holes.",
+    "Water during active growth when most of the potting mix has dried, allowing excess water to drain completely.",
+    "Avoid keeping the root zone constantly moist because prolonged saturation can quickly damage the fleshy stems and roots.",
+    "Reduce watering during periods of slower growth, cooler weather or prolonged high humidity.",
+    "Protect Dragon Flower from persistent heavy rainfall, especially during Ghana's rainy season.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold exposure.",
+    "Provide good air circulation around the stems to reduce the risk of fungal problems.",
+    "Avoid placing the plant in enclosed, poorly ventilated spaces where moisture remains trapped.",
+    "Feed sparingly during active growth using a diluted succulent fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive nitrogen fertilization because it may encourage soft growth at the expense of healthy flowering.",
+    "Remove dead, damaged or rotting stems promptly using clean pruning tools.",
+    "Allow cut surfaces to dry and callus before planting stem cuttings into a propagation medium.",
+    "Inspect regularly for mealybugs, particularly around stem bases and between closely packed shoots.",
+    "Monitor for soft, darkened or collapsing stems, which may indicate rot associated with excess moisture.",
+    "Repot when necessary during active growth, handling the shallow roots and fleshy stems carefully.",
+    "Avoid unnecessary disturbance of the plant while flower buds are developing.",
+    "Keep the plant away from children and pets because reliable species-specific ingestion safety information is limited."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Dragon Flower is commonly propagated from healthy stem cuttings. Select a mature, undamaged stem and carefully separate it from the parent plant using clean tools. Allow the cut surface to dry and form a callus for several days in a shaded, well-ventilated location. Place the cutting into a gritty, well-draining succulent medium and introduce watering cautiously once rooting begins. Maintain warmth and bright indirect light while the cutting establishes."
+    },
+    {
+      method: "Clump Division",
+      description:
+        "Established Dragon Flower plants may develop clusters of connected stems. During repotting, carefully separate suitable rooted sections from the parent clump. Allow any damaged surfaces to dry before transplanting the divisions into individual containers with a fast-draining succulent mix."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Dragon Flower can be propagated from viable seeds produced after successful pollination and seed-pod development. Sow the seeds in a clean, well-draining propagation medium under warm conditions with controlled moisture. Seed propagation is generally slower and less convenient than vegetative propagation for routine nursery production."
+    }
+  ],
+  benefits: [
+    {
+      title: "Unusual Star-Shaped Flowers",
+      description:
+        "Its distinctive reddish-purple flowers create an eye-catching ornamental display unlike many conventional flowering plants."
+    },
+    {
+      title: "Interesting Sculptural Stems",
+      description:
+        "The fleshy, angular stems with tooth-like projections provide year-round architectural interest."
+    },
+    {
+      title: "Excellent Collector's Succulent",
+      description:
+        "Its unusual flowers and compact growth habit make it attractive to specialist succulent enthusiasts."
+    },
+    {
+      title: "Compact Container Plant",
+      description:
+        "Dragon Flower can be cultivated in relatively small decorative containers with appropriate drainage."
+    },
+    {
+      title: "Suitable for Bright Sheltered Spaces",
+      description:
+        "The plant performs well in warm, bright locations protected from excessive rainfall and prolonged direct afternoon sunlight."
+    },
+    {
+      title: "Easy Vegetative Propagation",
+      description:
+        "Healthy stem cuttings and rooted divisions can be used to produce additional plants under suitable growing conditions."
+    }
+  ]
+},
+
+{
+  id: "chinese-violet",
+  name: "Chinese Violet",
+  scientificName: "Asystasia gangetica",
+  category: "Tropical Flowering Groundcover",
+  careLevel: "Easy",
+  shortDescription:
+    "A fast-growing tropical flowering plant with soft green foliage and delicate trumpet-shaped flowers, best grown with careful control of its spreading habit.",
+  description:
+    "Chinese Violet (Asystasia gangetica), also known as Creeping Foxglove or Ganges Primrose, is a fast-growing flowering plant belonging to the Acanthaceae family. It occurs across tropical regions, including parts of Africa and Asia, and is recognised by its opposite green leaves, spreading or scrambling stems and delicate trumpet-shaped flowers. Depending on the form, the flowers may be pale violet, lavender, whitish or cream-coloured, often with darker markings inside the flower throat. Chinese Violet thrives in warm conditions and grows in full sun to partial shade, although flowering and foliage performance depend on available light and moisture. It can be cultivated in containers and managed ornamental displays, but its vigorous growth and ability to spread through stems and seeds require careful attention. In suitable environments, it may become weedy or invasive. Responsible cultivation involves controlling unwanted growth, preventing escape into surrounding vegetation and avoiding planting near sensitive natural habitats.",
+  image: "/plants/chinese-violet.jpg",
+  light: "Full sun to partial shade",
+  water: "Moderate; water when the upper soil begins to dry",
+  temperature: "68–95°F (20–35°C)",
+  careGuide: [
+    "Grow Chinese Violet in a warm location receiving full sunlight or partial shade.",
+    "Provide several hours of sunlight where possible to encourage healthy growth and regular flowering.",
+    "Protect newly transplanted plants from intense afternoon heat until their roots become established.",
+    "Use fertile, well-draining soil containing suitable organic matter.",
+    "Water regularly during establishment, allowing the upper soil surface to begin drying between watering sessions.",
+    "Maintain moderate soil moisture during active growth without allowing the root zone to remain waterlogged.",
+    "Reduce watering frequency during prolonged rainy periods when the soil remains naturally moist.",
+    "Avoid prolonged waterlogging because saturated conditions can encourage root problems.",
+    "Grow the plant in containers with adequate drainage holes when controlling its spread is a priority.",
+    "Maintain warm growing conditions and protect young plants from prolonged cold exposure.",
+    "Prune regularly to control excessive stem growth and maintain a compact appearance.",
+    "Remove damaged, yellowing or unhealthy stems using clean pruning tools.",
+    "Trim spreading stems before they establish unwanted roots in nearby soil.",
+    "Remove unwanted seedlings promptly to prevent uncontrolled establishment.",
+    "Where necessary, remove developing seed capsules before they mature to reduce unwanted seed dispersal.",
+    "Avoid disposing of viable cuttings or seeds in unmanaged garden spaces, waterways or natural habitats.",
+    "Apply a balanced fertilizer sparingly when growth conditions indicate a need for additional nutrients.",
+    "Avoid excessive fertilization because it may encourage vigorous foliage growth and increase maintenance requirements.",
+    "Inspect regularly for aphids, whiteflies, mealybugs and other common sap-feeding insects.",
+    "Monitor for fungal problems when foliage remains wet for prolonged periods in poorly ventilated locations.",
+    "Maintain adequate airflow around densely growing stems and foliage.",
+    "Repot container-grown plants when necessary to maintain healthy roots and manageable growth.",
+    "Avoid planting Chinese Violet near sensitive vegetation or in locations where it could escape cultivation.",
+    "Confirm the plant's identity and local environmental suitability before using it for landscaping projects."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Chinese Violet can be propagated from healthy stem cuttings containing several nodes. Remove lower leaves and place the cuttings into a suitable moist, well-draining propagation medium. Maintain warmth and bright filtered light while roots develop. Because this species can establish readily, keep cuttings contained and dispose of unwanted material securely."
+    },
+    {
+      method: "Rooted Stem Division",
+      description:
+        "Spreading stems may form roots where they contact moist soil. Suitable rooted sections can be carefully separated from established plants and transplanted into individual containers. Ensure each division has healthy roots and foliage, and prevent unwanted fragments from spreading into surrounding areas."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Chinese Violet can reproduce from seeds produced after flowering. Seeds may germinate under suitable warm and moist conditions. However, routine seed propagation is not recommended for general nursery production where the species poses a risk of uncontrolled spread."
+    }
+  ],
+  benefits: [
+    {
+      title: "Delicate Tropical Flowers",
+      description:
+        "Its trumpet-shaped flowers add attractive violet, lavender or pale tones to suitable ornamental displays."
+    },
+    {
+      title: "Lush Green Foliage",
+      description:
+        "The soft green leaves create a fresh tropical appearance throughout much of the growing season."
+    },
+    {
+      title: "Warm-Climate Adaptability",
+      description:
+        "Chinese Violet grows vigorously under suitable tropical conditions with adequate light and moisture."
+    },
+    {
+      title: "Container Display Potential",
+      description:
+        "When carefully maintained, the plant can be grown in containers that help limit its spreading growth."
+    },
+    {
+      title: "Frequent Flowering Potential",
+      description:
+        "In favourable warm conditions, Chinese Violet may produce flowers repeatedly over extended periods."
+    },
+    {
+      title: "Botanical Educational Value",
+      description:
+        "The species offers an opportunity to educate customers about ornamental plants, groundcovers and responsible management of potentially invasive species."
+    }
+  ]
+}
+
+
+
+
 
 
 
