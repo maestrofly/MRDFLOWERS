@@ -1714,6 +1714,520 @@ export const plants: Plant[] = [
   ]
 },
 
+{
+  id: "candelabra-cactus",
+  name: "Candelabra Cactus",
+  scientificName: "Euphorbia lactea",
+  category: "Succulent",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "A striking architectural succulent with upright, branching, marbled green stems, distinctive ridges and short paired spines.",
+  description:
+    "Candelabra Cactus (Euphorbia lactea) is a distinctive tropical succulent admired for its upright, branching growth and striking green stems marked with pale green or whitish patterns. Although commonly called a cactus, it belongs to the Euphorbia genus rather than the cactus family. Native to tropical Asia, this ornamental plant develops three- or four-angled stems with prominent ridges and short paired spines, creating a dramatic candelabra-like appearance as it matures. Candelabra Cactus thrives in warm conditions with abundant bright light, well-draining soil and careful watering. Its sculptural form makes it an excellent choice for sunny patios, balconies, container gardens and bright indoor spaces. The plant produces a toxic, irritating milky latex sap and should be handled with appropriate protection.",
+  image: "/plants/candelabra-cactus.jpg",
+  light: "Bright light to partial sun",
+  water: "When the potting mix has dried substantially",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Place Candelabra Cactus in a bright location receiving abundant natural light. Established plants can tolerate some direct sunlight, particularly gentle morning sun.",
+    "Introduce plants gradually to stronger direct sunlight to reduce the risk of scorching, especially if they were previously grown in shade.",
+    "Allow the potting mix to dry substantially between waterings. Candelabra Cactus stores water in its fleshy stems and is sensitive to prolonged waterlogging.",
+    "Water thoroughly when needed, allowing excess water to drain completely from the container. Reduce watering during periods of slower growth or prolonged cloudy weather.",
+    "Use a fast-draining cactus or succulent potting mix containing suitable mineral materials such as perlite, pumice or coarse sand.",
+    "Choose a stable container with drainage holes. Larger specimens can become top-heavy, so ensure the pot provides adequate support.",
+    "Protect container-grown plants from prolonged heavy rainfall, particularly when the potting mix may remain wet for extended periods.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold temperatures and sudden temperature changes.",
+    "Provide good air circulation around the stems, especially during humid or rainy periods.",
+    "Feed sparingly during active growth with a balanced succulent fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because it may encourage weak or overly rapid growth.",
+    "Remove damaged or unhealthy stems only when necessary, using clean pruning tools and appropriate protective equipment.",
+    "Wear gloves and eye protection whenever pruning, repotting or taking cuttings. The milky latex sap can cause significant skin irritation and serious eye injury.",
+    "Avoid touching your face or eyes while handling the plant. Wash hands and tools thoroughly after pruning.",
+    "Rotate container-grown plants occasionally to encourage balanced growth and even light exposure.",
+    "Repot when necessary, preferably during active growth. Select a stable container only slightly larger than the existing root system.",
+    "Inspect the plant periodically for common succulent pests such as mealybugs and scale insects.",
+    "Keep Candelabra Cactus away from children and pets because of its irritating latex sap and sharp spines."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Candelabra Cactus is commonly propagated using healthy stem cuttings. Wear protective gloves and eye protection before cutting because the plant releases irritating milky latex. Take a healthy stem section using clean tools, allow the latex to stop flowing and let the cut surface dry and callus before planting it in a well-draining succulent propagation mix. Maintain warmth and avoid excessive watering while roots develop."
+    },
+    {
+      method: "Branch Cuttings",
+      description:
+        "Healthy side branches can also be removed and rooted in a suitable propagation medium. Allow the cut surface to callus before planting, and keep the medium only lightly moist until new roots establish. Handle all cut material carefully because the latex remains irritating."
+    },
+    {
+      method: "Grafting",
+      description:
+        "Some ornamental forms of Euphorbia lactea, particularly crested or highly variegated selections, are propagated through grafting onto compatible Euphorbia rootstocks. Grafting requires experience, careful sanitation and protection from the plant's irritating latex."
+    }
+  ],
+  benefits: [
+    {
+      title: "Distinctive Architectural Growth",
+      description:
+        "Its upright, branching stems create a dramatic sculptural appearance that stands out in ornamental plant collections."
+    },
+    {
+      title: "Beautiful Marbled Stems",
+      description:
+        "The green stems often feature pale green or whitish patterns that give the plant a distinctive decorative appearance."
+    },
+    {
+      title: "Drought Tolerant",
+      description:
+        "Its fleshy stems store water, allowing established plants to tolerate periods of dryness when grown in suitable conditions."
+    },
+    {
+      title: "Excellent Statement Plant",
+      description:
+        "Mature Candelabra Cactus plants can become impressive focal points in sunny patios, balconies and bright indoor spaces."
+    },
+    {
+      title: "Relatively Low Maintenance",
+      description:
+        "With adequate light, well-draining soil and careful watering, Candelabra Cactus requires relatively little routine maintenance."
+    },
+    {
+      title: "Suitable for Container Growing",
+      description:
+        "It can be cultivated in stable containers, allowing growers to manage its placement, size and exposure to rainfall."
+    }
+  ]
+},
+
+{
+  id: "arabian-jasmine",
+  name: "Arabian Jasmine",
+  scientificName: "Jasminum sambac",
+  category: "Flowering Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A beautifully fragrant flowering shrub with glossy green leaves and delicate white blossoms, perfect for sunny patios and gardens.",
+  description:
+    "Arabian Jasmine (Jasminum sambac) is a fragrant evergreen shrub or scrambling plant celebrated for its delicate white flowers and rich, sweet scent. Native to tropical Asia, it is widely cultivated in warm regions for ornamental gardening, floral decorations and traditional cultural uses. Depending on the variety, its flowers may be single, semi-double or double, often releasing a particularly noticeable fragrance during the evening. Arabian Jasmine thrives in warm conditions with abundant sunlight, fertile well-draining soil and regular watering. It can be grown in containers, sunny patios, balconies and garden beds, where its glossy green foliage and fragrant blossoms make it an attractive ornamental plant.",
+  image: "/plants/arabian-jasmine.jpg",
+  light: "Full sun to partial sun",
+  water: "When the top 1 inch of soil begins to dry",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Place Arabian Jasmine in a location receiving at least 4–6 hours of direct sunlight daily for healthy growth and abundant flowering.",
+    "Provide some protection from extremely intense afternoon sunlight if the plant shows signs of heat stress, particularly when grown in small containers.",
+    "Water regularly during active growth, allowing the upper layer of soil to dry slightly between waterings.",
+    "Avoid allowing the soil to remain constantly saturated because prolonged waterlogging can damage the roots.",
+    "Use fertile, well-draining soil enriched with suitable organic matter such as mature compost.",
+    "Grow container plants in pots with adequate drainage holes to prevent excess water accumulation.",
+    "Maintain warm growing conditions. Arabian Jasmine performs well in tropical environments but should be protected from prolonged cold temperatures.",
+    "Feed periodically during active growth with a balanced fertilizer or a suitable flowering-plant fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive nitrogen fertilization because it can encourage leafy growth at the expense of flowering.",
+    "Prune lightly after major flowering periods to maintain a compact shape and encourage healthy branching.",
+    "Remove dead, damaged or overcrowded branches using clean pruning tools.",
+    "Deadhead faded flowers when practical to maintain a neat appearance.",
+    "Provide a small support or trellis if growing a variety with long, scrambling stems.",
+    "Inspect regularly for common pests such as aphids, whiteflies, mealybugs and spider mites.",
+    "Maintain good air circulation around the foliage to reduce moisture-related fungal problems.",
+    "Repot container-grown plants when the roots become crowded or growth becomes restricted.",
+    "Avoid allowing the potting mix to dry out completely for prolonged periods, especially during hot weather.",
+    "Monitor flowering performance and adjust sunlight exposure, watering and fertilizer use when necessary."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Arabian Jasmine is commonly propagated from healthy stem cuttings. Select a non-flowering or lightly flowering stem, remove the lower leaves and place the cutting in a suitable moist, well-draining propagation medium. Maintain warmth, high humidity and bright indirect light until roots develop."
+    },
+    {
+      method: "Layering",
+      description:
+        "A flexible stem can be bent toward the soil and a section secured beneath the surface while remaining attached to the parent plant. Keep the covered section lightly moist until roots form, then separate the rooted section and transplant it."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Some Arabian Jasmine varieties may produce viable seeds, although seed propagation is less common than vegetative methods. Sow fresh viable seeds in a suitable growing medium and maintain warm, consistently moist but well-drained conditions during germination."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Natural Fragrance",
+      description:
+        "Arabian Jasmine produces sweetly scented flowers that can enhance the atmosphere of gardens, patios and outdoor seating areas."
+    },
+    {
+      title: "Attractive White Flowers",
+      description:
+        "Its delicate white blossoms create an elegant contrast against glossy green foliage."
+    },
+    {
+      title: "Excellent Ornamental Shrub",
+      description:
+        "Arabian Jasmine can be grown as a decorative shrub, container plant or supported scrambling plant in warm gardens."
+    },
+    {
+      title: "Potential for Repeated Flowering",
+      description:
+        "Under suitable warm, sunny conditions, Arabian Jasmine can produce flowers repeatedly throughout the growing season."
+    },
+    {
+      title: "Suitable for Tropical Gardens",
+      description:
+        "Its preference for warm temperatures makes it well suited to many tropical garden environments."
+    },
+    {
+      title: "Cultural and Floral Significance",
+      description:
+        "Arabian Jasmine flowers are traditionally used in garlands, floral decorations and fragrance-related cultural practices in several parts of the world."
+    }
+  ]
+},
+
+{
+  id: "golden-trumpet",
+  name: "Golden Trumpet",
+  scientificName: "Allamanda cathartica",
+  category: "Flowering Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A vibrant tropical flowering shrub or climber with large golden-yellow trumpet-shaped flowers and glossy green foliage.",
+  description:
+    "Golden Trumpet (Allamanda cathartica) is a vigorous tropical ornamental plant admired for its large, bright yellow trumpet-shaped flowers and glossy evergreen leaves. Native to tropical South America, this flowering species is widely cultivated in warm climates as a scrambling shrub, climbing ornamental or decorative landscape plant. Its flexible stems can be trained along fences, trellises and garden supports, while regular pruning can help maintain a bushier appearance. Golden Trumpet thrives in warm conditions with abundant sunlight, fertile well-draining soil and consistent moisture. Under suitable tropical growing conditions, it can flower repeatedly throughout much of the year. All parts of the plant are poisonous if ingested, and its milky sap may irritate the skin, so careful handling is recommended.",
+  image: "/plants/golden-trumpet.jpg",
+  light: "Full sun",
+  water: "When the top 1–2 inches of soil begin to dry",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Place Golden Trumpet in a sunny location receiving at least 6 hours of direct sunlight daily. Strong sunlight encourages healthy growth and abundant flowering.",
+    "Provide fertile, well-draining soil enriched with suitable organic matter to support vigorous growth.",
+    "Water regularly during active growth, allowing the upper layer of soil to dry slightly between waterings.",
+    "Avoid allowing the soil to remain waterlogged because prolonged saturation can damage the root system.",
+    "Increase watering attention during particularly hot or dry periods, especially for plants grown in containers.",
+    "Grow container plants in large pots with adequate drainage holes to accommodate their vigorous root and shoot growth.",
+    "Provide a sturdy trellis, fence or other support if you want to train Golden Trumpet as a climbing or scrambling ornamental.",
+    "Prune regularly to control its size, maintain a desired shape and encourage bushier growth.",
+    "Remove dead, damaged or overcrowded branches using clean pruning tools.",
+    "Wear gloves when pruning or propagating the plant because its milky sap may irritate the skin.",
+    "Feed periodically during active growth with a balanced fertilizer or a suitable flowering-plant fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive nitrogen fertilization because it may encourage leafy growth at the expense of flowers.",
+    "Maintain warm growing conditions. Golden Trumpet performs best in tropical and subtropical climates and is sensitive to prolonged cold.",
+    "Provide good air circulation around the foliage to help reduce fungal problems during humid weather.",
+    "Inspect regularly for common pests such as aphids, whiteflies, mealybugs and scale insects.",
+    "Monitor container-grown plants for signs of becoming root-bound and repot when necessary.",
+    "Remove unwanted seedlings or spreading growth where the plant is cultivated near natural areas or sensitive habitats.",
+    "Keep Golden Trumpet away from children, pets and grazing animals because all parts of the plant are poisonous if ingested."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Golden Trumpet is commonly propagated using healthy stem cuttings. Select a suitable non-flowering stem, remove the lower leaves and place the cutting in a moist, well-draining propagation medium. Maintain warmth, bright indirect light and suitable humidity until roots develop. Wear gloves and avoid contact with the plant's irritating milky sap."
+    },
+    {
+      method: "Layering",
+      description:
+        "A flexible stem can be bent toward the soil and a section secured beneath the surface while remaining attached to the parent plant. Keep the covered section lightly moist until roots form, then separate the rooted section and transplant it."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Golden Trumpet can also be propagated from viable seeds. Sow seeds in a suitable well-draining growing medium and maintain warm, consistently moist conditions during germination. Vegetative propagation is generally preferred when growers want plants with the same characteristics as the parent."
+    }
+  ],
+  benefits: [
+    {
+      title: "Spectacular Yellow Flowers",
+      description:
+        "Golden Trumpet produces large, bright yellow trumpet-shaped flowers that create a vibrant ornamental display."
+    },
+    {
+      title: "Excellent Tropical Landscaping Plant",
+      description:
+        "Its vigorous growth and attractive foliage make it suitable for sunny tropical gardens, decorative landscapes and outdoor planting areas."
+    },
+    {
+      title: "Suitable for Trellises and Fences",
+      description:
+        "Its flexible stems can be trained along suitable supports to create attractive flowering displays."
+    },
+    {
+      title: "Potential for Repeated Flowering",
+      description:
+        "With sufficient sunlight, warmth and appropriate care, Golden Trumpet can produce flowers repeatedly during much of the year."
+    },
+    {
+      title: "Attractive Evergreen Foliage",
+      description:
+        "Its glossy green leaves provide ornamental interest even when the plant is not flowering."
+    },
+    {
+      title: "Flexible Growth Habit",
+      description:
+        "Golden Trumpet can be maintained as a scrambling shrub or trained on a support, depending on the available space and pruning routine."
+    }
+  ]
+},
+
+{
+  id: "crape-jasmine",
+  name: "Crape Jasmine",
+  scientificName: "Tabernaemontana divaricata",
+  category: "Flowering Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "An elegant tropical flowering shrub with glossy evergreen leaves and beautiful white, pinwheel-shaped flowers.",
+  description:
+    "Crape Jasmine (Tabernaemontana divaricata), also known as Pinwheel Flower, is an attractive evergreen tropical shrub admired for its glossy dark-green foliage and delicate white flowers. Native to tropical Asia, this ornamental plant produces distinctive pinwheel-shaped blossoms, with some cultivated varieties featuring double or ruffled petals. It thrives in warm climates with bright sunlight, fertile well-draining soil and regular watering. Crape Jasmine is widely grown in tropical gardens as a decorative shrub, flowering hedge or container plant. Under favourable conditions, it can produce flowers repeatedly throughout much of the year. Although commonly called jasmine, it belongs to the Apocynaceae family rather than the true jasmine genus. Its milky latex sap may cause irritation and should not be ingested.",
+  image: "/plants/crape-jasmine.jpg",
+  light: "Full sun to partial shade",
+  water: "When the top 1 inch of soil begins to dry",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Place Crape Jasmine in a bright location receiving several hours of sunlight daily. Morning sunlight with some afternoon shade can be beneficial in particularly hot conditions.",
+    "Provide at least 4–6 hours of direct or strong natural light where possible to encourage healthy growth and flowering.",
+    "Water regularly during active growth, allowing the upper layer of soil to dry slightly between waterings.",
+    "Avoid allowing the soil to remain constantly saturated because prolonged waterlogging can damage the roots.",
+    "Use fertile, well-draining soil enriched with suitable organic matter such as mature compost.",
+    "Grow container plants in pots with adequate drainage holes to prevent excess water accumulation.",
+    "Maintain warm growing conditions. Crape Jasmine performs well in tropical climates but should be protected from prolonged cold temperatures.",
+    "Feed periodically during active growth with a balanced fertilizer or suitable flowering-plant fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive nitrogen fertilization because it may encourage leafy growth at the expense of flowering.",
+    "Prune lightly after major flowering periods to maintain a compact shape and encourage healthy branching.",
+    "Remove dead, damaged or overcrowded branches using clean pruning tools.",
+    "Wear gloves when pruning or taking cuttings because the plant produces a milky latex sap that may irritate the skin.",
+    "Remove faded flowers when practical to maintain a neat appearance.",
+    "Provide good air circulation around the foliage to reduce moisture-related fungal problems.",
+    "Inspect regularly for common pests such as aphids, whiteflies, mealybugs and scale insects.",
+    "Monitor the plant for yellowing leaves, which may indicate overwatering, poor drainage or nutrient-related problems.",
+    "Repot container-grown plants when roots become crowded or growth becomes restricted.",
+    "Keep Crape Jasmine away from children and pets because plant material and latex should not be ingested."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Crape Jasmine is commonly propagated from healthy stem cuttings. Select a suitable non-flowering stem, remove the lower leaves and place the cutting in a moist, well-draining propagation medium. Maintain warmth, high humidity and bright indirect light until roots develop. Wear gloves to avoid contact with the milky latex sap."
+    },
+    {
+      method: "Air Layering",
+      description:
+        "Air layering can be used to propagate established plants. A suitable stem section is prepared and surrounded with moist propagation material while remaining attached to the parent plant. Once sufficient roots develop, the rooted section can be separated and transplanted."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Crape Jasmine may also be propagated from viable seeds when available. Sow fresh seeds in a suitable well-draining growing medium and maintain warm, consistently moist conditions during germination. Vegetative methods are generally preferred for preserving the characteristics of cultivated varieties."
+    }
+  ],
+  benefits: [
+    {
+      title: "Elegant White Flowers",
+      description:
+        "Crape Jasmine produces beautiful white, pinwheel-shaped flowers that create a refined ornamental display."
+    },
+    {
+      title: "Glossy Evergreen Foliage",
+      description:
+        "Its attractive dark-green leaves provide decorative interest even when the plant is not flowering."
+    },
+    {
+      title: "Excellent Flowering Hedge",
+      description:
+        "With appropriate pruning, Crape Jasmine can be maintained as a decorative flowering hedge or compact garden shrub."
+    },
+    {
+      title: "Suitable for Tropical Gardens",
+      description:
+        "Its preference for warm growing conditions makes it well suited to many tropical garden environments."
+    },
+    {
+      title: "Potential for Repeated Flowering",
+      description:
+        "Under suitable sunlight, warmth and care, Crape Jasmine can produce flowers repeatedly throughout much of the year."
+    },
+    {
+      title: "Versatile Ornamental Plant",
+      description:
+        "Crape Jasmine can be grown in garden beds, large containers, patios and decorative landscape settings."
+    }
+  ]
+},
+
+{
+  id: "catalonian-jasmine",
+  name: "Catalonian Jasmine",
+  scientificName: "Jasminum grandiflorum",
+  category: "Flowering Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A beautifully fragrant flowering jasmine with delicate white star-shaped blossoms, pinkish buds and graceful climbing stems.",
+  description:
+    "Catalonian Jasmine (Jasminum grandiflorum), also known as Spanish Jasmine or Royal Jasmine, is a fragrant flowering shrub with long, scrambling or climbing stems. Admired for its elegant white star-shaped flowers, pinkish flower buds and delicate green foliage, this ornamental jasmine is widely cultivated in warm climates. Its richly scented blossoms are valued in traditional floral decorations and the fragrance industry. Catalonian Jasmine thrives in sunny conditions with fertile, well-draining soil and regular watering. It can be trained along trellises, fences and garden supports or maintained as a decorative shrub through pruning. Under suitable growing conditions, it produces beautiful flowers that add fragrance and ornamental interest to patios, balconies and tropical gardens.",
+  image: "/plants/catalonian-jasmine.jpg",
+  light: "Full sun to partial sun",
+  water: "When the top 1 inch of soil begins to dry",
+  temperature: "60–85°F (16–29°C)",
+  careGuide: [
+    "Place Catalonian Jasmine in a sunny location receiving approximately 4–6 hours or more of direct sunlight daily. Good sunlight exposure encourages healthy growth and flowering.",
+    "In particularly hot conditions, provide some protection from intense afternoon sunlight if the plant shows signs of heat stress.",
+    "Water regularly during active growth, allowing the upper layer of soil to dry slightly between waterings.",
+    "Avoid keeping the soil constantly saturated because prolonged waterlogging can damage the roots.",
+    "Use fertile, well-draining soil enriched with suitable organic matter such as mature compost.",
+    "Grow container plants in pots with adequate drainage holes to prevent excess water accumulation.",
+    "Provide a trellis, fence or suitable support if you want to train the plant as a climbing or scrambling ornamental.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold temperatures.",
+    "Feed periodically during active growth with a balanced fertilizer or suitable flowering-plant fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive nitrogen fertilization because it may encourage leafy growth at the expense of flowering.",
+    "Prune after major flowering periods to maintain a manageable shape and encourage healthy branching.",
+    "Remove dead, damaged or overcrowded stems using clean pruning tools.",
+    "Guide and secure new climbing stems gently to their supports as they grow.",
+    "Remove faded flowers when practical to maintain a neat appearance.",
+    "Provide good air circulation around the foliage to reduce moisture-related fungal problems.",
+    "Inspect regularly for common pests such as aphids, whiteflies, mealybugs and spider mites.",
+    "Monitor container-grown plants for signs of becoming root-bound and repot when necessary.",
+    "Avoid allowing the potting mix to dry out completely for prolonged periods, especially during hot weather.",
+    "Observe flowering performance and adjust sunlight, watering and feeding when necessary."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Catalonian Jasmine is commonly propagated from healthy stem cuttings. Select a suitable non-flowering stem, remove the lower leaves and place the cutting in a moist, well-draining propagation medium. Maintain warmth, bright indirect light and suitable humidity until roots develop."
+    },
+    {
+      method: "Layering",
+      description:
+        "A flexible stem can be bent toward the soil and a section secured beneath the surface while remaining attached to the parent plant. Keep the covered section lightly moist until roots form, then separate the rooted section and transplant it."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Catalonian Jasmine may be propagated from viable seeds when available, although vegetative methods are generally preferred for maintaining the characteristics of cultivated varieties. Sow fresh seeds in a suitable growing medium and maintain warm, consistently moist but well-drained conditions."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Floral Fragrance",
+      description:
+        "Catalonian Jasmine produces richly scented flowers that can enhance the atmosphere of patios, balconies and outdoor garden spaces."
+    },
+    {
+      title: "Elegant White Flowers",
+      description:
+        "Its delicate white star-shaped blossoms and pinkish buds create an attractive ornamental display."
+    },
+    {
+      title: "Excellent Climbing Ornamental",
+      description:
+        "Its flexible stems can be trained along trellises, fences and suitable garden supports."
+    },
+    {
+      title: "Valued in Perfumery",
+      description:
+        "The fragrant flowers of Jasminum grandiflorum are widely valued in the fragrance industry for their distinctive floral scent."
+    },
+    {
+      title: "Suitable for Warm Gardens",
+      description:
+        "Catalonian Jasmine grows well in warm climates when provided with sufficient sunlight, suitable soil and regular care."
+    },
+    {
+      title: "Versatile Garden Plant",
+      description:
+        "It can be cultivated as a supported climber, scrambling shrub or decorative container plant."
+    }
+  ]
+},
+
+{
+  id: "moss-rose",
+  name: "Moss Rose",
+  scientificName: "Portulaca grandiflora",
+  category: "Flowering Succulent",
+  careLevel: "Easy",
+  shortDescription:
+    "A colourful, low-growing flowering succulent with vibrant rose-like blooms and fleshy leaves, perfect for sunny gardens and hanging baskets.",
+  description:
+    "Moss Rose (Portulaca grandiflora) is a cheerful, low-growing flowering succulent admired for its vibrant, rose-like blossoms and delicate, fleshy foliage. Native to South America, this ornamental plant is widely cultivated in warm, sunny climates for its colourful flowers and spreading growth habit. Its blooms may appear in shades of pink, red, orange, yellow, white and other cultivated colours, with both single- and double-flowered varieties available. Moss Rose thrives in full sunlight, well-draining soil and relatively dry growing conditions. It is particularly suitable for sunny balconies, hanging baskets, decorative containers, rock gardens and garden borders. Although often grown as an annual, it may persist or reseed in favourable warm conditions. Its flowers typically open in bright sunlight and may close during cloudy weather or at night.",
+  image: "/plants/moss-rose.jpg",
+  light: "Full sun",
+  water: "When the upper soil has dried",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Place Moss Rose in a sunny location receiving at least 6 hours of direct sunlight daily. Strong sunlight encourages compact growth and abundant flowering.",
+    "Avoid growing Moss Rose in deep shade because insufficient sunlight can reduce flowering and encourage weak, elongated stems.",
+    "Water thoroughly when the upper portion of the soil has dried, allowing excess water to drain completely.",
+    "Reduce watering frequency once the plant is established. Moss Rose stores water in its fleshy leaves and stems and tolerates short dry periods.",
+    "Avoid keeping the soil constantly wet because prolonged waterlogging can cause root and stem rot.",
+    "Use a light, sandy or gritty potting mix with excellent drainage. Adding perlite or coarse mineral material can improve drainage in containers.",
+    "Grow Moss Rose in containers with adequate drainage holes to prevent water accumulation.",
+    "Maintain warm growing conditions. Moss Rose performs best in sunny, warm environments and is sensitive to frost.",
+    "Protect container-grown plants from prolonged heavy rainfall if the growing medium remains saturated.",
+    "Feed sparingly during active growth using a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization, particularly high-nitrogen feeding, because it may encourage foliage growth at the expense of flowers.",
+    "Remove damaged, diseased or excessively long stems using clean pruning tools.",
+    "Pinch back leggy growth when necessary to encourage a fuller, more compact appearance.",
+    "Remove faded flowers when practical, although many varieties continue flowering without regular deadheading.",
+    "Provide good air circulation to reduce moisture-related problems, especially during humid weather.",
+    "Inspect periodically for common pests such as aphids, mealybugs and other sap-feeding insects.",
+    "Allow sufficient space for the plant to spread naturally across the soil surface or trail over the edges of containers.",
+    "Monitor flowering performance and adjust sunlight exposure if flowers remain closed for extended periods during otherwise suitable weather."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Moss Rose is easily propagated from healthy stem cuttings. Select a suitable stem section, remove the lower leaves and allow the cut end to dry briefly before placing it in a light, well-draining propagation mix. Keep the medium slightly moist but not waterlogged until roots establish."
+    },
+    {
+      method: "Seeds",
+      description:
+        "Moss Rose can be grown from its very small seeds. Sow seeds on the surface of a fine, well-draining growing medium and press them gently into place without burying them deeply. Maintain warmth, bright light and gentle moisture during germination. Gradually introduce seedlings to stronger sunlight as they establish."
+    },
+    {
+      method: "Self-Seeding",
+      description:
+        "In favourable growing conditions, Moss Rose may produce seeds that germinate naturally in nearby soil. Collecting mature seeds allows growers to propagate additional plants while controlling unwanted spreading."
+    }
+  ],
+  benefits: [
+    {
+      title: "Vibrant Colourful Flowers",
+      description:
+        "Moss Rose produces attractive flowers in a wide range of colours, making it ideal for bright ornamental displays."
+    },
+    {
+      title: "Excellent for Sunny Spaces",
+      description:
+        "Its preference for strong sunlight makes it suitable for sunny balconies, patios, garden borders and outdoor containers."
+    },
+    {
+      title: "Drought Tolerant",
+      description:
+        "Its fleshy leaves and stems store water, allowing established plants to tolerate periods of dryness."
+    },
+    {
+      title: "Beautiful Ground Cover",
+      description:
+        "Its low-growing, spreading habit makes it useful for decorative garden edges, rock gardens and sunny ground-cover displays."
+    },
+    {
+      title: "Ideal for Hanging Baskets",
+      description:
+        "Moss Rose can trail attractively over the edges of hanging baskets and raised containers."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Moss Rose can be propagated from stem cuttings and seeds, making it a practical addition to home gardens and nursery collections."
+    }
+  ]
+},
+
+
+
+
 
 
 
