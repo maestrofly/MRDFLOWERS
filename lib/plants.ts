@@ -2225,6 +2225,605 @@ export const plants: Plant[] = [
   ]
 },
 
+{
+  id: "common-agapanthus",
+  name: "Common Agapanthus",
+  scientificName: "Agapanthus praecox",
+  category: "Flowering Perennial",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "An elegant flowering perennial with tall stems, rounded clusters of blue, violet or white flowers and attractive strap-shaped foliage.",
+  description:
+    "Common Agapanthus (Agapanthus praecox), also known as African Lily or Lily of the Nile, is an attractive perennial flowering plant native to South Africa. It is admired for its tall, upright flower stalks topped with rounded clusters of trumpet-shaped blossoms in shades of blue, violet or white, depending on the variety. Its long, strap-shaped green leaves form attractive clumps that provide ornamental interest even when the plant is not flowering. Common Agapanthus thrives in sunny conditions with fertile, well-draining soil and consistent moisture during active growth. It is widely cultivated in ornamental gardens, landscape borders, decorative containers and mass plantings. Flowering is often seasonal and depends on climate, variety and growing conditions. All parts of the plant should be considered unsuitable for consumption, and its sap may cause skin irritation.",
+  image: "/plants/common-agapanthus.jpg",
+  light: "Full sun to partial sun",
+  water: "When the top 1–2 inches of soil begin to dry",
+  temperature: "60–85°F (16–29°C)",
+  careGuide: [
+    "Place Common Agapanthus in a bright location receiving approximately 6 hours or more of direct sunlight daily for strong growth and good flowering.",
+    "In particularly hot climates, some protection from intense afternoon sunlight may help reduce heat stress, especially for container-grown plants.",
+    "Use fertile, well-draining soil enriched with suitable organic matter such as mature compost.",
+    "Water regularly during active growth, allowing the upper layer of soil to dry slightly between waterings.",
+    "Avoid keeping the soil constantly saturated because prolonged waterlogging can damage the fleshy roots and rhizomes.",
+    "Grow container plants in pots with adequate drainage holes to prevent excess water accumulation.",
+    "Maintain warm growing conditions and protect plants from prolonged extreme temperatures.",
+    "Feed during active growth using a balanced fertilizer or suitable flowering-plant fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive nitrogen fertilization because it may encourage foliage growth at the expense of flowering.",
+    "Remove spent flower stalks after flowering to maintain a neat appearance and prevent unwanted seed production.",
+    "Remove dead, damaged or yellowing leaves using clean pruning tools.",
+    "Allow healthy foliage to remain after flowering because the leaves continue supporting the plant's growth and energy storage.",
+    "Divide overcrowded clumps when necessary, preferably during a suitable active-growth or post-flowering period.",
+    "Avoid dividing the plant too frequently because recently divided clumps may take time to establish before flowering strongly.",
+    "Provide good air circulation around the foliage to reduce moisture-related problems during humid weather.",
+    "Inspect periodically for common garden pests such as snails, slugs, aphids and other leaf-feeding insects.",
+    "Monitor container-grown plants for signs of overcrowding and repot or divide when necessary.",
+    "Keep Common Agapanthus away from children and pets because ingestion may cause gastrointestinal upset and the sap may irritate the skin.",
+    "Monitor flowering performance and adjust sunlight exposure, watering and feeding when necessary."
+  ],
+  propagation: [
+    {
+      method: "Division",
+      description:
+        "Common Agapanthus is most commonly propagated by dividing established clumps. Carefully lift a mature plant and separate the root and rhizome sections, ensuring each division has healthy roots and growing points. Replant the divisions in fertile, well-draining soil and water appropriately while they establish."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Common Agapanthus can also be grown from viable seeds collected from mature seed capsules. Sow fresh seeds in a suitable well-draining propagation medium and maintain warm, lightly moist conditions during germination. Seed-grown plants may take several years to reach flowering maturity."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Flower Clusters",
+      description:
+        "Common Agapanthus produces elegant rounded clusters of blue, violet or white flowers that create a striking ornamental display."
+    },
+    {
+      title: "Excellent for Garden Borders",
+      description:
+        "Its upright flower stalks and clumping foliage make it attractive for garden borders, pathways and decorative landscape plantings."
+    },
+    {
+      title: "Attractive Strap-Shaped Foliage",
+      description:
+        "Its long, green leaves form decorative clumps that provide visual interest even when the plant is not flowering."
+    },
+    {
+      title: "Suitable for Container Growing",
+      description:
+        "Common Agapanthus can be cultivated in decorative containers, making it suitable for patios, courtyards and other bright outdoor spaces."
+    },
+    {
+      title: "Long-Lived Perennial",
+      description:
+        "With suitable growing conditions and occasional division, established Agapanthus plants can remain attractive for many years."
+    },
+    {
+      title: "Useful for Ornamental Landscaping",
+      description:
+        "Its colourful flowers and structured growth habit make it a popular choice for mass plantings and tropical or subtropical garden designs."
+    }
+  ]
+},
+
+{
+  id: "angel-wing-begonia",
+  name: "Angel Wing Begonia",
+  scientificName: "Begonia coccinea",
+  category: "Flowering Foliage Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "An elegant tropical begonia with distinctive wing-shaped leaves, upright cane-like stems and beautiful hanging flower clusters.",
+  description:
+    "Angel Wing Begonia (Begonia coccinea) is an attractive cane-type begonia admired for its elongated, asymmetrical leaves and graceful clusters of flowers. Native to Brazil, this tropical ornamental plant develops upright, bamboo-like stems and glossy green foliage that resembles the shape of an angel's wings. Its flowers typically appear in hanging clusters, often in shades of red, pink or coral depending on the plant and cultivar. Angel Wing Begonia thrives in warm conditions with bright indirect light, well-draining soil, moderate humidity and careful watering. It can be grown in decorative containers, sheltered patios and bright indoor spaces. With suitable care and occasional pruning, it develops an elegant, bushy appearance that makes it a beautiful addition to tropical plant collections.",
+  image: "/plants/angel-wing-begonia.jpg",
+  light: "Bright indirect light or gentle morning sun",
+  water: "When the top 1 inch of soil begins to dry",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Place Angel Wing Begonia in a bright location with plenty of indirect sunlight. Gentle morning sunlight is generally beneficial, but intense afternoon sun can scorch the leaves.",
+    "Avoid deep shade because insufficient light may cause weak, elongated growth and reduced flowering.",
+    "Water when the upper inch of potting mix begins to dry, keeping the root zone lightly moist during active growth without leaving it waterlogged.",
+    "Reduce watering when growth slows or when the potting mix remains moist for longer periods.",
+    "Use a loose, fertile and well-draining potting mix containing suitable organic matter and aeration materials such as perlite.",
+    "Grow the plant in a container with adequate drainage holes to prevent water accumulation around the roots.",
+    "Maintain warm temperatures and protect the plant from cold drafts and sudden temperature changes.",
+    "Provide moderate humidity while ensuring good air circulation around the foliage.",
+    "Avoid keeping the leaves continuously wet, particularly during humid weather, because prolonged leaf moisture can encourage fungal or bacterial problems.",
+    "Feed lightly during active growth with a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilizer application because it can damage roots and encourage weak growth.",
+    "Prune long or leggy stems to encourage branching and maintain a fuller appearance.",
+    "Remove dead, damaged or diseased leaves using clean pruning tools.",
+    "Provide a small stake or support if the cane-like stems become tall or top-heavy.",
+    "Rotate container-grown plants occasionally to encourage balanced growth toward the available light.",
+    "Inspect regularly for common pests such as mealybugs, aphids, thrips and spider mites.",
+    "Watch for powdery mildew, leaf spotting or stem rot, especially where humidity is high and air circulation is poor.",
+    "Repot when the roots become crowded, preferably during active growth, using a container only slightly larger than the previous one.",
+    "Keep the plant away from cats, dogs and other pets because begonias contain irritating calcium oxalates, particularly in their underground parts."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Angel Wing Begonia is commonly propagated from healthy stem cuttings. Select a stem section containing at least one or two nodes, remove the lower leaves and place the cutting in a lightly moist, well-draining propagation medium. Maintain warmth, bright indirect light and suitable humidity until roots develop."
+    },
+    {
+      method: "Water Propagation",
+      description:
+        "Healthy cane-type Begonia stem cuttings can also be rooted in clean water. Place the lower node below the water surface while keeping the leaves above it. Change the water regularly and transfer the cutting into a suitable potting mix once a healthy root system develops."
+    },
+    {
+      method: "Division",
+      description:
+        "Established plants with multiple rooted stems may sometimes be divided during repotting. Carefully separate suitable rooted sections, preserving healthy roots and shoots, and transplant them into individual containers."
+    }
+  ],
+  benefits: [
+    {
+      title: "Distinctive Wing-Shaped Leaves",
+      description:
+        "Its elegant, asymmetrical foliage creates an attractive ornamental display even when the plant is not flowering."
+    },
+    {
+      title: "Beautiful Hanging Flowers",
+      description:
+        "Angel Wing Begonia produces graceful clusters of colourful flowers that complement its green foliage."
+    },
+    {
+      title: "Excellent Decorative Container Plant",
+      description:
+        "Its upright growth habit makes it suitable for decorative pots in bright indoor spaces and sheltered outdoor areas."
+    },
+    {
+      title: "Attractive Tropical Appearance",
+      description:
+        "The combination of cane-like stems, glossy leaves and delicate flowers gives Angel Wing Begonia a distinctive tropical character."
+    },
+    {
+      title: "Suitable for Bright Sheltered Spaces",
+      description:
+        "Angel Wing Begonia performs well in locations with bright filtered light, making it useful for covered patios, verandas and bright rooms."
+    },
+    {
+      title: "Easy to Propagate from Cuttings",
+      description:
+        "Healthy stem cuttings can develop into new plants when provided with suitable warmth, moisture and light."
+    }
+  ]
+},
+
+{
+  id: "star-leaf-begonia",
+  name: "Star Leaf Begonia",
+  scientificName: "Begonia heracleifolia",
+  category: "Ornamental Foliage Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A striking tropical foliage plant with large, deeply lobed, star-shaped leaves and distinctive ornamental patterns.",
+  description:
+    "Star Leaf Begonia (Begonia heracleifolia), also known as Hogweed-leaved Begonia, is an attractive rhizomatous begonia admired for its large, deeply lobed leaves and distinctive tropical appearance. Native to Mexico and Central America, this ornamental species develops broad, palmately divided foliage that often resembles a star or an open hand. Depending on the variety and growing conditions, the leaves may display shades of green, bronze or darker markings, creating an eye-catching decorative effect. Unlike cane-type begonias, Star Leaf Begonia grows from creeping rhizomes near the soil surface and forms attractive spreading clumps. It thrives in warm conditions with bright indirect light, well-draining soil, moderate humidity and careful watering. Its dramatic foliage makes it an excellent choice for decorative containers, shaded patios, sheltered verandas and bright indoor plant collections.",
+  image: "/plants/star-leaf-begonia.jpg",
+  light: "Bright indirect light to partial shade",
+  water: "When the top 1 inch of soil begins to dry",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Place Star Leaf Begonia in a bright location with filtered or indirect sunlight. Gentle morning sunlight may be tolerated, but strong afternoon sun can scorch the leaves.",
+    "Avoid deep shade because insufficient light may reduce healthy growth and weaken the plant's ornamental appearance.",
+    "Water when the upper inch of potting mix begins to dry, maintaining light moisture during active growth without keeping the soil saturated.",
+    "Reduce watering when growth slows or when the potting mix remains moist for longer periods.",
+    "Use a loose, fertile and well-draining potting mix containing suitable organic matter and aeration materials such as perlite.",
+    "Grow the plant in a container with adequate drainage holes to prevent water accumulation around the roots.",
+    "Choose a relatively wide container when necessary because Star Leaf Begonia develops creeping rhizomes that spread near the soil surface.",
+    "Avoid burying the rhizomes too deeply because this can increase the risk of rot.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold temperatures and sudden temperature changes.",
+    "Provide moderate humidity while ensuring good air circulation around the foliage.",
+    "Avoid keeping the leaves continuously wet, especially during humid weather, because prolonged moisture can encourage fungal or bacterial problems.",
+    "Feed lightly during active growth with a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilizer application because it may damage roots or encourage weak growth.",
+    "Remove dead, damaged or diseased leaves using clean pruning tools.",
+    "Trim overcrowded or unhealthy growth when necessary to maintain an attractive appearance.",
+    "Inspect regularly for common pests such as mealybugs, aphids, thrips and spider mites.",
+    "Monitor for powdery mildew, leaf spots and rhizome rot, particularly where ventilation is poor or watering is excessive.",
+    "Repot when the plant becomes crowded or the rhizomes extend beyond the container, preferably during active growth.",
+    "Keep Star Leaf Begonia away from cats, dogs and other pets because begonias contain irritating calcium oxalates, particularly in their underground parts."
+  ],
+  propagation: [
+    {
+      method: "Rhizome Division",
+      description:
+        "Star Leaf Begonia can be propagated by dividing healthy sections of its creeping rhizomes. Carefully separate a section containing healthy growing points and roots, then place it in a suitable loose, well-draining potting mix. Maintain warmth, bright indirect light and light moisture until the division establishes."
+    },
+    {
+      method: "Rhizome Cuttings",
+      description:
+        "Healthy rhizome sections can be cut using clean tools and placed on or slightly into a moist, well-draining propagation medium. Keep the growing points appropriately positioned and maintain suitable warmth and humidity until new roots and shoots develop."
+    },
+    {
+      method: "Leaf Cuttings",
+      description:
+        "Some rhizomatous begonias, including Star Leaf Begonia, can be propagated from suitable leaf cuttings. Place a healthy leaf or prepared leaf section in contact with a moist propagation medium and maintain high humidity, warmth and bright indirect light. New plantlets may develop from suitable leaf tissues under favourable conditions."
+    }
+  ],
+  benefits: [
+    {
+      title: "Distinctive Star-Shaped Foliage",
+      description:
+        "Its large, deeply lobed leaves create a dramatic ornamental display that stands out in tropical plant collections."
+    },
+    {
+      title: "Beautiful Leaf Patterns",
+      description:
+        "Depending on the variety and growing conditions, its foliage may display attractive shades of green, bronze and darker markings."
+    },
+    {
+      title: "Excellent Decorative Container Plant",
+      description:
+        "Its spreading rhizomatous growth makes it suitable for wide decorative pots and sheltered plant displays."
+    },
+    {
+      title: "Suitable for Bright Shaded Spaces",
+      description:
+        "Star Leaf Begonia thrives in filtered light, making it attractive for covered patios, verandas and bright indoor areas."
+    },
+    {
+      title: "Interesting Rhizomatous Growth",
+      description:
+        "Its creeping rhizomes create a distinctive growth habit that differs from upright cane-type begonias."
+    },
+    {
+      title: "Can Be Propagated Vegetatively",
+      description:
+        "Healthy rhizome divisions and suitable cuttings can be used to produce additional plants under controlled growing conditions."
+    }
+  ]
+},
+
+{
+  id: "delta-maidenhair-fern",
+  name: "Delta Maidenhair Fern",
+  scientificName: "Adiantum raddianum",
+  category: "Fern",
+  careLevel: "Moderate to Advanced",
+  shortDescription:
+    "An elegant tropical fern with delicate triangular leaflets, slender dark stems and graceful arching fronds, ideal for humid, shaded spaces.",
+  description:
+    "Delta Maidenhair Fern (Adiantum raddianum) is a delicate ornamental fern admired for its graceful arching fronds, fine green leaflets and slender, dark, wiry stems. Native to tropical and subtropical regions of the Americas, this attractive fern grows naturally in sheltered, humid environments. Its finely divided foliage creates a soft, airy appearance that makes it popular for indoor plant collections, shaded verandas and decorative containers. Unlike drought-tolerant succulents, Delta Maidenhair Fern prefers consistently moist but well-draining soil, moderate to high humidity and bright indirect light. It is particularly sensitive to prolonged dryness, harsh direct sunlight and waterlogged growing conditions. With attentive care, it can develop into a lush, elegant foliage plant that adds a refreshing tropical appearance to sheltered spaces.",
+  image: "/plants/delta-maidenhair-fern.jpg",
+  light: "Bright indirect light to partial shade",
+  water: "Keep soil consistently lightly moist",
+  temperature: "60–80°F (16–27°C)",
+  careGuide: [
+    "Place Delta Maidenhair Fern in a bright location with filtered or indirect sunlight. Avoid prolonged exposure to strong direct sunlight because its delicate fronds can scorch.",
+    "Choose a sheltered position with gentle natural light, such as a shaded veranda, covered patio or bright indoor area away from harsh afternoon sun.",
+    "Keep the potting mix consistently lightly moist during active growth. Do not allow the root zone to dry out completely for extended periods.",
+    "Water when the soil surface begins to lose moisture, ensuring that excess water drains freely from the container.",
+    "Avoid keeping the soil permanently saturated because waterlogged conditions can damage the roots.",
+    "Use a loose, moisture-retentive but well-draining potting mix containing suitable organic matter and aeration materials such as perlite.",
+    "Grow the fern in a container with adequate drainage holes to prevent excess water accumulation.",
+    "Maintain moderate to high humidity around the plant, particularly during dry or windy weather.",
+    "Consider grouping the fern with other humidity-loving plants or using a suitable humidifier in dry indoor environments.",
+    "Avoid placing the plant directly in front of strong fans, air conditioners or drying drafts.",
+    "Maintain mild to warm growing conditions and protect the plant from prolonged extreme heat or cold.",
+    "Provide good air circulation without exposing the delicate foliage to strong, drying winds.",
+    "Feed lightly during active growth with a diluted balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because maidenhair ferns can be sensitive to fertilizer salt buildup.",
+    "Remove dry, damaged or brown fronds using clean scissors to maintain a neat appearance.",
+    "Monitor the plant regularly for signs of underwatering, including crispy leaflets, browning fronds and sudden foliage drying.",
+    "If the fern becomes severely dry, restore moisture gradually and remove dead foliage while monitoring for healthy new growth.",
+    "Inspect periodically for pests such as scale insects, mealybugs and other sap-feeding insects.",
+    "Repot when the root system becomes crowded, preferably during active growth, using a suitable moisture-retentive but well-draining potting mix.",
+    "Avoid unnecessary disturbance of the roots because maidenhair ferns can be sensitive to abrupt changes in growing conditions."
+  ],
+  propagation: [
+    {
+      method: "Division",
+      description:
+        "Delta Maidenhair Fern is most commonly propagated by dividing healthy, established clumps. Carefully remove the plant from its container and separate suitable rooted sections, ensuring each division contains healthy roots and growing points. Replant the divisions in a moisture-retentive, well-draining fern potting mix and maintain warmth, humidity and consistent light moisture while they establish."
+    },
+    {
+      method: "Spore Propagation",
+      description:
+        "Like other true ferns, Delta Maidenhair Fern reproduces naturally through spores rather than seeds. Mature spores can be collected from fertile fronds and sown on a clean, moist propagation medium under controlled humidity and suitable light conditions. Spore propagation requires patience and careful sanitation because the process is slower and more delicate than division."
+    }
+  ],
+  benefits: [
+    {
+      title: "Elegant Delicate Foliage",
+      description:
+        "Its fine green leaflets and graceful arching fronds create a soft, elegant ornamental appearance."
+    },
+    {
+      title: "Excellent for Shaded Spaces",
+      description:
+        "Delta Maidenhair Fern thrives in filtered light, making it attractive for sheltered patios, verandas and bright indoor areas."
+    },
+    {
+      title: "Beautiful Decorative Container Plant",
+      description:
+        "Its cascading foliage makes it suitable for decorative pots, plant stands and sheltered ornamental displays."
+    },
+    {
+      title: "Distinctive Dark Stems",
+      description:
+        "The slender, dark stems create an attractive contrast against the fern's delicate green foliage."
+    },
+    {
+      title: "Suitable for Humid Environments",
+      description:
+        "Its preference for humid growing conditions makes it an interesting choice for sheltered tropical plant collections."
+    },
+    {
+      title: "Interesting Fern Reproduction",
+      description:
+        "As a true fern, Delta Maidenhair Fern reproduces through spores rather than flowers or seeds, making it an educational addition to plant collections."
+    }
+  ]
+},
+
+{
+  id: "giant-sword-fern",
+  name: "Giant Sword Fern",
+  scientificName: "Nephrolepis biserrata",
+  category: "Fern",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "A vigorous tropical fern with long, arching green fronds and lush foliage, ideal for shaded gardens, large containers and tropical landscaping.",
+  description:
+    "Giant Sword Fern (Nephrolepis biserrata) is a vigorous tropical fern admired for its large, arching fronds and dense green foliage. Naturally occurring across many tropical and subtropical regions, this impressive fern develops long, pinnate fronds composed of numerous narrow leaflets arranged along a central stem. Its lush, spreading growth habit makes it attractive for tropical gardens, sheltered patios, shaded landscape areas and large decorative containers. Giant Sword Fern prefers bright filtered light, consistently moist but well-draining soil, warm temperatures and moderate to high humidity. Compared with more delicate ferns, it can be relatively robust once established, although prolonged drought and harsh direct sunlight may damage its foliage. With sufficient space and suitable care, Giant Sword Fern creates an attractive, full-bodied tropical display.",
+  image: "/plants/giant-sword-fern.jpg",
+  light: "Bright indirect light to partial shade",
+  water: "Keep soil evenly moist, not waterlogged",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Grow Giant Sword Fern in bright filtered light or partial shade. Gentle morning sunlight may be tolerated, but prolonged harsh afternoon sun can scorch the fronds.",
+    "Choose a sheltered outdoor location such as a shaded garden, covered patio or veranda with adequate space for the mature fronds.",
+    "Keep the potting mix evenly moist during active growth, allowing the upper surface to begin drying slightly before watering again.",
+    "Water thoroughly when needed and allow excess water to drain freely from the container.",
+    "Avoid prolonged waterlogging because saturated growing conditions can damage the roots and encourage rot.",
+    "Use a fertile, moisture-retentive but well-draining potting mix containing suitable organic matter and aeration materials.",
+    "Add mature compost to suitable garden soil to improve its structure and moisture retention.",
+    "Maintain warm growing conditions and protect the fern from prolonged cold temperatures.",
+    "Provide moderate to high humidity, particularly during dry, windy weather.",
+    "Avoid placing container-grown plants directly in strong, drying winds or close to hot air outlets.",
+    "Allow enough space around the plant for its long, arching fronds to spread naturally.",
+    "Feed lightly during active growth with a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because accumulated fertilizer salts may damage the roots and foliage.",
+    "Remove dead, yellowing or damaged fronds at their base using clean pruning tools.",
+    "Trim overcrowded foliage when necessary to improve appearance and air circulation.",
+    "Inspect periodically for common pests such as scale insects, mealybugs and other sap-feeding insects.",
+    "Monitor for browning frond tips, which may result from prolonged dryness, low humidity, excess fertilizer salts or other environmental stress.",
+    "Repot container-grown plants when the root system becomes crowded or the fern outgrows its container.",
+    "Divide established clumps when necessary to control their size or produce additional plants.",
+    "Monitor spreading growth in garden beds because Giant Sword Fern can expand through runners and may require containment in suitable landscapes."
+  ],
+  propagation: [
+    {
+      method: "Division",
+      description:
+        "Giant Sword Fern is commonly propagated by dividing established clumps. Carefully remove a mature plant from its container or garden bed and separate suitable rooted sections, ensuring each division contains healthy roots and growing points. Replant in fertile, well-draining soil and maintain consistent moisture while the divisions establish."
+    },
+    {
+      method: "Runners",
+      description:
+        "Giant Sword Fern may produce spreading runners or stolons that develop new plantlets. Once a plantlet has formed a suitable root system, it can be carefully separated from the parent plant and transplanted into its own container."
+    },
+    {
+      method: "Spore Propagation",
+      description:
+        "Like other true ferns, Giant Sword Fern reproduces naturally through spores rather than seeds. Mature spores can be collected from fertile fronds and sown on a clean, moist propagation medium under controlled humidity and suitable light conditions. This method is slower and requires careful environmental management."
+    }
+  ],
+  benefits: [
+    {
+      title: "Lush Tropical Foliage",
+      description:
+        "Its long, arching green fronds create a dense ornamental display that adds a tropical appearance to gardens and sheltered spaces."
+    },
+    {
+      title: "Excellent for Shaded Landscaping",
+      description:
+        "Giant Sword Fern grows well in filtered light and partial shade, making it useful for shaded garden borders and tropical landscape designs."
+    },
+    {
+      title: "Suitable for Large Decorative Containers",
+      description:
+        "Its impressive foliage makes it attractive in large pots, raised planters and spacious sheltered patios."
+    },
+    {
+      title: "Vigorous Growth Habit",
+      description:
+        "With suitable growing conditions, Giant Sword Fern develops substantial foliage and can fill ornamental spaces effectively."
+    },
+    {
+      title: "Can Be Propagated by Division",
+      description:
+        "Established plants can be divided to produce additional ferns for nursery cultivation or ornamental planting."
+    },
+    {
+      title: "Attractive Year-Round Greenery",
+      description:
+        "In favourable warm conditions, its evergreen foliage provides continuing ornamental interest throughout the year."
+    }
+  ]
+},
+
+{
+  id: "fishtail-fern",
+  name: "Fishtail Fern",
+  scientificName: "Nephrolepis falcata",
+  category: "Fern",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "A lush tropical fern with graceful arching fronds, popular for its distinctive fishtail-like leaflet tips in cultivated forms.",
+  description:
+    "Fishtail Fern (Nephrolepis falcata) is an attractive tropical fern admired for its long, arching green fronds and elegant ornamental appearance. Certain cultivated forms, particularly those sold as 'Furcans', develop distinctive forked leaflet tips resembling the tail of a fish. This unusual foliage gives the plant a decorative character that distinguishes it from many conventional sword ferns. Fishtail Fern grows best in warm conditions with bright indirect light, consistently moist but well-draining soil and moderate to high humidity. Its arching growth habit makes it suitable for hanging baskets, decorative containers, shaded verandas and sheltered tropical gardens. With suitable watering, occasional feeding and regular removal of damaged fronds, it can develop into a lush and attractive foliage plant.",
+  image: "/plants/fishtail-fern.jpg",
+  light: "Bright indirect light to partial shade",
+  water: "Keep soil evenly moist, not waterlogged",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Place Fishtail Fern in a bright location with filtered or indirect sunlight. Gentle morning sunlight may be tolerated, but harsh afternoon sun can scorch the fronds.",
+    "Avoid prolonged deep shade because insufficient light may reduce healthy growth and produce weak foliage.",
+    "Water regularly during active growth, keeping the potting mix evenly moist without allowing it to remain saturated.",
+    "Allow the upper surface of the potting mix to begin drying slightly before watering again.",
+    "Avoid allowing the root zone to remain completely dry for extended periods because prolonged dryness can cause frond browning.",
+    "Use a fertile, moisture-retentive but well-draining potting mix containing suitable organic matter and aeration materials such as perlite.",
+    "Grow the plant in a container with adequate drainage holes to prevent water accumulation around the roots.",
+    "Maintain warm growing conditions and protect the fern from prolonged cold temperatures and sudden temperature changes.",
+    "Provide moderate to high humidity, particularly during dry or windy weather.",
+    "Avoid placing the fern directly in strong, drying winds or close to air conditioners and hot air outlets.",
+    "Provide good air circulation around the fronds to reduce moisture-related problems during humid weather.",
+    "Feed lightly during active growth with a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because accumulated fertilizer salts can damage the roots and cause foliage stress.",
+    "Remove dry, damaged or yellowing fronds at their base using clean pruning tools.",
+    "Trim overcrowded foliage when necessary to maintain an attractive shape and improve airflow.",
+    "Inspect periodically for common pests such as scale insects, mealybugs and other sap-feeding insects.",
+    "Monitor for brown leaf tips, which may result from prolonged dryness, low humidity, excessive fertilizer salts or environmental stress.",
+    "Repot when the roots become crowded or the plant outgrows its container, preferably during active growth.",
+    "Divide established clumps when necessary to produce additional plants or maintain a manageable size.",
+    "Monitor the plant for spreading runners and separate suitable rooted plantlets when propagating."
+  ],
+  propagation: [
+    {
+      method: "Division",
+      description:
+        "Fishtail Fern can be propagated by dividing healthy, established clumps. Carefully remove the parent plant from its container and separate suitable rooted sections, ensuring each division contains healthy roots and growing points. Replant the divisions in a moisture-retentive, well-draining potting mix and maintain consistent moisture while they establish."
+    },
+    {
+      method: "Runners",
+      description:
+        "Like other Nephrolepis ferns, Fishtail Fern may develop spreading runners or stolons that can produce new plantlets. Once a plantlet has developed suitable roots, it can be carefully separated from the parent plant and transplanted into its own container."
+    },
+    {
+      method: "Spore Propagation",
+      description:
+        "Fishtail Fern may reproduce through spores formed on fertile fronds. Mature spores can be collected and sown on a clean, moist propagation medium under controlled humidity and suitable light conditions. This method is more demanding than division, and plants grown from spores may not reliably retain the distinctive forked foliage of named cultivars."
+    }
+  ],
+  benefits: [
+    {
+      title: "Distinctive Fishtail Foliage",
+      description:
+        "Selected cultivars develop unusual forked leaflet tips that create an eye-catching ornamental appearance."
+    },
+    {
+      title: "Graceful Arching Fronds",
+      description:
+        "Its long green fronds form an attractive cascading display in suitable containers and hanging baskets."
+    },
+    {
+      title: "Excellent for Shaded Spaces",
+      description:
+        "Fishtail Fern grows well in filtered light, making it suitable for sheltered patios, verandas and bright indoor areas."
+    },
+    {
+      title: "Beautiful Hanging Basket Plant",
+      description:
+        "Its arching growth habit makes it particularly attractive in hanging baskets and elevated decorative containers."
+    },
+    {
+      title: "Lush Tropical Appearance",
+      description:
+        "Its dense green foliage adds texture and a refreshing tropical character to ornamental plant collections."
+    },
+    {
+      title: "Can Be Propagated Vegetatively",
+      description:
+        "Healthy clump divisions and rooted runners can be used to produce additional plants while preserving the characteristics of selected cultivars."
+    }
+  ]
+},
+
+{
+  id: "inch-plant",
+  name: "Inch Plant",
+  scientificName: "Tradescantia zebrina",
+  category: "Trailing Foliage Plant",
+  careLevel: "Easy",
+  shortDescription:
+    "A colourful, fast-growing trailing plant with striking silver-striped green leaves, purple undersides and cascading stems.",
+  description:
+    "Inch Plant (Tradescantia zebrina) is a popular tropical ornamental plant admired for its colourful foliage and vigorous trailing growth habit. Native to Mexico and Central America, this attractive plant produces pointed, oval leaves decorated with metallic silver stripes, green to purple upper surfaces and rich purple undersides. Its flexible stems spread or cascade over the edges of containers, making it particularly suitable for hanging baskets, decorative pots and sheltered balconies. Inch Plant grows best in bright indirect light, warm temperatures and loose, well-draining soil. Although it tolerates some direct sunlight, prolonged exposure to harsh afternoon sun may damage the leaves. It responds well to regular pruning and is easily propagated from stem cuttings. With suitable care, Inch Plant creates a vibrant ornamental display that adds colour and texture to indoor and outdoor plant collections.",
+  image: "/plants/inch-plant.jpg",
+  light: "Bright indirect light to gentle morning sun",
+  water: "When the top 1 inch of soil begins to dry",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Place Inch Plant in a bright location with plenty of indirect sunlight to maintain its attractive silver, green and purple leaf colours.",
+    "Gentle morning sunlight may help intensify foliage colour, but protect the plant from prolonged harsh afternoon sunlight.",
+    "Avoid deep shade because insufficient light can cause leggy growth and less vibrant leaf markings.",
+    "Water when the upper inch of potting mix begins to dry, ensuring that excess water drains freely.",
+    "Reduce watering during cooler or slower-growing periods and avoid keeping the soil constantly saturated.",
+    "Use a loose, fertile and well-draining potting mix containing suitable organic matter and aeration materials such as perlite.",
+    "Grow the plant in containers with adequate drainage holes to prevent water accumulation around the roots.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold temperatures.",
+    "Provide moderate humidity, although established Inch Plants can tolerate ordinary household humidity in suitable conditions.",
+    "Avoid placing the plant in strong, drying winds or directly in front of air conditioners.",
+    "Feed lightly during active growth with a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilizer application because it can encourage weak growth and damage the roots.",
+    "Pinch back growing tips regularly to encourage branching and maintain a fuller, bushier appearance.",
+    "Prune long or leggy stems when necessary to control the plant's shape and encourage new growth.",
+    "Remove dead, damaged or yellowing leaves using clean pruning tools.",
+    "Rotate container-grown plants occasionally to encourage balanced growth toward the available light.",
+    "Inspect periodically for common pests such as aphids, mealybugs, spider mites and other sap-feeding insects.",
+    "Monitor for soft or rotting stems, particularly when the growing medium remains excessively wet.",
+    "Repot when the root system becomes crowded or the plant outgrows its container, preferably during active growth.",
+    "Keep the plant contained in pots where possible because its spreading stems can root at the nodes and establish in surrounding soil.",
+    "Wear gloves when pruning if you have sensitive skin because contact with the plant's sap may cause irritation in some people."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings in Water",
+      description:
+        "Select a healthy stem with several nodes and cut just below a node using clean scissors. Remove leaves from the lower section and place the cutting in clean water, keeping the leaves above the waterline. Position it in bright indirect light and change the water regularly. Once healthy roots develop, transfer the cutting into a suitable potting mix."
+    },
+    {
+      method: "Stem Cuttings in Soil",
+      description:
+        "Take healthy stem cuttings containing at least two nodes and remove the lower leaves. Insert one or more nodes into a lightly moist, well-draining potting mix. Maintain warmth and bright indirect light while the cuttings establish. Several cuttings can be planted together to create a fuller container."
+    },
+    {
+      method: "Layering",
+      description:
+        "Inch Plant stems can produce roots where their nodes contact suitable moist soil. Gently position a healthy stem against the surface of a nearby potting mix and secure a node in place. Once roots develop, separate the rooted section from the parent plant and transplant it if necessary."
+    }
+  ],
+  benefits: [
+    {
+      title: "Striking Purple and Silver Foliage",
+      description:
+        "Its metallic silver stripes and purple leaf undersides create a colourful ornamental display."
+    },
+    {
+      title: "Excellent Hanging Basket Plant",
+      description:
+        "Its trailing stems cascade attractively over the edges of hanging baskets, shelves and decorative containers."
+    },
+    {
+      title: "Fast-Growing Foliage",
+      description:
+        "Under suitable conditions, Inch Plant grows vigorously and can quickly develop into a lush trailing display."
+    },
+    {
+      title: "Easy to Propagate",
+      description:
+        "Healthy stem cuttings root readily in water or suitable potting media, making it practical for nursery propagation."
+    },
+    {
+      title: "Responds Well to Pruning",
+      description:
+        "Regular pinching and pruning encourage branching and help maintain a fuller, more compact appearance."
+    },
+    {
+      title: "Versatile Decorative Plant",
+      description:
+        "Inch Plant can be grown in hanging baskets, decorative pots and sheltered outdoor displays, adding colour to different spaces."
+    }
+  ]
+},
+
+
+
 
 
 
