@@ -4425,6 +4425,382 @@ export const plants: Plant[] = [
   ]
 },
 
+{
+  id: "zulu-plant",
+  name: "Zulu Plant",
+  scientificName: "Stapelia gigantea",
+  category: "Flowering Succulent",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "An unusual flowering succulent with upright, four-angled green stems and enormous star-shaped flowers featuring reddish markings and a distinctive carrion-like scent.",
+  description:
+    "Zulu Plant (Stapelia gigantea), also known as Giant Starfish Flower or Giant Carrion Flower, is a flowering succulent belonging to the Apocynaceae family. Native to southern Africa, it is recognised for its clusters of upright, fleshy, four-angled green stems and exceptionally large, star-shaped flowers. The flowers are usually pale yellow to cream with reddish or maroon markings, fine hairs and five elongated pointed lobes. Under favourable conditions, individual flowers may reach approximately 25–35 centimetres across. The flowers produce a scent resembling decaying organic matter, which attracts flies that act as pollinators. Despite its cactus-like appearance, Stapelia gigantea is not a true cactus. It thrives in warm conditions with bright filtered light, excellent drainage and careful watering. In Ghana, it can be grown successfully in sheltered outdoor containers, particularly when protected from prolonged heavy rainfall and excessive soil moisture. Its unusual flowers make it attractive to succulent collectors and botanical enthusiasts. The plant should be handled responsibly and kept away from pets and children who may chew its tissues.",
+  image: "/plants/zulu-plant.jpg",
+  light: "Bright indirect light to gentle morning sun",
+  water: "Allow soil to dry well between watering",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Grow Zulu Plant in a bright location receiving filtered sunlight or gentle morning sun.",
+    "Provide several hours of suitable bright light daily to encourage compact stem growth and support flowering.",
+    "Protect plants from prolonged harsh afternoon sunlight, particularly in exposed containers during Ghana's hottest periods.",
+    "Avoid prolonged deep shade because insufficient light can cause weak growth and reduced flowering.",
+    "Use a very well-draining succulent potting mix containing a substantial proportion of coarse mineral material.",
+    "Suitable drainage materials may include pumice, perlite, coarse horticultural grit or other clean, appropriately sized mineral aggregates.",
+    "Avoid heavy, compacted or water-retentive soil that remains saturated for extended periods.",
+    "Water thoroughly when the growing medium has dried sufficiently, then allow excess water to drain completely.",
+    "Allow the potting medium to dry well between watering sessions, adjusting frequency according to temperature, plant activity and container size.",
+    "Reduce watering significantly during prolonged rainy or cool periods when the soil dries slowly.",
+    "Protect outdoor containers from repeated heavy rainfall, particularly during Ghana's rainy season.",
+    "Avoid leaving water trapped around the base of the stems because excessive moisture can encourage rot.",
+    "Grow plants in shallow or moderately sized containers with adequate drainage holes.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold exposure.",
+    "Provide good air circulation around the stems to reduce prolonged surface moisture.",
+    "Feed lightly during active growth using a diluted, suitable succulent fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive nitrogen fertilization because it can encourage weak, overly soft growth.",
+    "Inspect stems regularly for mealybugs, scale insects and other common succulent pests.",
+    "Check for soft, darkened or collapsing stems that may indicate rot.",
+    "Remove diseased or rotting sections promptly using clean tools and prevent contaminated material from contacting healthy stems.",
+    "Handle flower buds carefully because physical damage or abrupt environmental changes may cause them to drop.",
+    "Avoid spraying water directly onto open flowers, particularly in humid conditions.",
+    "Remove decaying flowers when necessary to maintain hygiene around container-grown plants.",
+    "Repot when the growing medium deteriorates or the clump becomes excessively crowded.",
+    "Propagate healthy stems during active growth and allow cut surfaces to callus before planting.",
+    "Place flowering plants where their carrion-like scent will not disturb indoor living spaces."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings",
+      description:
+        "Zulu Plant is commonly propagated using healthy stem cuttings. Select a firm, disease-free stem and remove it using a clean cutting tool. Allow the cut surface to dry and callus in a shaded, well-ventilated location for several days or until adequately sealed. Place the cutting in a dry to barely moist, fast-draining succulent medium and maintain warm conditions with bright indirect light. Begin watering cautiously as roots establish, avoiding prolonged saturation."
+    },
+    {
+      method: "Clump Division",
+      description:
+        "Established plants may develop clusters of stems with separate rooted sections. Carefully divide suitable rooted portions from the parent clump and transplant them into individual containers with excellent drainage. Avoid excessive watering immediately after division, especially where roots have been damaged."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Where viable seeds are produced, they may be sown in a clean, well-draining propagation medium under warm conditions. Maintain controlled moisture and bright indirect light during germination. Seed-grown plants may take longer to reach flowering maturity than plants propagated from established stems."
+    }
+  ],
+  benefits: [
+    {
+      title: "Spectacular Star-Shaped Flowers",
+      description:
+        "Its exceptionally large, five-pointed flowers create a dramatic ornamental display."
+    },
+    {
+      title: "Unique Botanical Appearance",
+      description:
+        "The upright, four-angled succulent stems and patterned flowers make it distinctive among ornamental plants."
+    },
+    {
+      title: "Interesting Pollination Biology",
+      description:
+        "Its carrion-like floral scent attracts flies, providing an unusual example of specialised pollination."
+    },
+    {
+      title: "Suitable for Succulent Collections",
+      description:
+        "Zulu Plant is an appealing addition to specialist succulent collections and botanical displays."
+    },
+    {
+      title: "Vegetative Propagation Potential",
+      description:
+        "Healthy stem cuttings and suitable rooted divisions can be used to produce additional nursery plants."
+    },
+    {
+      title: "Educational Ornamental Value",
+      description:
+        "The plant offers opportunities to learn about succulent adaptations, unusual flowers and insect pollination."
+    }
+  ]
+},
+
+{
+  id: "earth-star-plant",
+  name: "Earth Star Plant",
+  scientificName: "Cryptanthus bivittatus",
+  category: "Tropical Foliage Plant",
+  careLevel: "Moderate",
+  shortDescription:
+    "A compact tropical bromeliad with a beautiful star-shaped rosette of striped green, pink or reddish leaves, ideal for decorative indoor planters and tropical plant collections.",
+  description:
+    "Earth Star Plant (Cryptanthus bivittatus), also known as Two-striped Earth Star, is a compact terrestrial bromeliad belonging to the Bromeliaceae family. Native to Brazil, this ornamental foliage plant is admired for its low-growing, star-shaped rosette of narrow, arching leaves with gently wavy or finely toothed margins. Depending on the cultivar and growing conditions, the leaves may display attractive combinations of green, pink, cream, bronze and reddish tones. Unlike many epiphytic bromeliads, Cryptanthus bivittatus naturally grows in soil or organic material at ground level and relies on its roots for moisture and nutrients. It thrives in warm, humid environments with bright indirect light and a loose, well-draining growing medium that retains moderate moisture. The plant produces small, relatively inconspicuous flowers near the centre of its rosette. After flowering, the original rosette gradually declines while producing offsets that can develop into new plants. In Ghana, Earth Star Plants are suitable for sheltered patios, indoor plant collections and decorative containers, provided they are protected from harsh direct sunlight and prolonged waterlogging.",
+  image: "/plants/earth-star-plant.jpg",
+  light: "Bright indirect light",
+  water: "Keep lightly moist; avoid waterlogging",
+  temperature: "65–85°F (18–29°C)",
+  careGuide: [
+    "Grow Earth Star Plant in bright indirect light to maintain healthy foliage and attractive leaf colours.",
+    "Provide gentle morning sunlight where appropriate, but protect the plant from prolonged harsh afternoon sun.",
+    "Avoid prolonged deep shade because insufficient light can cause fading colours and weak growth.",
+    "Use a loose, airy and well-draining potting mix that retains moderate moisture.",
+    "A suitable growing medium may contain coco coir, fine orchid bark, perlite and well-decomposed organic material.",
+    "Water when the upper layer of the potting medium begins to dry, keeping the root zone lightly moist during active growth.",
+    "Avoid allowing the soil to remain completely dry for extended periods because this may cause leaf-tip browning.",
+    "Do not keep the potting medium constantly saturated because excessive moisture can damage the roots and crown.",
+    "Grow the plant in a shallow container with adequate drainage holes.",
+    "Maintain moderate to high humidity, particularly in dry indoor environments.",
+    "Protect indoor plants from prolonged exposure to dry air from air conditioners or strong fans.",
+    "Maintain warm growing conditions and avoid prolonged exposure to temperatures below approximately 15°C.",
+    "Provide good air circulation around the plant to reduce prolonged moisture accumulation.",
+    "Avoid leaving standing water in the central rosette for extended periods, particularly where airflow is limited.",
+    "Use clean water when possible and avoid excessive mineral or fertilizer salt accumulation in the growing medium.",
+    "Feed lightly during active growth using a diluted balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because concentrated salts may damage sensitive roots and leaf tissue.",
+    "Remove dead or damaged leaves carefully using clean scissors.",
+    "Avoid unnecessary disturbance of the central growing point because damage may affect the plant's development.",
+    "Inspect regularly for mealybugs, scale insects and other common ornamental plant pests.",
+    "Monitor for brown leaf tips, faded foliage or soft crown tissue that may indicate unsuitable growing conditions.",
+    "Repot only when necessary because Earth Star Plants generally have relatively compact root systems.",
+    "Allow offsets to develop a suitable size before separating them from the parent plant.",
+    "Recognise that the original rosette gradually declines after flowering, while healthy offsets continue the plant's growth cycle.",
+    "Keep newly separated offsets in warm, humid conditions with bright indirect light until established.",
+    "Protect outdoor specimens from prolonged heavy rainfall and harsh exposed conditions during Ghana's rainy season."
+  ],
+  propagation: [
+    {
+      method: "Offset Separation",
+      description:
+        "Earth Star Plant is most commonly propagated through offsets, also called pups, that develop around the base of the parent rosette. Allow an offset to reach a substantial portion of the parent plant's size and preferably develop its own roots before separating it. Use a clean cutting tool and transplant the offset into a small container filled with a loose, lightly moist, well-draining medium. Maintain warmth, moderate humidity and bright indirect light while it establishes."
+    },
+    {
+      method: "Natural Clump Development",
+      description:
+        "Healthy Earth Star Plants may gradually develop clusters of connected rosettes. These can be left together to create a fuller ornamental display or carefully divided into smaller rooted sections when sufficiently mature. Avoid damaging the growing points during separation."
+    },
+    {
+      method: "Seed Propagation",
+      description:
+        "Where viable seeds are produced, they may be sown in a fine, clean propagation medium under warm, humid conditions. Maintain gentle moisture without saturating the medium. Seed propagation is generally slower and less convenient than offset separation, and seedlings may not reproduce the exact appearance of named cultivars."
+    }
+  ],
+  benefits: [
+    {
+      title: "Beautiful Star-Shaped Foliage",
+      description:
+        "Its distinctive rosette arrangement creates an attractive star-like appearance."
+    },
+    {
+      title: "Colourful Decorative Leaves",
+      description:
+        "The foliage may display striking green, pink, cream, bronze or reddish tones depending on the cultivar."
+    },
+    {
+      title: "Compact Growth Habit",
+      description:
+        "Its relatively small size makes it suitable for decorative tabletop containers and limited growing spaces."
+    },
+    {
+      title: "Suitable for Indoor Collections",
+      description:
+        "Earth Star Plant can thrive indoors when provided with sufficient indirect light, warmth and humidity."
+    },
+    {
+      title: "Natural Offset Production",
+      description:
+        "Mature plants produce offsets that can be used to establish additional plants."
+    },
+    {
+      title: "Botanical Educational Value",
+      description:
+        "Its terrestrial bromeliad growth habit and flowering life cycle make it an interesting plant for botanical study."
+    }
+  ]
+},
+
+{
+  id: "buddha-belly-plant",
+  name: "Buddha Belly Plant",
+  scientificName: "Jatropha podagrica",
+  category: "Caudiciform Succulent",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "A distinctive tropical ornamental plant with a swollen bottle-shaped trunk, broad green leaves and vibrant coral-red flower clusters. Poisonous if ingested.",
+  description:
+    "Buddha Belly Plant (Jatropha podagrica), also known as Gout Plant or Bottle Plant, is an ornamental caudiciform plant belonging to the Euphorbiaceae family. Native to parts of Central America, it is admired for its swollen, bottle-shaped stem base, known as a caudex, which stores water and supports the plant during periods of reduced moisture. The plant produces broad, often lobed green leaves on long stalks and distinctive clusters of small coral-red to orange-red flowers held above the foliage. Its unusual shape makes it attractive to collectors of caudiciform plants and tropical ornamentals. Buddha Belly Plant thrives in warm conditions with bright light, excellent drainage and moderate watering during active growth. It may naturally lose some or all of its leaves during dry periods or seasonal dormancy. In Ghana, it can be grown in sunny outdoor containers or sheltered garden locations, provided its roots are protected from prolonged waterlogging. All parts of the plant should be considered poisonous, particularly the seeds, and its milky sap may irritate skin and eyes. It should be grown only in locations where children and pets cannot access it.",
+  image: "/plants/buddha-belly-plant.jpg",
+  light: "Bright light to full morning sun",
+  water: "Moderate during active growth; reduce during dormancy",
+  temperature: "65–95°F (18–35°C)",
+  careGuide: [
+    "Grow Buddha Belly Plant in a warm location receiving bright light and several hours of gentle direct sunlight.",
+    "Provide morning sunlight where possible to encourage healthy growth and flowering.",
+    "Gradually acclimatise young or indoor-grown plants to stronger sunlight to reduce leaf scorching.",
+    "Protect tender foliage from prolonged intense afternoon sunlight when plants are not acclimatised.",
+    "Use a loose, fast-draining succulent potting mix containing suitable mineral drainage materials.",
+    "Avoid heavy, compacted or poorly drained soil because prolonged waterlogging can damage the roots and caudex.",
+    "Water thoroughly during active growth when the upper portion of the growing medium has dried.",
+    "Allow excess water to drain completely after watering.",
+    "Reduce watering when the plant begins losing leaves or enters a period of reduced growth.",
+    "Avoid frequent watering when the plant is leafless and using very little moisture.",
+    "Do not assume every instance of leaf loss indicates disease because seasonal dormancy can occur naturally.",
+    "Grow container plants in pots with adequate drainage holes.",
+    "Choose a stable container that can support the plant's swollen stem and developing foliage.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold exposure.",
+    "Protect outdoor container plants from repeated heavy rainfall during Ghana's rainy season.",
+    "Provide good airflow around the plant to reduce prolonged moisture accumulation.",
+    "Feed lightly during active growth using a diluted balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive nitrogen fertilization because it can encourage weak, overly soft growth.",
+    "Remove dead or damaged leaves using clean pruning tools.",
+    "Wear gloves and protect the eyes when handling damaged stems because the milky sap may cause irritation.",
+    "Avoid unnecessary cutting or damage to the swollen caudex.",
+    "Inspect regularly for mealybugs, scale insects, spider mites and other common ornamental plant pests.",
+    "Monitor for softening, darkening or collapse of the caudex, which may indicate serious rot.",
+    "Repot when necessary using a well-draining medium and avoid excessive root disturbance.",
+    "Keep the plant securely positioned away from children, pets and food preparation areas.",
+    "Never consume the seeds, leaves, stems, roots or other plant parts.",
+    "Collect and dispose of fallen seeds responsibly to prevent accidental ingestion or unwanted seedlings.",
+    "Wash hands thoroughly after handling the plant, even when gloves have been used."
+  ],
+  propagation: [
+    {
+      method: "Seed Propagation",
+      description:
+        "Buddha Belly Plant is commonly propagated from viable seeds. Because the seeds are poisonous, handle them with gloves and keep them securely away from children and pets. Sow legally obtained seeds in a clean, well-draining propagation medium under warm conditions. Maintain controlled moisture without saturating the soil. Seeds should not be eaten or handled casually, and mature seed capsules may release seeds forcefully when they split."
+    },
+    {
+      method: "Stem Cuttings",
+      description:
+        "Stem cuttings may be attempted using healthy plant material, although seed propagation is generally preferred for developing the characteristic swollen caudex. Wear protective gloves and eye protection when cutting because the plant produces irritating latex sap. Allow cut surfaces to dry appropriately before planting in a fast-draining medium. Rooting success may vary, and cuttings may not develop the same pronounced caudex shape as seed-grown specimens."
+    },
+    {
+      method: "Nursery Seedling Cultivation",
+      description:
+        "Young seedlings can be raised in individual containers with loose, well-draining soil and adequate warmth. Provide bright filtered light initially and gradually increase sunlight exposure as the plants establish. Water carefully during active growth and maintain strict safety precautions when handling seeds and young plants."
+    }
+  ],
+  benefits: [
+    {
+      title: "Unique Bottle-Shaped Trunk",
+      description:
+        "Its swollen caudex creates a striking sculptural appearance that distinguishes it from many conventional ornamental plants."
+    },
+    {
+      title: "Attractive Coral-Red Flowers",
+      description:
+        "Clusters of bright coral-red to orange-red flowers provide colourful ornamental interest."
+    },
+    {
+      title: "Interesting Caudiciform Growth",
+      description:
+        "Its water-storing stem makes it an interesting example of plant adaptation to periods of reduced moisture."
+    },
+    {
+      title: "Suitable for Specialist Collections",
+      description:
+        "The plant is particularly appealing to collectors interested in unusual tropical and caudiciform species."
+    },
+    {
+      title: "Decorative Container Potential",
+      description:
+        "Its compact, sculptural form can make it attractive in stable outdoor containers placed in secure locations."
+    },
+    {
+      title: "Botanical Educational Value",
+      description:
+        "Its swollen stem, seasonal leaf changes and distinctive flowers offer opportunities to study plant structure and adaptation."
+    }
+  ]
+},
+
+{
+  id: "blushing-philodendron",
+  name: "Blushing Philodendron",
+  scientificName: "Philodendron erubescens",
+  category: "Climbing Tropical Foliage Plant",
+  careLevel: "Easy to Moderate",
+  shortDescription:
+    "An attractive tropical climbing plant with glossy heart-shaped leaves, reddish stems and elegant foliage, ideal for shaded gardens and decorative indoor plant displays.",
+  description:
+    "Blushing Philodendron (Philodendron erubescens) is a tropical climbing foliage plant belonging to the Araceae family. Native to Colombia, it is recognised for its glossy, often heart-shaped leaves, reddish leaf stalks, coloured new growth and climbing stems that develop aerial roots. Leaf colour and shape can vary with maturity and cultivar. In its natural habitat, the plant grows as a climbing aroid, using trees and other structures for support. When cultivated with a moss pole, coir pole or suitable trellis, it can develop larger, more mature foliage over time. Blushing Philodendron thrives in warm, humid conditions with bright indirect light and a loose, well-draining growing medium. In Ghana, it can be grown indoors near bright windows or outdoors in sheltered positions protected from intense afternoon sunlight. Regular but controlled watering, good drainage and occasional pruning help maintain healthy growth. The plant contains insoluble calcium oxalate crystals that can cause irritation and injury if chewed or swallowed, so it should be kept away from children and pets.",
+  image: "/plants/blushing-philodendron.jpg",
+  light: "Bright indirect light to partial shade",
+  water: "Water when the upper soil begins to dry",
+  temperature: "65–90°F (18–32°C)",
+  careGuide: [
+    "Grow Blushing Philodendron in bright indirect light to encourage healthy foliage and strong growth.",
+    "Protect the plant from prolonged harsh afternoon sunlight because excessive direct sun can scorch the leaves.",
+    "Avoid prolonged deep shade because insufficient light may cause weak stems, smaller leaves and slow growth.",
+    "Use a loose, airy and well-draining aroid potting mix that retains moderate moisture.",
+    "A suitable growing medium may contain coco coir, orchid bark, perlite and well-decomposed organic material.",
+    "Water thoroughly when the upper portion of the potting medium begins to dry.",
+    "Allow excess water to drain completely after watering.",
+    "Avoid keeping the roots constantly saturated because prolonged waterlogging can cause root rot.",
+    "Reduce watering frequency during prolonged rainy periods or when indoor conditions slow soil drying.",
+    "Grow container plants in pots with adequate drainage holes.",
+    "Maintain warm growing conditions and protect the plant from prolonged cold exposure.",
+    "Provide moderate to high humidity where possible, particularly in dry indoor environments.",
+    "Keep the plant away from strong air-conditioning drafts that may cause excessive drying.",
+    "Provide a moss pole, coir pole or suitable trellis to support its natural climbing habit.",
+    "Secure young stems gently to the support without damaging the growing points.",
+    "Allow aerial roots to attach to a suitable support where practical, encouraging more stable climbing growth.",
+    "Prune excessively long or damaged stems using clean cutting tools.",
+    "Remove yellowing, dead or damaged leaves to maintain an attractive appearance.",
+    "Feed lightly during active growth using a balanced fertilizer according to the manufacturer's instructions.",
+    "Avoid excessive fertilization because accumulated salts can damage sensitive roots.",
+    "Inspect regularly for mealybugs, spider mites, thrips and scale insects.",
+    "Monitor for yellowing leaves, brown leaf margins or soft stems that may indicate unsuitable growing conditions.",
+    "Clean dusty leaves gently with a damp cloth to maintain their appearance.",
+    "Repot when roots become crowded or the growing medium deteriorates.",
+    "Propagate healthy stem sections containing at least one viable node.",
+    "Keep the plant away from children and pets because its calcium oxalate crystals can cause painful irritation if chewed or swallowed."
+  ],
+  propagation: [
+    {
+      method: "Stem Cuttings in Water",
+      description:
+        "Select a healthy stem section containing at least one viable node and preferably an aerial root. Use a clean cutting tool and remove any leaves that would sit below the waterline. Place the node in clean water while keeping the leaves above the surface. Maintain warmth and bright indirect light, replacing the water regularly. Once a suitable root system develops, transplant the cutting into an airy, well-draining potting mix."
+    },
+    {
+      method: "Stem Cuttings in Soil",
+      description:
+        "Take a healthy stem cutting containing one or more nodes. Place the cutting into a lightly moist, well-draining aroid propagation medium with at least one node in contact with the growing medium. Maintain warm conditions, moderate humidity and bright indirect light while roots develop. Avoid excessive watering during establishment."
+    },
+    {
+      method: "Air Layering",
+      description:
+        "Air layering can be used on established climbing stems. Wrap a suitable node or aerial root area with lightly moist sphagnum moss and secure it using a suitable covering that allows periodic inspection. Once sufficient roots have developed, cut below the rooted section and transplant it into an individual container."
+    }
+  ],
+  benefits: [
+    {
+      title: "Attractive Tropical Foliage",
+      description:
+        "Its glossy, heart-shaped leaves and reddish stems create an elegant ornamental appearance."
+    },
+    {
+      title: "Natural Climbing Growth",
+      description:
+        "The plant can be trained onto moss poles, trellises and other suitable supports for vertical displays."
+    },
+    {
+      title: "Suitable for Indoor Collections",
+      description:
+        "Blushing Philodendron can grow well indoors when provided with sufficient indirect light, warmth and appropriate watering."
+    },
+    {
+      title: "Decorative Red-Toned Growth",
+      description:
+        "Its reddish stems, petioles and emerging leaves provide visual contrast against mature green foliage."
+    },
+    {
+      title: "Vegetative Propagation Potential",
+      description:
+        "Healthy stem cuttings and air layering can be used to produce additional plants under suitable conditions."
+    },
+    {
+      title: "Versatile Ornamental Display",
+      description:
+        "It can be cultivated as a supported climbing plant or maintained as a compact container specimen through regular pruning."
+    }
+  ]
+}
+
+
+
 
 
 
