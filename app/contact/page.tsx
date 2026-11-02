@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Textarea } from "@/components/ui/textarea"
-
+import  MailchimpSignup  from "@/components/mailchimp-signup"
 export default function ContactPage() {
   return (
     <div className="flex flex-col min-h-screen">
@@ -63,45 +63,14 @@ export default function ContactPage() {
               </div>
             </div>
           </div>
-          <div className="space-y-6 rounded-lg border p-6">
-            <div className="space-y-2">
-              <h3 className="text-2xl font-bold">Send Us a Message</h3>
-              <p className="text-gray-500">We'll get back to you as soon as possible.</p>
-            </div>
-            <div className="space-y-4">
-              <div className="grid grid-cols-2 gap-4">
-                <div className="space-y-2">
-                  <Label htmlFor="first-name">First name</Label>
-                  <Input id="first-name" placeholder="John" />
-                </div>
-                <div className="space-y-2">
-                  <Label htmlFor="last-name">Last name</Label>
-                  <Input id="last-name" placeholder="Doe" />
-                </div>
-              </div>
-              <div className="space-y-2">
-                <Label htmlFor="email">Email</Label>
-                <Input id="email" type="email" placeholder="john@example.com" />
-              </div>
-              <div className="space-y-2">
-                <Label htmlFor="subject">Subject</Label>
-                <Input id="subject" placeholder="How can we help you?" />
-              </div>
-              <div className="space-y-2">
-                <Label htmlFor="message">Message</Label>
-                <Textarea
-                  id="message"
-                  placeholder="Please provide as much detail as possible..."
-                  className="min-h-[120px]"
-                />
-              </div>
-              <Button type="submit" className="w-full bg-green-600 hover:bg-green-700">
-                Send Message
-              </Button>
-            </div>
-          </div>
+          {/* Newsletter Signup */}
+         <MailchimpSignup />
+      {/* Visit Our Store */}
         </div>
       </section>
+      
+
+<section className="w-full py-12 md:py-24 lg:py-32 bg-[#f8faf5]"></section>
 
       <section className="w-full py-12 md:py-24 lg:py-32 bg-[#f8faf5]">
         <div className="container px-4 md:px-6">
